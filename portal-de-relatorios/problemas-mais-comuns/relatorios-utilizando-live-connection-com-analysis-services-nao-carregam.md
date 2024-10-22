@@ -12,15 +12,15 @@ Caso você não faça esse mapeamento, você irá ver a seguinte mensagem de err
 
 Esse processo se torna ainda mais complexo quando há múltiplos cubos, exigindo a configuração repetitiva para cada cubo, o que pode ser um tanto trabalhoso quanto propenso à erros.
 
+Para acessar um relatório que esteja utilizando um Analysis Services no Power BI serviço, você tem que configurar um mapeamento de usuários, informando o usuário do Entra ID (usuario@dominio.com.br) e o usuário do Windows Active Directory (DOMINIO\usuario) para cada usuário e em cada cubo que for acessar.
+
+Se você tem 100 usuários e 20 cubos, vai precisar criar 2.000 mapeamentos! E não existe API do Power BI para automatizar isso.
+
 
 
 ### Power Embedded sempre inovando
 
 Para melhorar a experiência dos nossos usuários, o Power Embedded está introduzindo melhorias significativas para simplificar essa configuração.
-
-Para acessar um relatório que esteja utilizando um Analysis Services no Power BI serviço ou no próprio Power Embedded antes dessa nova funcionalidade, você tinha que configurar um mapeamento de usuários, informando o usuário do Entra ID (usuario@dominio.com.br) e o usuário do Windows Active Directory (DOMINIO\usuario) para cada usuário e em cada cubo que for acessar.
-
-Se você tem 100 usuários e 20 cubos, vai precisar criar 2.000 mapeamentos! E não existe API do Power BI para automatizar isso.
 
 Na tela de criação/edição de um usuário, você pode informar o nome de usuário do Windows Active Directory (AD) para este usuário.
 
