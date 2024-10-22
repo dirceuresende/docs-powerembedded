@@ -42,6 +42,11 @@ Essa funcionalidade permite criar múltiplas organizações em um único tenant.
 
 ### Nova Organização
 
-Esse botão permite criar múltiplas organizações em um único tenant.
+Esse botão permite criar múltiplas organizações em um único tenant / instalação.
 
 Isso significa que, caso você queira ter ambientes distintos, usuários e relatórios separados, você pode criar uma nova organização.
+
+{% content-ref url="../../empresas/varias-empresas-ou-organizacoes.md" %}
+[varias-empresas-ou-organizacoes.md](../../empresas/varias-empresas-ou-organizacoes.md)
+{% endcontent-ref %}
+
