@@ -1,5 +1,5 @@
 ---
-icon: handshake
+icon: calendar-days
 ---
 
 # Agendar reunião

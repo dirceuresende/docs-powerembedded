@@ -26,7 +26,7 @@ Se você não tem um parceiro Microsoft para contratar as licenças do Power BI,
 
 ### O que a Microsoft diz sobre isso
 
-Conforme está explicado no artigo [Perguntas frequentes sobre licenciamento](../../power-embedded/perguntas-mais-frequentes/preco-e-licenciamento/), é possível utilizar uma capacidade Pro ou Premium por Usuário para gerar tokens para inserir os relatórios no Power Embedded, mas de acordo com a [documentação oficial da Microsoft:](https://learn.microsoft.com/pt-br/power-bi/developer/embedded/move-to-production)
+Conforme está explicado no artigo [Perguntas frequentes sobre licenciamento](../../perguntas-frequentes/preco-e-licenciamento/), é possível utilizar uma capacidade Pro ou Premium por Usuário para gerar tokens para inserir os relatórios no Power Embedded, mas de acordo com a [documentação oficial da Microsoft:](https://learn.microsoft.com/pt-br/power-bi/developer/embedded/move-to-production)
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 

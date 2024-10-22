@@ -1,5 +1,5 @@
 ---
-icon: hand-wave
+icon: house
 layout:
   title:
     visible: true
@@ -13,7 +13,7 @@ layout:
     visible: true
 ---
 
-# Power Embedded
+# Início
 
 Seja bem-vindo à documentação do Power Embedded, onde você irá conhecer melhor a solução e entender como o portal funciona e tirar boa parte das suas dúvidas.
 
