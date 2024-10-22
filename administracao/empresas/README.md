@@ -30,7 +30,9 @@ Em configurações iniciais você preencha as informações abaixo:
 
 A funcionalidade de “tipo de visualização padrão dos relatórios”, irá impactar diretamente na visualização do portal de relátórios, ou seja definindo qual vai ser o modo que ele irá visualizar os relatórios assim que ele logar.
 
-**Observação:** Caso não deseje incorrer em custos adicionais com subdomínios, é possível simplesmente utilizar o subdomínio existente e personalizar apenas o portal de visualização. Quando o usuário acessar, será redirecionado para a empresa configurada.
+{% hint style="warning" %}
+**Observação:** Se você não quer ter custos adicionais com subdomínios, é possível simplesmente utilizar o subdomínio existente e personalizar apenas o portal de visualização. Quando o usuário acessar, será redirecionado para a empresa configurada.
+{% endhint %}
 
 
 
