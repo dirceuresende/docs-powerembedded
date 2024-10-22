@@ -46,4 +46,14 @@ O melhor caminho para realizar essa estimativa, seria utilizando o período de 6
 
 A partir do momento que o workspace é alterado para utilizar a capacidade do Fabric, o Power BI começa a coletar dados e estatísticas do uso real dessa capacidade.
 
-Utilizando o relatório “Fabric Capacity Usage Metrics”, disponibilizado pela própria Microsoft, é possível identificar com muito mais precisão qual capacidade que o seu ambiente necessita.
+Utilizando o relatório “[Fabric Capacity Usage Metrics](https://appsource.microsoft.com/en-us/product/power-bi/pbi\_pcmm.microsoftpremiumfabricpreviewreport)”, disponibilizado pela própria Microsoft, é possível identificar com muito mais precisão qual capacidade que o seu ambiente necessita.
+
+Se você já for cliente do Power Embedded, terá acesso GRATUITO ao curso de Análises de Capacidades com o Microsoft Fabric.
+
+{% embed url="https://cursos.powertuning.com.br/course/microsoft-fabric-analise-de-capacidade" %}
+
+{% hint style="info" %}
+Se você tiver interesse em ter acesso gratuito ao curso, entre em contato com o time de suporte, informe seu email e solicite seu acesso.
+
+**Observação:** Disponível apenas para clientes após o período de avaliação gratuito.
+{% endhint %}
