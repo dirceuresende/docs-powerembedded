@@ -11,13 +11,13 @@
     * [Dúvidas técnicas](power-embedded/perguntas-mais-frequentes/duvidas-tecnicas.md)
   * [Como iniciar a avaliação gratuita de 30 dias](power-embedded/como-iniciar-a-avaliacao-gratuita-de-30-dias.md)
   * [Capacidades dedicadas](power-embedded/capacidades-dedicadas.md)
-  * [Política de Privacidade](power-embedded/politica-de-privacidade.md)
 * [Agendar reunião](agendar-reuniao/README.md)
   * [Apresentação](https://powerembedded.com.br/apresentacao)
   * [Instalação](https://powerembedded.com.br/instalacao)
   * [Suporte](https://powerembedded.com.br/reuniao-suporte)
 * [Calculadora](https://powerembedded.com.br/calculadora)
 * [Parceria Azure](https://powertuning.com.br/parceria-azure)
+* [Política de Privacidade](politica-de-privacidade.md)
 
 ## Portal de Relatórios
 

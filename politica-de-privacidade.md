@@ -1,3 +1,7 @@
+---
+icon: fingerprint
+---
+
 # Política de Privacidade
 
 Este site é mantido e operado por **Power Tuning – Soluções em TI Ltda**.
