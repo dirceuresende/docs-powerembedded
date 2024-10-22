@@ -1,6 +1,6 @@
 # Dúvidas técnicas
 
-### Como o Power Embedded funciona internamente?
+### 1. Como o Power Embedded funciona internamente?
 
 <figure><img src="https://powerembedded.com.br/wp-content/uploads/2024/04/Power-Embedded-Internals-Exibicao-do-Relatorio.png" alt=""><figcaption></figcaption></figure>
 
@@ -38,7 +38,7 @@ O funcionamento interno para importação dos relatórios do Power BI para o Pow
 
 
 
-### Segurança interna do Power Embedded
+### 2. Segurança interna do Power Embedded
 
 A segurança interna do Power Embedded é extremamente robusta e o sistema utiliza uma arquitetura toda baseada em recursos SaaS auto-gerenciados no Azure, onde a gestão é feita pela Microsoft, backups automáticos e alta disponibilidade da aplicação e do banco de dados por zonas de disponibilidade com failover automático e com garantia de disponibilidade de 99,99%.
 
@@ -56,7 +56,7 @@ A chave da API pública é criptografada utilizando um algoritmo de HASH que nã
 
 
 
-### Controles de privacidade e LGPD
+### 3. Controles de privacidade e LGPD
 
 O processo de embeddar os relatórios no sistema não requer o carregamento ou leitura de nenhum dado dos nossos clientes.
 
@@ -70,7 +70,7 @@ A nível de segurança, toda a comunicação do Power Embedded é criptografada 
 
 
 
-### Diferenças entre o Embedded, "Publicar na Web" e "Inserir Relatório"
+### 4. Diferenças entre o Embedded, "Publicar na Web" e "Inserir Relatório"
 
 Embora as 3 opções permitam embeddar relatórios em websites, sharepoint, e-mail, teams, etc.., elas são bem diferentes.
 
@@ -104,7 +104,7 @@ Mesmo que você tente bloquear o acesso utilizando uma senha para abrir o portal
 
 
 
-### Processo de publicação dos relatórios
+### 5. Processo de publicação dos relatórios
 
 O processo de importação e publicação dos relatórios no Power Embedded é praticamente o mesmo que já existe no Power BI serviço tradicional:
 
@@ -122,7 +122,7 @@ O processo de importação e publicação dos relatórios no Power Embedded é p
 
 
 
-### Atualizações do sistema
+### 6. Atualizações do sistema
 
 O Power Embedded é um sistema muito dinâmico, e o nosso time está sempre atento aos pedidos e necessidades dos nossos clientes e também aos novos recursos disponibilizados pela Microsoft.
 
@@ -132,7 +132,7 @@ Sempre que uma funcionalidade ou melhoria for implementada, aplicamos e disponib
 
 
 
-### Personalizações do sistema
+### 7. Personalizações do sistema
 
 Caso seja solicitada uma alteração no Power Embedded e personalização não poderá ser aplicada para os demais clientes e ficará restrita apenas para a sua empresa, iremos agendar uma reunião com a sua equipe para entender melhor a sua necessidade e enviaremos uma proposta comercial para implantar essa personalização no sistema.
 
