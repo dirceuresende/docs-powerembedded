@@ -48,7 +48,7 @@ Essas melhorias não apenas otimizam a administração de segurança, mas també
 
 ### Adicionar permissão de Administrador ao Gateway
 
-Para ser possível utilizar corretamente os gateways para acessar o Power Embedded e implementar o RLS, é necessário liberar uma permissão para o usuário do aplicativo (PowerEmbedded-App) no Power BI Serviço.
+Para que o Power Embedded consiga implementar a segurança a nível de linha (RLS) nos cubos que utilizam esse Gateway, é necessário liberar a permissão de Administrador para o usuário do aplicativo (PowerEmbedded-App) no Gateway pelo Power BI Serviço.
 
 Acesse a tela de [Gerenciar conexões e gateways](https://app.powerbi.com/groups/me/gateways) e clique na opção _**Gerenciar gateways de dados locais.**_
 
