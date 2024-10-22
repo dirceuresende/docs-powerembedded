@@ -1,6 +1,6 @@
 # Capacidades dedicadas
 
-### Fabric? Power BI Embedded? O que são essas capacidades?
+### 1. Fabric? Power BI Embedded? O que são essas capacidades?
 
 As capacidades são recursos do Power BI que licenciam a solução do Power Embedded junto à Microsoft e permitem utilizar as API’s, de forma legal e ilimitada, para inserir os relatórios publicados no sistema e não precisar de licença para visualizar os relatórios.
 
@@ -24,7 +24,7 @@ Observações:
 
 
 
-### Enquanto a capacidade estiver pausada, ninguém acessa os relatórios?
+### 2. Enquanto a capacidade estiver pausada, ninguém acessa os relatórios?
 
 Enquanto a capacidade estiver pausada, ninguém acessa os relatórios, nem mesmo acessando pelo powerbi.com com uma conta Pro ou PPU. Os conjuntos de dados também não serão atualizados.
 
@@ -37,7 +37,7 @@ Quando o Power Embedded identificar que não tem mais usuários acessandos os re
 
 
 
-### O que seria isso de 24x7, 14x6 e 12x5?
+### 3. O que seria isso de 24x7, 14x6 e 12x5?
 
 A cobrança do Power BI Embedded e do Fabric são calculadas por hora em que a capacidade ficou ligada e essas horas são somadas ao final do faturamento para gerar o valor que você irá pagar no mês.
 
@@ -55,7 +55,7 @@ Vale lembrar que quando a capacidade do Fabric ou Embedded está pausada, para e
 
 
 
-### Minha empresa já tem o Power BI Premium. Preciso contratar o Embedded?
+### 4. Minha empresa já tem o Power BI Premium. Preciso contratar o Embedded?
 
 Se a sua empresa já possui o Power BI Premium (por capacidade), seus usuários podem acessar os relatórios que estão publicados no próprio portal do Power BI (powerbi.com) sem precisar de licença para visualizar.
 
@@ -67,7 +67,7 @@ As capacidades Premium (tier P) foram descontinuadas e substituídas pelo Fabric
 
 
 
-### Uma empresa concorrente conseguiu um valor bem mais baixo do Embedded
+### 5. Uma empresa concorrente conseguiu um valor bem mais baixo do Embedded
 
 Como trabalhamos com os preços oficiais da Microsoft, não é possível conseguir um preço mais baixo, uma vez que não temos **nenhuma** margem de lucro em cima da capacidade, inclusive, fazemos a contratação da capacidade direto pelo portal do Azure, com o cliente acompanhando todo o processo.
 
@@ -77,7 +77,7 @@ Outra forma de conseguir reduzir o valor do Embedded, é alocando vários client
 
 
 
-### Não tenho conta do Azure para contratar a capacidade
+### 6. Não tenho conta do Azure para contratar a capacidade
 
 Sem problema algum, podemos te ajudar na contração da capacidade.
 
