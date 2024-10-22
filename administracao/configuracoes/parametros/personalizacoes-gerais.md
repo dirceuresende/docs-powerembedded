@@ -28,6 +28,24 @@ Você pode definir qual vai ser a visualização padrão que o usuário vai ter 
 
 <figure><img src="../../../.gitbook/assets/modo-padrao-de-visulizacao.png" alt=""><figcaption></figcaption></figure>
 
+
+
+### Tipo de visualização das pastas
+
+No Power Embedded, é possível escolher o tipo de visualização das pastas no portal de relatórios.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/image (366).png" alt=""><figcaption><p>Pastas no modo "Retângulo pequeno"</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/image (367).png" alt=""><figcaption><p>Pastas no modo "Cartão"</p></figcaption></figure>
+
+</div>
+
+
+
 ### **Layout das páginas do portal de visualização**
 
 Esse drop-down permite definir quais elementos serão visualizados na tela, dentro do portão de visualização e de um relatório.
