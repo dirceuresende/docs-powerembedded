@@ -174,7 +174,7 @@
   * [Trial do Fabric](documentacao-tecnica/instalacao/trial-do-fabric.md)
   * [Power BI Embedded](documentacao-tecnica/instalacao/power-bi-embedded.md)
 * [Documento de apresentação comercial](https://powerembedded.com.br/apresentacao-comercial)
-* [Documento de arquitetura do sistema](https://powerembedded.com.br/arquitetura)
+* [Documento de arquitetura do sistema](https://docs.powerembedded.com.br/inicio/documento-de-arquitetura-do-sistema)
 * [API](documentacao-tecnica/api/README.md)
   * [Automações com APIs](documentacao-tecnica/api/automacoes-com-apis.md)
   * [Mostrar relatório no seu sistema](documentacao-tecnica/api/mostrar-relatorio-no-seu-sistema.md)
