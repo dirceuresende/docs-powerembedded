@@ -73,6 +73,8 @@
   * [Importar com API](administracao/usuarios/importar-com-api.md)
   * [Bloqueios e senhas](administracao/usuarios/bloqueios-e-senhas.md)
   * [Convidar usuário externo para acessar o portal de administração](administracao/usuarios/convidar-usuario-externo-para-acessar-o-portal-de-administracao.md)
+  * [Usuário do Windows AD (Analysis Services)](administracao/usuarios/usuario-do-windows-ad-analysis-services.md)
+  * [Personalização do método de autenticação por usuário ou grupo](administracao/usuarios/personalizacao-do-metodo-de-autenticacao-por-usuario-ou-grupo.md)
 * [Grupos](administracao/grupos/README.md)
   * [Criar/editar grupo](administracao/grupos/criar-editar-grupo.md)
   * [Importar arquivo CSV](administracao/grupos/importar-arquivo-csv.md)
