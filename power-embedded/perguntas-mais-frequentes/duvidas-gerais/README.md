@@ -1,14 +1,20 @@
 # Dúvidas gerais
 
-### Como funciona essa economia do Power Embedded?
+### 1. Como funciona essa economia do Power Embedded?
 
-{% content-ref url="como-funciona-essa-economia-do-power-embedded.md" %}
-[como-funciona-essa-economia-do-power-embedded.md](como-funciona-essa-economia-do-power-embedded.md)
-{% endcontent-ref %}
+A economia do Power Embedded funciona assim: Ao invés de acessar o portal do Power BI (powerbi.com), exigindo assim uma licença para cada pessoa, os seus usuários irão acessar os relatórios pelo portal da Power Tuning, que não requer conta Microsoft e nem licença de Power BI, pois a capacidade contratada permite o acesso aos relatórios por meio de uma aplicação.
+
+Sua empresa contrata uma capacidade dedicada com a Microsoft (Capacidade Fabric ou Embedded), através do portal do Azure, nós configuramos o sistema para integrar com o seu Power BI, utilizando uma conta de serviço da sua empresa (criada durante a instalação), e os seus usuários passam a acessar os relatórios pelo Power Embedded ao invés de usar o portal do Power BI.
+
+Tudo isso de forma legal e em compliance com a Microsoft, pois as capacidades Embedded foram criadas justamente para isso.
+
+Não é possível utilizar o Power Embedded sem uma capacidade dedicada.
+
+A não ser que você contrate uma capacidade F64 ou superior, também não é possível utilizar uma capacidade dedicada para visualizar relatórios sem precisar de uma conta Pro para cada usuário se você não tiver um portal externo de visualização, como o Power Embedded.
 
 
 
-### A partir de quantos usuários o Power Embedded é vantajoso para minha empresa?
+### 2. A partir de quantos usuários o Power Embedded é vantajoso para minha empresa?
 
 Para estimar a partir de quantos usuários o Power Embedded é mais barato que a sua licença atual, dependemos de algumas informações do seu ambiente e de qual o tipo de licenciamento que você utiliza atualmente.
 
@@ -26,7 +32,7 @@ A tabela abaixo pode ajudar a visualizar os cenários quando o Power Embedded é
 
 
 
-### A Microsoft permite o uso do Power Embedded? Isso é realmente legal?
+### 3. A Microsoft permite o uso do Power Embedded? Isso é realmente legal?
 
 Com certeza, a Microsoft permite o uso do Power Embedded e é uma solução 100% legal. A Power Tuning é uma empresa Microsoft Solutions Partner desde 2018, e uma das líderes em vendas de Azure no Brasil e, portanto, tem um forte relacionamento com a Microsoft e a distribuidora TD Synnex, e em hipótese alguma iria desenvolver um produto que utilizasse alguma licença ilegal ou mecanismo que quebre o contrato de uso com a Microsoft.
 
@@ -44,11 +50,9 @@ Neste [link aqui](https://powerbi.microsoft.com/pt-br/blog/power-bi-embedded-wit
 
 Neste[ link abaixo](https://learn.microsoft.com/pt-br/power-bi/developer/embedded/embedded-faq#quem-precisa-de-uma-licen-a-power-bi-pro-ou-ppu--premium-por-usu-rio--para-o-power-bi-embedded-e-por-qu--), a Microsoft deixa explícito que alteração e criação de relatórios por meio de um portal que utilize o licenciamento do Power BI Embedded, não requer uma licença PRO ou PPU para isso, e por tanto, a alteração e criação de relatórios pelo Power Embedded é totalmente legal e suportada.
 
-<figure><img src="https://powerembedded.com.br/wp-content/uploads/2024/04/O-Power-Embedded-e-legal-Print-2-1024x439.png" alt=""><figcaption></figcaption></figure>
 
 
-
-### O que eu preciso ter para utilizar o Power Embedded?
+### 4. O que eu preciso ter para utilizar o Power Embedded?
 
 Como o Power Embedded é um sistema no formato SaaS, você não precisará contratar ou gerenciar nenhum servidor, aplicação ou banco de dados, irá apenas utilizar o software como um serviço.
 
@@ -62,7 +66,7 @@ Durante a reunião de instalação do sistema, que é feita junto com o cliente,
 
 
 
-### É possível testar ou fazer uma PoC o Power Embedded?
+### 5. É possível testar ou fazer uma PoC o Power Embedded?
 
 Sempre encorajamos que as empresas testem exaustivamente a nossa solução para garantir que ela atenda bem e supere as expectativas dos nossos clientes.
 
@@ -74,7 +78,7 @@ O único custo que não conseguimos incluir na gratuidade é o licenciamento da 
 
 
 
-### Preciso contratar o portal da Power Tuning? Não posso usar o da Microsoft?
+### 6. Preciso contratar o portal da Power Tuning? Não posso usar o da Microsoft?
 
 A Microsoft disponibiliza a contratação da capacidade do Power BI Embedded (ou Fabric) pelo Azure, que nada mais é que um recurso que permite gerar uma quantidade ILIMITADA de tokens para embeddar relatórios.
 
@@ -88,7 +92,7 @@ Outra opção é contratar um portal já pronto, com tudo isso (e MUITO mais) j�
 
 
 
-### Quanto tempo demora para ter o Power Embedded na minha empresa?
+### 7. Quanto tempo demora para ter o Power Embedded na minha empresa?
 
 A partir do momento em que a proposta comercial de utilização do Power Embedded for aprovada, em até 16h úteis nós faremos o contato para agendar a instalação do sistema, que geralmente demora de 20 a 60 minutos.
 
@@ -96,7 +100,7 @@ Lembre-se de conferir se todos os pré-requisitos para a instalação (tópico a
 
 
 
-### Os meus usuários poderão acessar os relatórios usando dispositivos móveis (celulares) ?
+### 8. Os meus usuários poderão acessar os relatórios usando dispositivos móveis (celulares) ?
 
 Sim, todo o sistema é responsivo e funciona perfeitamente em dispositivos móveis, como celulares e tablets.
 
@@ -104,7 +108,7 @@ Caso o relatório tenha sido criado no Power BI Desktop com suporte a layout mob
 
 
 
-### Posso cancelar o Power Embedded? Existe alguma multa?
+### 9. Posso cancelar o Power Embedded? Existe alguma multa?
 
 Pode cancelar a qualquer momento, basta nos comunicar que iremos gerar e enviar o faturamento do mês atual para pagamento.
 
