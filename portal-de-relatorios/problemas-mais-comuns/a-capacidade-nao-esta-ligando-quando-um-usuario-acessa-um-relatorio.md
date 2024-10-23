@@ -38,7 +38,7 @@ Caso o usuário esteja tentando acessar o relatório quando a capacidade está d
 ### 1. Verifique se as permissões foram atribuídas no Azure
 
 {% hint style="info" %}
-Acesse a página [Permissões no Azure](../../administracao/artefatos/capacidades/permissoes-no-azure.md) para verificar como atribuir as permissões corretamente e o Power Embedded conseguir controlar a capacidade.
+Acesse a página [Permissões no Azure](../../portal-de-administracao/artefatos/capacidades/permissoes-no-azure.md) para verificar como atribuir as permissões corretamente e o Power Embedded conseguir controlar a capacidade.
 {% endhint %}
 
 
@@ -60,7 +60,7 @@ Caso você veja a mensagem "Não configurado" ao lado da capacidade, quer dizer 
 <figure><img src="../../.gitbook/assets/image (346).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Precisa de ajuda? Acesse a página [Configurar a capacidade no Power Embedded](../../administracao/artefatos/capacidades/configurar-a-capacidade-no-power-embedded.md).
+Precisa de ajuda? Acesse a página [Configurar a capacidade no Power Embedded](../../portal-de-administracao/artefatos/capacidades/configurar-a-capacidade-no-power-embedded.md).
 {% endhint %}
 
 

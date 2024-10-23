@@ -49,5 +49,5 @@ Para associar um usuário a uma regra de RLS, você tem 3 formas de fazer essa c
 Na página de Segurança, você poderá configurar as regras de segurança a nível de linha (RLS) ou a nível de objeto/tabela/coluna (OLS).
 
 {% hint style="info" %}
-Para saber mais sobre essa configuração, acesse o artigo [Segurança (RLS)](../../administracao/relatorios/seguranca-rls.md).
+Para saber mais sobre essa configuração, acesse o artigo [Segurança (RLS)](../../portal-de-administracao/relatorios/seguranca-rls.md).
 {% endhint %}
