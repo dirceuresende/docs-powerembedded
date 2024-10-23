@@ -11,3 +11,10 @@ Agora você precisa analisar o relatório [Fabric Capacity Metrics](https://apps
 <figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 Se precisar de ajuda para realizar essa análise, [agende uma reunião](https://powerembedded.com.br/reuniao-suporte) com o time de suporte.
+
+
+
+{% hint style="info" %}
+**Observação:** Clientes do Power Embedded têm acesso GRATUITO ao workshop do Rafael Mendonça sobre [análise de capacidade do Fabric](https://cursos.powertuning.com.br/course/microsoft-fabric-analise-de-capacidade).
+{% endhint %}
+
