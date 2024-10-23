@@ -61,6 +61,7 @@
   * [Embedding a DirectLake report is not supported](portal-de-relatorios/problemas-mais-comuns/embedding-a-directlake-report-is-not-supported.md)
   * [Não foi possível abrir o relatório pois o Power Embedded não enviou as informações do modelo](portal-de-relatorios/problemas-mais-comuns/nao-foi-possivel-abrir-o-relatorio-pois-o-power-embedded-nao-enviou-as-informacoes-do-modelo.md)
   * [Relatórios utilizando Live Connection com Analysis Services não carregam](portal-de-relatorios/problemas-mais-comuns/relatorios-utilizando-live-connection-com-analysis-services-nao-carregam.md)
+  * [Sua capacidade de avaliação gratuita do Fabric expirará em X dias](portal-de-relatorios/problemas-mais-comuns/sua-capacidade-de-avaliacao-gratuita-do-fabric-expirara-em-x-dias.md)
 
 ## Portal de Administração
 
