@@ -1,7 +1,7 @@
 ---
 description: >-
-  Dicas das configurações inicias para ter uma boa experiência na utilização do
-  Power Embedded
+  Dicas das configurações iniciais para ter uma boa experiência na utilização do
+  Power Embedded.
 ---
 
 # Primeiro Acesso
