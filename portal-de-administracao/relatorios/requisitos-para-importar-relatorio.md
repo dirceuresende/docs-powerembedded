@@ -24,6 +24,8 @@ Na tela que foi aberta, clique no menu “Informações da licença”, depois e
 * Capacidade de Malha (Fabric)
 * Avaliação (Fabric Trial = F64)
 
+<figure><img src="../../.gitbook/assets/image (369).png" alt=""><figcaption></figcaption></figure>
+
 A escolha da licença irá depender qual foi o tipo de licença contratada e está disponível no seu ambiente.
 
 {% hint style="warning" %}
@@ -33,8 +35,6 @@ Além disso, o seu usuário precisa estar configurado como **Administrador de ca
 
 A opção **Avaliação** só ficará disponível caso o seu usuário tenha alguma avaliação do Fabric ativada.
 {% endhint %}
-
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 No campo “Capacidade de licença”, selecione o recurso que você criou anteriormente na lista.
 
