@@ -36,7 +36,7 @@ Todas as funcionalidades estarão disponíveis (com exceção do RLS), como perm
 
 
 
-### 3. Como importar de arquivos
+### 3. Como importar um arquivo da Web
 
 Até mesmo arquivos podem ser acessados utilizando esse recurso, como, por exemplo, um documento PDF hospedado numa conta do OneDrive ou em um SharePoint
 
