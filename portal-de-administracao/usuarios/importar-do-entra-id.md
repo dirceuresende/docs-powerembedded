@@ -8,9 +8,19 @@ Você irá selecionar os usuários que deseja importar, e esses e-mails serão a
 
 Há também uma opção no rodapé desta página de incluir os grupos do ID. Ao marcar essa opção, todos os grupos em que o usuário está inserido na organização da empresa serão importados e associados ao usuário.
 
+{% hint style="warning" %}
 Observação: Caso o usuário esteja em muitos grupos, essa ação pode acabar gerando uma dificuldade de organização para o seu ambiente dentro do Power Embedded, uma vez que terão muitos grupos cadastrados.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (186).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+Se você quiser sincronizar os grupos e seus usuários de forma automática ao invés de uma importação pontual, leia o artigo [Sincronizar Grupos com Entra ID](../grupos/sincronizar-com-entra-id.md).
+
+
+
+Se você não quiser sincronizar os grupos, mas apenas realizar uma importação pontual de grupos e seus usuários, leia o artigo [Importar Grupos do Entra ID](../grupos/importar-do-entra-id.md).
+{% endhint %}
 
 
 

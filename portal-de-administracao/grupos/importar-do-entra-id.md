@@ -12,6 +12,14 @@ Há também uma opção no rodapé desta página de incluir os usuários do grup
 
 <figure><img src="../../.gitbook/assets/image (251).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+Se você quiser sincronizar os grupos e seus usuários de forma automática ao invés de uma importação pontual, leia o artigo [Sincronizar Grupos com Entra ID](sincronizar-com-entra-id.md).
+
+
+
+Se você quiser importar alguns usuários pontualmente, ao invés de importar um grupo, leia o artigo [Importar Usuário do Entra ID](../usuarios/importar-do-entra-id.md).
+{% endhint %}
+
 
 
 ### Requisitos para a integração com Entra ID

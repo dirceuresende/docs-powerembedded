@@ -12,7 +12,13 @@ A sincronização é uma funcionalidade que permite realizar essa sincronia com 
 
 <figure><img src="../../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
 
-Se você não quiser sincronizar os usuários e sim apenas realizar uma importação pontual, leia o artigo [Importação de Grupos e Usuários do Entra ID (Azure AD)](https://powerembedded.com.br/importacao-grupos-usuarios-entra-id-azure-ad/).
+{% hint style="info" %}
+Se você não quiser sincronizar os grupos, mas apenas realizar uma importação pontual de grupos e seus usuários, leia o artigo [Importar Grupos do Entra ID](importar-do-entra-id.md).
+
+
+
+Se você quiser importar alguns usuários pontualmente, ao invés de importar ou sincronizar um grupo, leia o artigo [Importar Usuário do Entra ID](../usuarios/importar-do-entra-id.md).
+{% endhint %}
 
 
 
