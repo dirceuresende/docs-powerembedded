@@ -27,7 +27,7 @@ Para acessar essa tela, [clique aqui](https://admin.powerembedded.com.br/Users).
 Após a criação dos usuários, lembre-se de definir as permissões desses usuários, configurar quais grupos eles fazem parte, quais relatórios irão acessar e as permissões que eles terão.
 
 {% hint style="info" %}
-Para saber mais sobre a criação e gerenciamento dos usuários, acesse a página Usuários
+Para saber mais sobre a criação e gerenciamento dos usuários, acesse a página [Gerenciamento de Usuários](usuarios/).
 {% endhint %}
 
 
