@@ -1,6 +1,6 @@
 # Você atingiu o limite de uso de uma capacidade compartilhada (Pro ou PPU) para embeddar relatórios
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### O que essa mensagem de erro significa
 
@@ -28,13 +28,13 @@ Se você não tem um parceiro Microsoft para contratar as licenças do Power BI,
 
 Conforme está explicado no artigo [Perguntas frequentes sobre licenciamento](../../perguntas-frequentes/preco-e-licenciamento/), é possível utilizar uma capacidade Pro ou Premium por Usuário para gerar tokens para inserir os relatórios no Power Embedded, mas de acordo com a [documentação oficial da Microsoft:](https://learn.microsoft.com/pt-br/power-bi/developer/embedded/move-to-production)
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 A página de [perguntas e respostas do Power BI Embedded](https://learn.microsoft.com/pt-br/power-bi/developer/embedded/embedded-faq#quantos-tokens-inseridos-posso-criar-) reafirma que contas Pro não podem ser utilizadas para soluções de Embedded em produção:
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
