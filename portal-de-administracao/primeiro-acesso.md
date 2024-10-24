@@ -11,7 +11,7 @@ Para personalizar a URL do portal e utilizar o seu domínio, acesse [Configuraç
 {% endhint %}
 
 {% hint style="warning" %}
-Para que o faturamento automático do sistema gere as cobranças nos vencimentos desejados e envie para a lista de pessoas correta ou informar número do pedido de compras, acesse [Configurações de Faturamento](faturamento/configurar-faturamento.md).
+Para que o faturamento automático do sistema gere as cobranças nos vencimentos desejados e envie para a lista de pessoas correta ou informar número do pedido de compras, acesse [Configurações de Faturamento](https://admin.powerembedded.com.br/Organization/BillingSettings/).
 {% endhint %}
 
 
