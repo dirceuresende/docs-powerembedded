@@ -14,7 +14,13 @@ Para adicionar o usuário como contribuidor vá em **Access control (IAM) > Add 
 
 
 
-Nessa nova tela clique em **Priveleged admnistrator roles > Contributor > Members**
+Nessa nova tela, clique na aba **Members**, depois **Priveleged admnistrator roles** e marque a permissão **Contributor.**
+
+{% hint style="warning" %}
+A permissão de **Contributor** na capacidade para o usuário do Power Embedded (PowerEmbedded-App) é necessária para permitir o sistema possa alterar o SKU (Tamanho) da capacidade, seja manualmente ou na Otimização de custos.
+
+Se não for necessário que o Power Embedded possa alterar o SKU da capacidade, se limitando apenas à ligar/desligar a capacidade, você pode liberar a permissão de **Reader (Leitor)** ao invés de **Contributor**, que é menos permissiva.
+{% endhint %}
 
 <figure><img src="../../../.gitbook/assets/image (53).png" alt=""><figcaption></figcaption></figure>
 
