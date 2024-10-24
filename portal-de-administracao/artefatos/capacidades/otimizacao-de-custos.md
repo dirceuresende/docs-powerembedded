@@ -47,3 +47,10 @@ Fora desse horário, a capacidade funcionará com base na demanda. Por exemplo, 
 Se algum usuário tentar acessar o relatório fora do horário programado e ele tiver a permissão ativa no cadastro de usuário ou grupo, a capacidade será ligada, e quando atingir o tempo de inatividade definido por você, ela será desligada.
 {% endhint %}
 
+
+
+### Redimensionamento automático
+
+{% hint style="info" %}
+Se você tem a necessidade de alterar o SKU (Tamanho) da capacidade automaticamente em horários definidos, acesse [Redimensionamento automático](redimensionamento-automatico.md).
+{% endhint %}
