@@ -4,7 +4,7 @@
 
 Para que seja possível importar os relatórios do Power BI para o Power Embedded, você precisará fazer duas coisas no workspace:
 
-1. Alterar a capacidade do Workspace para capacidade Premium (Microsoft Fabric Power BI Embedded).
+1. Alterar a capacidade do Workspace para capacidade Premium (Microsoft Fabric ou Power BI Embedded).
 2. Adicionar o Service Principal criado (usuário do Power Embedded) como administrador dos workspaces que você quer importar relatórios (pode ser mais de 1).
 
 Para alterar a capacidade do Workspace para capacidade Premium (Microsoft Fabric ou Power BI Embedded), acesse o workspace e clique no botão “Configurações de workspace”
