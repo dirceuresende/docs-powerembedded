@@ -11,7 +11,7 @@ A RLS permite:&#x20;
 * Restrição por perfil de usuário&#x20;
 * Restrição por função (cargo/setor)
 
-Uma das vantagens do RLS é ter apenas um único relatório e distribuir para vários usuários ou clientes, sem ter que criar um relatório com dados filtrados para para cada perfil de usuários, reduzindo a manutenção desses relatórios, uma vez que um único relatório filtraria os resultados apresentados de acordo com o usuário que está visualizando.
+Uma das vantagens do RLS é ter apenas um único relatório e distribuir para vários usuários ou clientes, sem ter que criar um relatório com dados filtrados para cada perfil de usuário, reduzindo a manutenção desses relatórios, uma vez que um único relatório filtraria os resultados apresentados de acordo com a pessoa que está visualizando.
 
 No Power Embedded, oferecemos suporte tanto para RLS (Row-Level Security) quanto para OLS (Object-Level Security).
 
