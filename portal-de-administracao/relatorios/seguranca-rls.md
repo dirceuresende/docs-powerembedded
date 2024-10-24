@@ -2,9 +2,19 @@
 
 {% embed url="https://www.youtube.com/watch?v=xuLr4iWR378" %}
 
-Segurança ao nível de linhas é amplamente utilizada para aplicar filtros nos modelos de dados e garantir que os usuários vejam apenas as informações pertinentes.
+A segurança ao nível de linhas é amplamente utilizada para aplicar filtros nos modelos de dados e garantir que os usuários vejam apenas as informações que elas têm acesso.
 
-No Power Embedded, oferecemos suporte tanto para RLS (Row-Level Security) quanto para OLS (Object-Level Security). Abaixo estão algumas informações para ajudar no entendimento.
+No Power Embedded, oferecemos suporte tanto para RLS (Row-Level Security) quanto para OLS (Object-Level Security).
+
+{% hint style="warning" %}
+O RLS/OLS é configurado APENAS no Power Embedded, não mais no Power BI serviço.
+
+Caso seja necessário que algumas pessoas continuem acessando o relatório no Power BI serviço, aí você deverá configurar no Power BI também.
+{% endhint %}
+
+
+
+Abaixo estão algumas informações para ajudar no entendimento.
 
 <div align="left">
 
