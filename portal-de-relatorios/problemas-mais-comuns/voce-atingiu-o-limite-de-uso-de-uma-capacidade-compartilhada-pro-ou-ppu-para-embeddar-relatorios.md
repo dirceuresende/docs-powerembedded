@@ -1,6 +1,6 @@
 # Você atingiu o limite de uso de uma capacidade compartilhada (Pro ou PPU) para embeddar relatórios
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### O que essa mensagem de erro significa
 

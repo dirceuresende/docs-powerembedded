@@ -85,6 +85,7 @@
   * [Fontes de dados](portal-de-administracao/artefatos/fontes-de-dados.md)
 * [Aplicativos](portal-de-administracao/aplicativos.md)
 * [Relatórios](portal-de-administracao/relatorios/README.md)
+  * [Requisitos para importar relatório](portal-de-administracao/relatorios/requisitos-para-importar-relatorio.md)
   * [Importar relatório](portal-de-administracao/relatorios/importar-relatorio.md)
   * [Editar relatório](portal-de-administracao/relatorios/editar-relatorio.md)
   * [Como excluir um relatório](portal-de-administracao/relatorios/como-excluir-um-relatorio.md)
