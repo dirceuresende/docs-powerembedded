@@ -54,7 +54,7 @@ Os grupos no Power Embedded são uma forma de facilitar a gestão e governança 
 Para acessar essa tela, [clique aqui](https://admin.powerembedded.com.br/Groups).
 
 {% hint style="info" %}
-Para saber mais sobre a criação e gerenciamento dos grupos, acesse a página Grupos.
+Para saber mais sobre a criação e gerenciamento dos grupos, acesse a página [Gerenciamento de Grupos](grupos/).
 {% endhint %}
 
 
@@ -114,7 +114,9 @@ Também é possível  publicar os relatórios do Power BI que estão localmente 
 
 ![](../.gitbook/assets/Arquivo-Power-BI.png)
 
-Para saber mais sobre essa funcionalidade. [Acesse o link](https://powerembedded.com.br/publique-seus-relatorios-pelo-power-embedded/)
+{% hint style="info" %}
+Para saber mais sobre essa funcionalidade, acesse a página [Publicando relatórios no Power BI pelo Power Embedded](relatorios/publicar-relatorio-no-power-bi.md).
+{% endhint %}
 
 
 
@@ -123,7 +125,7 @@ Para saber mais sobre essa funcionalidade. [Acesse o link](https://powerembedded
 Como o Power Embedded é um sistema white-label, totalmente personalizável, é nesta tela que você configura toda a personalização para uma experiência mais personalizada com a identidade visual da sua empresa.
 
 {% hint style="info" %}
-Para ver mais detalhes sobre essa tela, acesse a página Configurações
+Para ver mais detalhes sobre essa tela, acesse a página [Configurações](configuracoes/).
 {% endhint %}
 
 

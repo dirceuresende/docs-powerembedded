@@ -50,4 +50,6 @@ Também é possível publicar os relatórios do Power BI que estão localmente e
 
 </div>
 
-Para saber mais sobre essa funcionalidade. [Acesse o link](https://powerembedded.com.br/publique-seus-relatorios-pelo-power-embedded/)&#x20;
+{% hint style="info" %}
+Para saber mais sobre essa funcionalidade, acesse a página [Publicando relatórios no Power BI pelo Power Embedded](publicar-relatorio-no-power-bi.md).
+{% endhint %}
