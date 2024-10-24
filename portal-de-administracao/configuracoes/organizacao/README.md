@@ -10,9 +10,9 @@ Para auxiliar na configuração deste ambiente, segue um passo a passo de como f
 
 **Sub-domínio:** Aqui você pode configurar um subdomínio personalizado para sua empresa. [Saiba mais](../../configuracao-dns/).
 
-**ID de Cliente do Power BI:** Identificação do aplicativo (Client ID) usado para a conexão do PowerEmbedded. [Saiba mais.](https://powerembedded.com.br/manual-de-instalacao-trial-do-fabric/)
+**ID de Cliente do Power BI:** Identificação do aplicativo (Client ID) usado para a conexão do PowerEmbedded. [Saiba mais.](../../../documentacao-tecnica/instalacao/trial-do-fabric.md)
 
-**Chave de acesso do cliente do Power BI:** Segredo (senha) gerado para o aplicativo de conexão do PowerEmbedded. Caso não informe um novo valor, será mantido o valor anterior cadastrado. [Saber mais.](https://powerembedded.com.br/manual-de-instalacao-trial-do-fabric/)
+**Chave de acesso do cliente do Power BI:** Segredo (senha) gerado para o aplicativo de conexão do PowerEmbedded. Caso não informe um novo valor, será mantido o valor anterior cadastrado. [Saber mais.](alterar-senha-do-aplicativo.md)
 
 **Fuso horário:** Defina o fuso horário local da empresa (Brasil = -3).
 
@@ -32,9 +32,9 @@ Um erro como esse pode aparecer para o usuário quando acessar um relatório se 
 
 **Idioma padrão dos e-mails do sistema:** Idioma dos e-mails enviados pelo sistema. Em alguns casos, o sistema pode ignorar este campo e usar o idioma do responsável pela ação que gerou o e-mail.
 
-**Habilitar Regras de Firewall:** Ative esta opção para permitir acesso ao portal de visualização apenas de IPs nas faixas liberadas pelo administrador. Uma vez ativada e o primeiro IP adicionado, o acesso será restrito aos IPs permitidos. [Ajuda – Controle de Acessos com Firewall.](https://powerembedded.com.br/ajuda-controle-de-acessos-com-firewall/)
+**Habilitar Regras de Firewall:** Ative esta opção para permitir acesso ao portal de visualização apenas de IPs nas faixas liberadas pelo administrador. Uma vez ativada e o primeiro IP adicionado, o acesso será restrito aos IPs permitidos. [Controle de Acessos com Firewall.](../../firewall/)
 
-**Chave de API:** Chave de segurança para autenticar chamadas da API de integração (Api.powerembedded.com.br). APIs para integrar o Power Embedded à sua aplicação.[APIs para integrar o Power Embedded na sua aplicação.](https://powerembedded.com.br/novo-recurso-apis-para-integrar-o-power-embedded-na-sua-aplicacao/)
+**Chave de API:** Chave de segurança para autenticar chamadas da API de integração (Api.powerembedded.com.br). APIs para integrar o Power Embedded à sua aplicação.[APIs para integrar o Power Embedded na sua aplicação.](../../../documentacao-tecnica/api/automacoes-com-apis.md)
 
 Essa funcionalidade permite criar múltiplas organizações em um único tenant. Isso significa que, caso você queira ter ambientes distintos, usuários e relatórios separados, você pode criar uma nova organização.
 
