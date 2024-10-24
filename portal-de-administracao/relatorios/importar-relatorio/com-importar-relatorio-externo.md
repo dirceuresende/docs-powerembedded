@@ -1,10 +1,16 @@
 # Com importar relatório externo
 
+### 1. Introdução
+
 O Power Embedded foi idealizado para suportar relatórios do Power BI, sejam paginados, dashbords e relatórios tradicionais.
 
 Além desse tipos, o Power Embedded também tem suporte para importação de URL externa, o que abre infinitas possibilidades para centralizar a gestão e visualização de relatórios de diferentes ferramentas em uma plataforma única.
 
 Você pode até mesmo utilizar esse recurso para compartilhar arquivos entre os funcionários da sua empresa de forma segura e auditável.
+
+
+
+### 2. Como importar um relatório externo da Web
 
 Para utilizar o recurso, vá até a página de [Relatórios](https://admin.powerembedded.com.br/Reports) e clique no botão **Importar** > **Relatório da Web**.
 
@@ -28,6 +34,18 @@ Após importar essa URL externa, o relatório estará disponível na página de 
 
 Todas as funcionalidades estarão disponíveis (com exceção do RLS), como permissões por usuário, grupos, escolher uma imagem para ser a miniatura e as auditorias.
 
+
+
+### 3. Como importar de arquivos
+
+Até mesmo arquivos podem ser acessados utilizando esse recurso, como, por exemplo, um documento PDF hospedado numa conta do OneDrive ou em um SharePoint
+
+<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+
+
+
+### 4. Abrir em uma nova aba externa
+
 {% hint style="warning" %}
 Essa opção de "Abrir em uma nova aba externa" serve para atender 2 cenários:
 
@@ -39,13 +57,15 @@ Essa opção de "Abrir em uma nova aba externa" serve para atender 2 cenários:
 
 
 
-Os relatórios de URL externa aparecem em uma categoria separada:
+### 5. Visualização dos relatórios externos no portal de Relatórios
+
+Os relatórios de URL externa aparecem em uma categoria separada
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
-Os relatórios, links ou arquivos podem ser visualizados normalmente:
+Os relatórios, links ou arquivos podem ser visualizados normalmente
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
@@ -55,13 +75,7 @@ A segurança dos relatórios e o RLS nesse formato é feita utilizando cookies d
 
 
 
-Até mesmo arquivos podem ser acessados utilizando esse recurso, como, por exemplo, um documento PDF hospedado numa conta do OneDrive:
-
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
-
-
-
-A visualização segue o mesmo formato e padrão dos já existentes:
+A visualização dos arquivos segue o mesmo formato e padrão dos relatórios externos
 
 <figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -70,6 +84,8 @@ O Power Embedded não hospeda ou importa os arquivos que você quer mostrar na p
 {% endhint %}
 
 
+
+### 6. Auditoria de relatórios externos da Web
 
 As auditorias de acesso de relatório são aplicadas normalmente para os relatórios externos, assim como já funcionam nos outros tipos de relatórios
 
