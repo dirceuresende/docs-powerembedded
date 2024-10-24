@@ -107,6 +107,7 @@
   * [Personalização do método de autenticação por usuário ou grupo](portal-de-administracao/usuarios/personalizacao-do-metodo-de-autenticacao-por-usuario-ou-grupo.md)
 * [Grupos](portal-de-administracao/grupos/README.md)
   * [Criar/editar grupo](portal-de-administracao/grupos/criar-editar-grupo.md)
+  * [Métodos de autenticação](portal-de-administracao/grupos/metodos-de-autenticacao.md)
   * [Importar arquivo CSV](portal-de-administracao/grupos/importar-arquivo-csv.md)
   * [Importar do Entra ID](portal-de-administracao/grupos/importar-do-entra-id.md)
   * [Sincronizar com Entra ID](portal-de-administracao/grupos/sincronizar-com-entra-id.md)

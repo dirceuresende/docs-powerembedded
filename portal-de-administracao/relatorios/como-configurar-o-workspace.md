@@ -13,7 +13,7 @@ Para alterar a capacidade do Workspace para capacidade Premium (Microsoft Fabric
 
 Caso sua tela seja muito pequena, clique nos 3 pontinhos e selecione a opção “Configurações de workspace”
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
