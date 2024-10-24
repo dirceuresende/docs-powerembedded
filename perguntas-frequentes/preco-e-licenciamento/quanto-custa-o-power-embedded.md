@@ -20,4 +20,4 @@ Para acessar a calculadora e gerar um orçamento, acesse a página da [Calculado
 
 Valores estimados das capacidades do Fabric e Power BI Embedded (considerando escala 12x5)
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
