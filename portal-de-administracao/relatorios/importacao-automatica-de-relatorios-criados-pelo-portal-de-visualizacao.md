@@ -4,7 +4,13 @@
 
 No Power Embedded, é possível criar e editar relatórios diretamente pelo navegador, ao acessar um relatório já existente, entregando uma experiência de Self-service BI excelente para os usuários.
 
-Para uma melhor governança na edição e criação de relatórios, você pode receber notificações, escolher quais usuários serão notificados e, além disso, habilitar a importação automática dos relatórios com opções para automatizar os acessos.
+<figure><img src="../../.gitbook/assets/image (376).png" alt=""><figcaption></figcaption></figure>
+
+Para que o usuário tenha acesso ao menu "Modo" e consiga Editar ou Criar novos relatórios pelo portal de relatórios, é necessário que o usuário ou algum grupo que esse usuário esteja e tenha acesso à esse relatório, tenha as permissões de **Criar relatórios** ou **Editar relatórios.**
+
+<figure><img src="../../.gitbook/assets/image (377).png" alt=""><figcaption></figcaption></figure>
+
+Para uma melhor governança sobre a edição e criação de relatórios, você pode receber notificações, escolher quais usuários serão notificados e, além disso, habilitar a importação automática dos relatórios com opções para automatizar os acessos.
 
 
 
