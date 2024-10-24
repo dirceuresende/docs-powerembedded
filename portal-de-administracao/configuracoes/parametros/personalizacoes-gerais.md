@@ -34,6 +34,12 @@ Você pode definir qual vai ser a visualização padrão que o usuário vai ter 
 
 No Power Embedded, é possível escolher o tipo de visualização das pastas no portal de relatórios.
 
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
+
+Abaixo segue um exemplo prático da diferença entre os 2 tipos
+
 <div>
 
 <figure><img src="../../../.gitbook/assets/image (366).png" alt=""><figcaption><p>Pastas no modo "Retângulo pequeno"</p></figcaption></figure>

@@ -14,13 +14,13 @@ Você pode até mesmo utilizar esse recurso para compartilhar arquivos entre os 
 
 Para utilizar o recurso, vá até a página de [Relatórios](https://admin.powerembedded.com.br/Reports) e clique no botão **Importar** > **Relatório da Web**.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Digite o nome do relatório ou arquivo que será mostrado no portal de relatório e informe a URL original de acesso.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Neste exemplo, estarei importando um relatório que criei no Google Data Studio para o Power Embedded</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Neste exemplo, estarei importando um relatório que criei no Google Data Studio para o Power Embedded</p></figcaption></figure>
 
 {% hint style="info" %}
 Muitos serviços e sites, como Canva, Slideshare e outros, bloqueiam por padrão, que você mostre um conteúdo dentro de outro site (como o Power Embedded), mas disponibilizam um botão ou opção para gerar um link compartilhável (embed), que possui liberação para ser incorporado em outros sites.\
