@@ -59,13 +59,13 @@ Essa opção de "Abrir em uma nova aba externa" serve para atender 2 cenários:
 
 ### 5. Visualização dos relatórios externos no portal de Relatórios
 
-Os relatórios de URL externa aparecem em uma categoria separada
+Um relatório externo aparece em uma categoria separada no portal de relatório, conforme a imagem abaixo.
 
 <figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
-Os relatórios, links ou arquivos podem ser visualizados normalmente
+Os relatórios externos, links ou arquivos podem ser visualizados normalmente
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
