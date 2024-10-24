@@ -1,10 +1,10 @@
-# Atualização de token
+# Não foi possível carregar os dados para este visual: ClientError\_TokenExpired
 
 ### Por que o token expira
 
 Quando um usuário está com a tela aberta em um relatório por mais de 1 hora sem interagir com o relatório, esse token de autenticação expira e você poderá ver uma mensagem de erro "ClientError\_TokenExpired" após esse tempo.
 
-<figure><img src="../../../.gitbook/assets/image (370).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (370).png" alt=""><figcaption></figcaption></figure>
 
 Caso o usuário veja essa mensagem de erro, a solução é bem simples: Basta atualizar a página que o relatório será carregado novamente.
 
@@ -41,7 +41,7 @@ Caso o usuário deixe a tela aberta, sem interagir com o relatório, o token pod
 3. Localize a opção **“Atualizar token a cada”**.
 4. Defina o intervalo de tempo desejado e clique em **Salvar**.
 
-<figure><img src="../../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (148).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **ATENÇÃO**: Caso você tenha configurado para a capacidade desligar automaticamente baseado na inatividade de X minutos, **essa configuração irá impedir** que a capacidade seja desligada.
@@ -50,4 +50,3 @@ Caso o usuário deixe a tela aberta, sem interagir com o relatório, o token pod
 
 Uma alternativa para isso é configurar que apenas alguns usuários possam ligar ou manter a capacidade ligada.
 {% endhint %}
-
