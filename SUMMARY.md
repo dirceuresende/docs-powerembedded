@@ -98,6 +98,7 @@
   * [Importação automática de relatórios criados pelo portal de visualização](portal-de-administracao/relatorios/importacao-automatica-de-relatorios-criados-pelo-portal-de-visualizacao.md)
 * [Usuários](portal-de-administracao/usuarios/README.md)
   * [Criar/editar usuário](portal-de-administracao/usuarios/criar-editar-usuario.md)
+  * [Tipos de funções de usuário](portal-de-administracao/usuarios/tipos-de-funcoes-de-usuario.md)
   * [Métodos de autenticação](portal-de-administracao/usuarios/metodos-de-autenticacao.md)
   * [Autenticação de 2 fatores](portal-de-administracao/usuarios/autenticacao-de-2-fatores.md)
   * [Importar arquivo CSV](portal-de-administracao/usuarios/importar-arquivo-csv.md)

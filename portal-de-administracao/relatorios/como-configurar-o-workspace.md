@@ -13,7 +13,7 @@ Para alterar a capacidade do Workspace para capacidade Premium (Microsoft Fabric
 
 Caso sua tela seja muito pequena, clique nos 3 pontinhos e selecione a opção “Configurações de workspace”
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -52,7 +52,7 @@ O último passo agora é adicionar o usuário do Power Embedded ao Workspace.
 
 Para adicionar o usuário do Power Embedded (PowerEmbedded-App) como administrador de um workspace, acesse o workspace, clique nos 3 pontinhos e selecione a opção “Gerenciar acesso”
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Clique no botão “+ Adicionar pessoas ou grupos”.
 

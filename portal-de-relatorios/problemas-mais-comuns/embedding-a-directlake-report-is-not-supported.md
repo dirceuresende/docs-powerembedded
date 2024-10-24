@@ -1,6 +1,6 @@
 # Embedding a DirectLake report is not supported
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Essa mensagem é bem clara e significa que a API oficial do Power BI para inserir os relatórios no Power BI ainda não suporta relatórios que utilizem o modo de conexão DirectLake.
 

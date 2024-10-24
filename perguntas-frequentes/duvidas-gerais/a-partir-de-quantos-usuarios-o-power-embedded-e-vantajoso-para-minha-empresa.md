@@ -12,4 +12,4 @@ Nesse cenário, a partir de 30 usuários você já estará economizando ao utili
 
 A tabela abaixo pode ajudar a visualizar os cenários quando o Power Embedded é mais vantajoso
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

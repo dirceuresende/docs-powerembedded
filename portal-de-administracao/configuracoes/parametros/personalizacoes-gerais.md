@@ -34,7 +34,7 @@ Você pode definir qual vai ser a visualização padrão que o usuário vai ter 
 
 No Power Embedded, é possível escolher o tipo de visualização das pastas no portal de relatórios.
 
-<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
