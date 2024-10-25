@@ -4,20 +4,24 @@ Independentemente de você trabalhar até tarde da noite ou simplesmente preferi
 
 
 
-**Portal no Modo Claro ( Light Mode ) :**
+### **Portal no Modo Claro (Light Mode)**
 
 <figure><img src="../.gitbook/assets/modo claro.png" alt=""><figcaption></figcaption></figure>
 
 
 
-**Portal no Modo Escuro (Dark Mode) :**
+### **Portal no Modo Escuro (Dark Mode)**
 
 <figure><img src="../.gitbook/assets/Modo escuro.png" alt=""><figcaption></figcaption></figure>
 
-**Relatório Modo Claro ( Light Mode ) :**
+
+
+### **Relatório Modo Claro (Light Mode)**
 
 <figure><img src="../.gitbook/assets/No relatorio light.png" alt=""><figcaption></figcaption></figure>
 
-**Relatório Modo Escuro  (Dark Mode) :**
+
+
+### **Relatório Modo Escuro (Dark Mode)**
 
 <figure><img src="../.gitbook/assets/relatório dark.png" alt=""><figcaption></figcaption></figure>
