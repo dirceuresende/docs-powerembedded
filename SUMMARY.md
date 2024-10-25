@@ -49,7 +49,7 @@
   * [Auditorias](principais-funcionalidades/auditorias.md)
   * [Firewall](principais-funcionalidades/firewall.md)
   * [Catálogo de relatórios](principais-funcionalidades/catalogo-de-relatorios.md)
-  * [White Label](principais-funcionalidades/white-label.md)
+  * [Personalização do portal e tela de login](principais-funcionalidades/personalizacao-do-portal-e-tela-de-login.md)
   * [Compartilhamento com usuários externos](principais-funcionalidades/compartilhamento-com-usuarios-externos.md)
   * [IA Generativa - Power Pilot](principais-funcionalidades/ia-generativa-power-pilot.md)
 * [Calculadora](https://powerembedded.com.br/calculadora)
