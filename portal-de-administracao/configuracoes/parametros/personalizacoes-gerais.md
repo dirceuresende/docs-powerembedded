@@ -22,9 +22,9 @@ Ao habilitar essa funcionalidade, seu relatório abrirá em outra aba no navegad
 
 O Power Embedded permite que você defina a visualização padrão que o usuário vai ter ao acessar o portal, que pode ter 3 opções
 
-* Pastas
-* Ícones
-* Listas
+* **Pastas**: Mostra os relatórios organizados e agrupados por pasta e tipo, permitindo navegação nas pastas e subpastas para uma melhor organização. Esse modo exibe a miniatura dos relatórios.
+* **Ícones**: Mostra todos os relatórios em uma tela só, sem paginação e independente de pasta, workspace ou tipo. É uma visão mais simples para quem tem relatórios em muitos workspaces e pastas e tem dificuldade de localizá-los. Esse modo exibe a miniatura dos relatórios.
+* **Lista**: Modo de visualização parecido com o do Power BI, e assim como a visualização de Ícones, também mostra todos os relatórios em uma tela só, sem paginação e independente de pasta, workspace ou tipo. É uma visão mais simples para quem tem relatórios em muitos workspaces e pastas e tem dificuldade de localizá-los e pelo fato de não mostrar a miniatura dos relatórios, acaba carregando mais rápido em conexões lentas.
 
 <figure><img src="../../../.gitbook/assets/modo-padrao-de-visulizacao.png" alt=""><figcaption></figcaption></figure>
 
@@ -32,15 +32,15 @@ Segue exemplo para demonstrar a diferença entre cada um dos tipos de visualiza�
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Visualização de Pastas - Relatórios organizados por pasta e tipo</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Visualização de Pastas</p></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Visualização de Ícones - Todos os relatórios em uma tela só, independente de pasta, workspace ou tipo</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Visualização de Ícones</p></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Visualização de Lista - Todos os relatórios em uma tela só, independente de pasta, workspace ou tipo e sem carregar a miniatura do relatório para ser mais rápido</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Visualização de Lista</p></figcaption></figure>
 
 </div>
 
