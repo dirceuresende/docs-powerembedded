@@ -8,7 +8,7 @@ Para cadastrar um novo usuário, acessa a página de [Gerenciamento de Usuários
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 
@@ -22,7 +22,7 @@ Toda configuração do portal, personalização das cores e imagens, acesso ao F
 
 <div align="left">
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 </div>
 

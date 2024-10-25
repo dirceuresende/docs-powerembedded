@@ -2,7 +2,7 @@
 
 O aplicativo é um método de compartilhamento no Power BI, diferente do aplicativo mobile. Ele funciona como um repositório onde você pode adicionar vários relatórios em um único local, facilitando o compartilhamento com os usuários.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Dentro dessa funcionalidade, destacamos algumas ferramentas importantes para saber o que são e como utilizá-las:
 

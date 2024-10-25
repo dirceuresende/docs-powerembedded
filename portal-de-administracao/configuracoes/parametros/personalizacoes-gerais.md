@@ -20,13 +20,37 @@ Ao habilitar essa funcionalidade, seu relatório abrirá em outra aba no navegad
 
 ### **Tipo de visualização padrão dos relatórios**
 
-– Pastas\
-– Ícones\
-– Listas
+O Power Embedded permite que você defina a visualização padrão que o usuário vai ter ao acessar o portal, que pode ter 3 opções
 
-Você pode definir qual vai ser a visualização padrão que o usuário vai ter ao acessar o portal.
+* Pastas
+* Ícones
+* Listas
 
 <figure><img src="../../../.gitbook/assets/modo-padrao-de-visulizacao.png" alt=""><figcaption></figcaption></figure>
+
+Segue exemplo para demonstrar a diferença entre cada um dos tipos de visualização.
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Visualização de Pastas - Relatórios organizados por pasta e tipo</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Visualização de Ícones - Todos os relatórios em uma tela só, independente de pasta, workspace ou tipo</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Visualização de Lista - Todos os relatórios em uma tela só, independente de pasta, workspace ou tipo e sem carregar a miniatura do relatório para ser mais rápido</p></figcaption></figure>
+
+</div>
+
+{% hint style="info" %}
+Esse parâmetro é para definir o tipo padrão de visualização, quando o usuário ainda não definiu qual o tipo que ele prefere visualizar.\
+\
+Uma vez que o usuário tenha selecionado o tipo de visualização desejado, ao clicar em uma das opções abaixo, o portal irá respeitar a preferência do usuário, sobrepondo essa parâmetro.\
+\
+![](../../../.gitbook/assets/image.png)
+{% endhint %}
 
 
 
@@ -34,7 +58,7 @@ Você pode definir qual vai ser a visualização padrão que o usuário vai ter 
 
 No Power Embedded, é possível escolher o tipo de visualização das pastas no portal de relatórios.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
