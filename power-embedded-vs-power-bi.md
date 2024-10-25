@@ -12,7 +12,9 @@ Uma das dúvidas mais comuns que recebemos é sobre a diferença entre o Power B
 
 Se você já quis entregar um portal personalizado para seus clientes, compartilhar relatórios com usuários externos, obter insights detalhados sobre quais relatórios estão sendo mais acessados, ou até contar com um assistente de IA que ajude a analisar seus dados de maneira eficiente, e, ao mesmo tempo, reduzir custos com licenças do Power BI, o Power Embedded pode ser a solução ideal para esses e outros desafios.
 
-O Power Embedded é uma solução SaaS que utiliza as capacidades oficiais da Microsoft para incorporar (embed) os relatórios publicados no serviço Power BI diretamente em sua aplicação, oferecendo uma série de funcionalidades adicionais, que descreveremos ao longo desta documentação.
+O Power Embedded é uma solução SaaS que utiliza as capacidades oficiais da Microsoft para incorporar (embed) os relatórios publicados no serviço Power BI diretamente em sua aplicação, o que pode reduzir os custos mensais de licenciamento do Power BI em até 90%.
+
+Além de reduzir os custos, o Power Embedded ainda oferece uma série de funcionalidades adicionais, que descreveremos ao longo desta documentação.
 
 
 
