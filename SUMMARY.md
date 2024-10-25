@@ -48,7 +48,7 @@
   * [Agendamento de atualização dos dados](principais-funcionalidades/agendamento-de-atualizacao-dos-dados.md)
   * [Auditorias](principais-funcionalidades/auditorias.md)
   * [Firewall](principais-funcionalidades/firewall.md)
-  * [Catálogo de relatório](principais-funcionalidades/catalogo-de-relatorio.md)
+  * [Catálogo de relatórios](principais-funcionalidades/catalogo-de-relatorios.md)
   * [White Label](principais-funcionalidades/white-label.md)
   * [Compartilhamento com usuários externos](principais-funcionalidades/compartilhamento-com-usuarios-externos.md)
   * [IA Generativa - Power Pilot](principais-funcionalidades/ia-generativa-power-pilot.md)
