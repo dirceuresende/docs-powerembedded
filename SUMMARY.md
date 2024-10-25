@@ -41,7 +41,7 @@
     * [Processo de publicação dos relatórios](perguntas-frequentes/duvidas-tecnicas/processo-de-publicacao-dos-relatorios.md)
     * [Atualizações do sistema](perguntas-frequentes/duvidas-tecnicas/atualizacoes-do-sistema.md)
     * [Personalizações do sistema](perguntas-frequentes/duvidas-tecnicas/personalizacoes-do-sistema.md)
-* [Diferença do Power Embedded X Power BI](diferenca-do-power-embedded-x-power-bi.md)
+* [Power Embedded vs Power BI](power-embedded-vs-power-bi.md)
 * [Principais Funcionalidades](principais-funcionalidades/README.md)
   * [Aplicativo - Compartilhamento](principais-funcionalidades/aplicativo-compartilhamento.md)
   * [Modo Escuro](principais-funcionalidades/modo-escuro.md)
