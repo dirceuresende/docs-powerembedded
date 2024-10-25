@@ -28,6 +28,26 @@ Segue abaixo uma tabela comparando as principais semelhanças e diferenças entr
 
 ### 3. Novas Funcionalidades do Power Embedded
 
+**IA Generativa de baixo custo**
+
+* **Power BI**: O Power BI conta com o Copilot, uma IA generativa robusta que auxilia na análise dos dados. No entanto, essa funcionalidade está disponível apenas no SKU F64 do Microsoft Fabric, o que pode não ser financeiramente viável para algumas organizações devido ao seu custo elevado.
+* **Power Embedded**: No Power Embedded, há uma IA generativa chamada Power Pilot, que também permite responder perguntas de negócios de forma rápida e eficiente. O grande diferencial é que o Power Pilot oferece essa funcionalidade a um custo significativamente mais acessível, tornando a solução mais atraente do ponto de vista financeiro.
+
+#### **Controle de Acessos por Firewall**
+
+* **Power BI**: No Power Bi, você não consegue de forma nativa restringir os acessos por IP.
+* **Power Embedded**: O Power Embedded oferece essa funcionalidade de forma nativa, permitindo que você restrinja o acesso dos usuários com base em endereços IP.
+
+#### **Auditorias**
+
+* **Power BI**: As auditorias no Power BI são limitadas a métricas de uso, que muitas vezes não fornecem as informações detalhadas que você realmente precisa, estão geralmente desatualizadas e a visão é por workspace, o que torna inviável ao ter vários.
+* **Power Embedded**: No Power Embedded, você tem acesso a auditorias detalhadas que fornecem métricas como acessos, permissões e relatórios mais utilizados, entre outras auditorias, em uma visão unificada de todo o ambiente, API para consultar esses dados ou exportar para CSV/Excel.
+
+#### Modelos dinâmicos
+
+* **Power BI:** Disponível apenas através da API.
+* **Power Embedded:** Funcionalidade exclusiva do Power Embedded, desenvolvida para cenários nos quais um único relatório é acessado por diferentes clientes, cada um utilizando um modelo semântico diferente, e por isso, visualizam dados diferentes. Isso é muito útil para separar os dados de acordo com cada cliente sem depender de RLS e mantendo o tamanho de cada modelo pequeno. Isso ajuda bastante na performance dos relatórios.
+
 **Modo escuro (Dark Mode) - Funcionalidade**
 
 * **Power BI**: Disponível apenas no Power BI Desktop recentemente.
@@ -38,38 +58,31 @@ Segue abaixo uma tabela comparando as principais semelhanças e diferenças entr
 * **Power BI**: O Power BI oferece gráficos incríveis, mas não é possível personalizar um ambiente com a identidade visual específica de cada cliente.
 * **Power Embedded**: No Power Embedded, você pode criar um ambiente personalizado com identidade visual específica para seus clientes ou departamentos, proporcionando uma experiência totalmente customizada.
 
-#### **Controle de Acessos por Firewall**
-
-* **Power BI**: No Power Bi, você não consegue de forma nativa restringir os acessos por IP.
-* **Power Embedded**: O Power Embedded oferece essa funcionalidade de forma nativa, permitindo que você restrinja o acesso dos usuários com base em endereços IP.
-
-
-
-#### **Auditorias**
-
-* **Power BI**: As auditorias no Power BI são limitadas a métricas de uso, que muitas vezes não fornecem as informações detalhadas que você realmente precisa, estão geralmente desatualizadas e a visão é por workspace, o que torna inviável ao ter vários.
-* **Power Embedded**: No Power Embedded, você tem acesso a auditorias detalhadas que fornecem métricas como acessos, permissões e relatórios mais utilizados, entre outras auditorias, em uma visão unificada de todo o ambiente, API para consultar esses dados ou exportar para CSV/Excel.
-
 #### **Catálogo de relatórios**
 
 * **Power BI**: Não há uma funcionalidade nativa para exibir relatórios que os usuários não têm acesso, mas que podem ser úteis para eles.
 * **Power Embedded**: Com o catálogo de relatórios no Power Embedded, você pode mostrar relatórios para os usuários, mesmo que eles ainda não tenham acesso direto, permitindo que eles solicitem permissão se necessário.
 
-**IA Generativa**
+#### Avisos e notificações
 
-* **Power BI**: O Power BI conta com o Copilot, uma IA generativa robusta que auxilia na análise dos dados. No entanto, essa funcionalidade está disponível apenas no SKU F64 do Microsoft Fabric, o que pode não ser financeiramente viável para algumas organizações devido ao seu custo elevado.
-* **Power Embedded**: No Power Embedded, há uma IA generativa chamada Power Pilot, que também permite responder perguntas de negócios de forma rápida e eficiente. O grande diferencial é que o Power Pilot oferece essa funcionalidade a um custo significativamente mais acessível, tornando a solução mais atraente do ponto de vista financeiro.
+* **Power BI:** Não há uma funcionalidade nativa para mostrar avisos, notificações e alertas para os usuários que estão navegando no portal.
+* **Power Embedded:** Existe uma funcionalidade de [**Avisos**](portal-de-administracao/avisos.md), onde é possível agendar avisos e notificações, utilizando texto rico e imagens, para que os usuários que estão navegando no portal e visualizando relatórios possam ficar cientes desses recados.
+
+#### Todos os dados são facilmente exportáveis
+
+* **Power BI:** Não há opções para exportação de regras de RLS, usuários, auditorias, etc.
+* **Power Embedded:** Todas as auditorias, regras de RLS, usuários e auditorias permitem a exportação e importação dos dados utilizando arquivos. A auditoria de acessos a relatórios tem até API para leitura dos dados em tempo real.
 
 
 
 ### 4. Melhorias do Power Embedded
 
-#### **Aplicativo - Melhoria**
+#### **Aplicativo**
 
 * **Power BI**: No Power BI, o aplicativo é uma maneira de compartilhar relatórios, onde você pode agrupar vários dashboards, relatórios em um único local e compartilhar com diferentes audiências.
 * **Power Embedded**: No Power Embedded, essa funcionalidade está disponível com algumas melhorias. É possível criar quantos aplicativos forem necessários, adicionar relatórios de diferentes workspaces e usar o modo TV, que permite a exibição dos relatórios em uma tela com funcionalidade de slideshow de forma nativa. Além disso, a segurança por nível de página (Page Level Security) permite que você defina quais páginas do relatório deseja disponibilizar para cada usuário.
 
-#### **Compartilhamento com usuários externos - Melhoria**
+#### **Compartilhamento com usuários externos**
 
 * **Power BI**: No Power BI, compartilhar relatórios com usuários externos pode ser complicado, exigindo que os usuários tenham uma conta corporativa ou uma licença específica (Pro ou PPU).
 * **Power  Embedded**: No Power Embedded, que utiliza licenças Power BI Embedded ou Fabric, você pode compartilhar seus relatórios de maneira mais flexível com usuários externos sem as mesmas restrições de licença.
