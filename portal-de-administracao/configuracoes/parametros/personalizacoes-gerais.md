@@ -20,7 +20,7 @@ Ao habilitar essa funcionalidade, seu relatório abrirá em outra aba no navegad
 
 ### **Tipo de visualização padrão dos relatórios**
 
-O Power Embedded permite que você defina a visualização padrão que o usuário vai ter ao acessar o portal, que pode ter 3 opções
+O Power Embedded permite que você defina a visualização padrão que o usuário vai ter ao acessar o portal, que pode ter 3 opções:
 
 * **Pastas**: Mostra os relatórios organizados e agrupados por pasta e tipo, permitindo navegação nas pastas e subpastas para uma melhor organização. Esse modo exibe a miniatura dos relatórios.
 * **Ícones**: Mostra todos os relatórios em uma tela só, sem paginação e independente de pasta, workspace ou tipo. É uma visão mais simples para quem tem relatórios em muitos workspaces e pastas e tem dificuldade de localizá-los. Esse modo exibe a miniatura dos relatórios.
