@@ -1,0 +1,6 @@
+---
+icon: wrench
+---
+
+# Principais Funcionalidades
+

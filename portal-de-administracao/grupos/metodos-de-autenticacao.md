@@ -2,7 +2,7 @@
 
 Com essa opção é possível definir quais os métodos de autenticação que cada grupo pode utilizar.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Você  poderá ter diferentes métodos de autenticação conforme o grupos dos usuários, onde os membros do grupo “Colaboradores”, por exemplo, poderão autenticar apenas utilizando autenticação Microsoft, enquanto os membros do grupo “Usuários externos” poderão entrar com qualquer método de autenticação.
 
