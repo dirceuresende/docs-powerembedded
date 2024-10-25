@@ -1,12 +1,12 @@
 # Personalizações gerais
 
-Ao expandir esse menu é possível visualizar algumas funcionalidades, abaixo iremos detalhar melhor suas funções.
+Ao expandir esse menu, é possível visualizar algumas funcionalidades e parâmetros para alterar o comportamento do Power Embedded. Abaixo iremos detalhar melhor suas funções.
 
 
 
 ### **Ocultar o painel inicial**
 
-Ao habilitar essa funcionalidade, o painel de visões é ocultado.
+Ao habilitar essa funcionalidade, o painel de visões com a mensagem de Bem-vindo fica oculto.
 
 <figure><img src="../../../.gitbook/assets/ocultar-painel.png" alt=""><figcaption></figcaption></figure>
 
