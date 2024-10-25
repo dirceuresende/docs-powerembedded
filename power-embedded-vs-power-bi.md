@@ -79,7 +79,7 @@ Segue abaixo uma tabela comparando as principais semelhanças e diferenças entr
 
 #### **Aplicativo**
 
-* **Power BI**: No Power BI, o aplicativo é uma maneira de compartilhar relatórios, onde você pode agrupar vários dashboards, relatórios em um único local e compartilhar com diferentes audiências.
+* **Power BI**: No Power BI, o aplicativo é uma maneira de compartilhar relatórios, onde você pode agrupar vários dashboards, relatórios em um único local e compartilhar com diferentes audiências. Somente relatórios podem ser incluídos e precisam estar no mesmo workspace.
 * **Power Embedded**: No Power Embedded, essa funcionalidade está disponível com algumas melhorias. É possível criar quantos aplicativos forem necessários, adicionar relatórios de diferentes workspaces e usar o modo TV, que permite a exibição dos relatórios em uma tela com funcionalidade de slideshow de forma nativa. Além disso, a segurança por nível de página (Page Level Security) permite que você defina quais páginas do relatório deseja disponibilizar para cada usuário.
 
 #### **Compartilhamento com usuários externos**
