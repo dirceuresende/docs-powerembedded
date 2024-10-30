@@ -6,7 +6,7 @@ Embora as 3 opções permitam embeddar relatórios em websites, sharepoint, e-ma
 
 ### **Embedded**
 
-É uma licença por capacidade, que permite visualizar relatórios de forma segurança (com permissões, RLS, OLS, auditorias de acessos, bloqueios por IP, etc) através de uma aplicação, sem a necessidade de quem está visualizando ter uma licença do Power BI, e controlar todos os visuais, cores, temas, páginas e componentes dos relatórios utilizando linguagem de programação.
+É uma licença por capacidade, que permite visualizar relatórios de forma segura, com permissões, RLS, OLS, auditorias de acessos, bloqueios por IP, etc, através de uma aplicação, sem a necessidade de quem está visualizando ter uma licença do Power BI, e controlar todos os visuais, cores, temas, páginas e componentes dos relatórios utilizando linguagem de programação.
 
 
 
