@@ -28,6 +28,6 @@ O custo por usuário do Power Embedded reduz conforme a quantidade de usuários:
 
 
 
-Valores estimados das capacidades do Fabric e Power BI Embedded (considerando escala 12x5)
+Valores estimados das capacidades do Fabric e Power BI Embedded (258h = 12h por dia x 5 dias na semana):
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>A região do Brasil é 60% mais cara. A instância reservada é um contrato de 1 ano, com desconto de 40%, e funcionando 24x7</p></figcaption></figure>
