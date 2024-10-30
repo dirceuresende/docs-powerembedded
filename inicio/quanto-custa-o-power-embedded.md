@@ -5,12 +5,12 @@ Para ter acesso ao Power Embedded e começar a economizar no licenciamento de Po
 \
 **Investimento único**
 
-* R$ 1.500,00 para instalação e configuração inicial do ambiente.
+* R$ 1.500,00 para instalação e configuração inicial do ambiente + suporte.
 
 **Investimentos mensais**
 
 * A partir de R$ 427,54 pelo licenciamento da capacidade, variando conforme necessidade.
-* R$ 5,00 por usuário que você criar no sistema.
+* R$ 5,00 por usuário que você criar no sistema\*.
 
 {% hint style="info" %}
 Para acessar a calculadora e gerar um orçamento, acesse a página da [Calculadora](https://powerembedded.com.br/calculadora).
@@ -18,6 +18,16 @@ Para acessar a calculadora e gerar um orçamento, acesse a página da [Calculado
 
 
 
+O custo por usuário do Power Embedded reduz conforme a quantidade de usuários:
+
+* **R$ 5,00** por usuário para até **300 usuários**
+* **R$ 4,50** por usuário para **301 a 500 usuários**
+* **R$ 4,00** por usuário para **501 a 750 usuários**
+* **R$ 3,50** por usuário para **751 a 1.000 usuários**
+* **R$ 3,00** por usuário para **mais de 1.000 usuários**
+
+
+
 Valores estimados das capacidades do Fabric e Power BI Embedded (considerando escala 12x5)
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
