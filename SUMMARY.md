@@ -175,6 +175,7 @@
     * [Personalizações gerais](portal-de-administracao/configuracoes/parametros/personalizacoes-gerais.md)
     * [Modo de edição e criação](portal-de-administracao/configuracoes/parametros/modo-de-edicao-e-criacao.md)
   * [Emails](portal-de-administracao/configuracoes/emails.md)
+* [Migração](portal-de-administracao/migracao.md)
 * [Sistema de chamados](portal-de-administracao/sistema-de-chamados.md)
 
 ## Links úteis
