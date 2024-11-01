@@ -98,8 +98,8 @@ Vá ao portal de administração do Power Embedded no menu de migração, siga e
 
 <figure><img src="../.gitbook/assets/ad.png" alt=""><figcaption></figcaption></figure>
 
-Com os compos preenchidos agora é só rodar o código no Power Shell.
+Com os campos preenchidos agora é só rodar o código no Power Shell.
 
 <figure><img src="../.gitbook/assets/print 8.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+Com o script finalizado, todos os relatórios, usuários, e rls estarão importados no Power Embedded.
