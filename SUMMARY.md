@@ -75,6 +75,7 @@
   * [Sua capacidade de avaliação gratuita do Fabric expirará em X dias](portal-de-relatorios/problemas-mais-comuns/sua-capacidade-de-avaliacao-gratuita-do-fabric-expirara-em-x-dias.md)
   * [Não é possível carregar o modelo devido ao alcance dos limites de capacidade](portal-de-relatorios/problemas-mais-comuns/nao-e-possivel-carregar-o-modelo-devido-ao-alcance-dos-limites-de-capacidade.md)
   * [Não foi possível carregar os dados para este visual: ClientError\_TokenExpired](portal-de-relatorios/problemas-mais-comuns/nao-foi-possivel-carregar-os-dados-para-este-visual-clienterror\_tokenexpired.md)
+  * [Erro ao exportar relatório-  Erro Code 400.](portal-de-relatorios/problemas-mais-comuns/erro-ao-exportar-relatorio-erro-code-400..md)
 
 ## Portal de Administração
 
