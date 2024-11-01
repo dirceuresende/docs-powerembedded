@@ -12,6 +12,8 @@ Para conseguir executar o processo de migração é importante está com as segu
 
 <summary>Permissão de admin do usuário de serviço</summary>
 
+Essa permissão precisa está habilitada em todos os workspaces que irão está disponível no portal.
+
 Para adicionar o Service Principal criado como administrador de um workspace, acesse o workspace, clique nos 3 pontinhos e selecione a opção “Gerenciar acesso
 
 <img src="../.gitbook/assets/app 1.png" alt="" data-size="original">
