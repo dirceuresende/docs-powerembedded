@@ -148,10 +148,15 @@ Caso essa configuração já esteja ativada e permitida para toda a organizaçã
 
 <figure><img src="https://powerembedded.com.br/wp-content/uploads/2024/03/Habilitar-Power-Embedded-no-Fabric4.png" alt=""><figcaption></figcaption></figure>
 
-Agora, na categoria **" Configurações de compartilhamento e de exportação"**, ou pesquisando por **"exportar"** na barra de busca, marque a opção **"Exportar os relatórios como arquivos de imagens"**, e clique em "aplicar".
+Pesquise agora pela palavra **"Exportar"** na barra de pesquisa que fica localizada na parte superior direita da tela.
 
-Caso essa configuração já esteja ativada, pode deixar assim. Essa configuração permite a exportação dos dados como  imagem (PNG) no portal de Visualizações.&#x20;
+&#x20;Encontre a seção **"Configurações de compartilhamento e de exportação"** e veja se o Power BI está permitindo as exportações abaixo:\
+\- Exportar para Excel (Usado pelo menu "Exportar dados" no visual)\
+\- Exportar para .csv (Usado pelo menu "Exportar dados" no visual)\
+\- Exportar relatório como apresentações em Power Point ou documentos PDF (Botão Exportar)\
+\- Exportar os relatórios como arquivos de imagem (Botão Exportar)
 
+\
 
 
 E por último, na seção **“Configurações de integração”**, faça o mesmo processo para a configuração **“Permitir pontos de extremidade XMLA e analisar no Excel com modelos semânticos locais”**, que serve para permitir a listagem das roles de RLS de forma automática.
