@@ -285,8 +285,6 @@ Clique no botão “+ Add people or groups”.
 
 Pesquise pelo nome do grupo que foi criado anteriormente e lembre de alterar o nível de acesso para “Admin”. Após isso, clique no botão “Add”.
 
-<figure><img src="https://powerembedded.com.br/wp-content/uploads/2023/08/Manual-de-Instalacao-do-Power-Embedded-23.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/Screenshot 2024-11-05 181548.png" alt=""><figcaption></figcaption></figure>
 
 Pronto! Agora o Power Embedded já possui acesso nesse workspace. Repita isso para todos os Workspaces que você quer importar relatórios.
