@@ -199,4 +199,5 @@
 * [API](documentacao-tecnica/api/README.md)
   * [Automações com APIs](documentacao-tecnica/api/automacoes-com-apis.md)
   * [Mostrar relatório no seu sistema](documentacao-tecnica/api/mostrar-relatorio-no-seu-sistema.md)
+  * [Filtragem dinâmica](documentacao-tecnica/api/filtragem-dinamica.md)
   * [Documentação técnica](https://api.powerembedded.com.br/)
