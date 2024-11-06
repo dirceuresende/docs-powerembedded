@@ -14,9 +14,13 @@ Pesquise pelo conjunto de dados que você gostaria de configurar a filtragem din
 
 <figure><img src="../../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
 
+
+
 Essa é a tela de configuração da filtragem dinâmica:
 
 <figure><img src="../../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
+
+
 
 Na tela de filtragem dinâmica, você precisará configurar 3 parâmetros:
 
@@ -82,5 +86,7 @@ Ao abrir o relatório, podemos observar que os dados foram filtrados corretament
 
 * As colunas que serão filtradas, obrigatoriamente devem estar listadas na barra de Filtros do relatório.
 * O nome da tabela e da coluna é case sensitive, ou seja, tem diferença entre maiúsculo e minúsculo. O nome deve ser exatamente igual ao que está no modelo.
+* Os nomes de **Tabela** e de **Campo** diferenciam maiúsculas de minúsculas, o de **valor** não.
+* Os campos ocultos na exibição de relatório ainda podem ser filtrados.
 * Evite utilizar acentos e espaços no nome da coluna ou tabela.
 * Para mais informações, consulte [essa documentação](https://learn.microsoft.com/pt-br/power-bi/collaborate-share/service-url-filters) da Microsoft.
