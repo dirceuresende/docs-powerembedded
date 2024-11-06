@@ -58,7 +58,8 @@
 
 ## Portal de Relatórios
 
-* [Portal de Relatórios](portal-de-relatorios/portal-de-relatorios.md)
+* [Portal de Relatórios](portal-de-relatorios/portal-de-relatorios/README.md)
+  * [Filtrar relatórios usando parâmetros de consulta na URL](portal-de-relatorios/portal-de-relatorios/filtrar-relatorios-usando-parametros-de-consulta-na-url.md)
 * [Catálogo de relatórios](portal-de-relatorios/catalogo-de-relatorios.md)
 * [Navegação dos relatórios](portal-de-relatorios/navegacao-dos-relatorios.md)
 * [Aplicativo móvel (PWA)](portal-de-relatorios/aplicativo-movel-pwa.md)

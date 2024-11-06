@@ -10,7 +10,7 @@ Trata-se de um portal white-label, o que significa que pode ser totalmente perso
 
 Além disso, é um portal multi-idiomas, ideal para cenários internacionais.
 
-<figure><img src="../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 No início, o usuário já tem acesso a algumas métricas dos painéis disponíveis e pode clicar para ser redirecionado diretamente a eles. No mesmo menu, é possível escolher entre três tipos de visualização de relatórios:
 
@@ -18,19 +18,19 @@ No início, o usuário já tem acesso a algumas métricas dos painéis disponív
 
 **Lista**: Uma visualização similar à do workspace do Power BI.
 
-<figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 
 
 **Ícones**: Muito útil quando o usuário tem acesso a vários relatórios e precisa identificar cada um de forma rápida.
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 
 
 **Pastas**: Esta visualização oferece uma organização mais clara do ambiente, permitindo visualizar as pastas onde os relatórios estão inseridos e também a divisão entre Relatórios, Aplicativos e painéis de forma individual.
 
-<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 Para facilitar a busca por esses relatórios, é possível pesquisar pelo nome específico ou até mesmo filtrar para exibir apenas os relatórios marcados como favoritos.
 
