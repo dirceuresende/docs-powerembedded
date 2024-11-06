@@ -14,6 +14,10 @@ Pesquise pelo conjunto de dados que você gostaria de configurar a filtragem din
 
 <figure><img src="../../.gitbook/assets/image (390).png" alt=""><figcaption></figcaption></figure>
 
+Essa é a tela de configuração da filtragem dinâmica:
+
+<figure><img src="../../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
+
 Na tela de filtragem dinâmica, você precisará configurar 3 parâmetros:
 
 *   **Nome da propriedade na chamada da API**: Esse é o nome da propriedade que será utilizada para passar o valor a ser filtrado na chamada da API. Esse nome da propriedade pode ser definido por você, e deverá ser utilizado na chamada da API.\
@@ -22,16 +26,13 @@ Na tela de filtragem dinâmica, você precisará configurar 3 parâmetros:
     <figure><img src="../../.gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
 
 
-*   **Nome do parâmetro no modelo**: Esse é o nome da tabela e da coluna que serão filtrados no seu modelo de dados. O formato desse campo deve seguir o padrão tabela/coluna e é case sensitive, ou seja, existe diferença entre maiúsculo e minúsculo e deve ser igual ao que está no Power BI.\
+*   **Nome do parâmetro no modelo**: Esse é o nome da tabela e da coluna que serão filtrados no seu relatório. O formato desse campo deve seguir o padrão tabela/coluna e é case sensitive, ou seja, existe diferença entre maiúsculo e minúsculo e deve ser igual ao que está no Power BI.\
 
 
     <figure><img src="../../.gitbook/assets/image (393).png" alt=""><figcaption></figcaption></figure>
 
 
-*   **Operador**: Qual o operador de comparação deve ser utilizado para filtrar os dados. Na grande maioria dos casos, o operador será o "=".\
-
-
-    <figure><img src="../../.gitbook/assets/image (398).png" alt=""><figcaption></figcaption></figure>
+* **Operador**: Qual o operador de comparação deve ser utilizado para filtrar os dados. Na grande maioria dos casos, o operador será o "=".
 
 
 
