@@ -4,15 +4,29 @@
 
 Se você encontrou o erro abaixo ao tentar acessar o portal de administração ou um erro relacionado à senha do usuário de serviço do Power BI no portal de relatórios, não se preocupe. Isso ocorreu porque a senha do usuário de serviço do Power BI expirou ou foi alterada no portal do Azure.
 
+<figure><img src="../../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
+
+Outra mensagem de erro bem comum quando a senha expira é quando um usuário tentar abrir um relatório no portal de visualização e se depara com a mensagem de erro abaixo:
+
+<figure><img src="../../../.gitbook/assets/image (403).png" alt=""><figcaption></figcaption></figure>
+
+A tela de Configurações irá te alertar quando essa senha está próximo de expirar:
+
+<figure><img src="../../../.gitbook/assets/image (402).png" alt=""><figcaption></figcaption></figure>
+
+A tela inicial do Power Embedded também mostra um alerta quando essa senha está perto de expirar:
+
+<figure><img src="../../../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
+
+
+
 Para resolver o problema, basta gerar uma nova senha no portal do Azure e atualizar a senha na tela de configurações do Power Embedded.
 
 Siga o passo a passo abaixo para concluir o processo:
 
-<figure><img src="../../../.gitbook/assets/image (192).png" alt=""><figcaption></figcaption></figure>
 
 
 
-Outra mensagem de erro bem comum é quando a senha expira. Quando um usuário tentar abrir um relatório no portal de visualização, irá ver a mensagem de erro abaixo:
 
 <div align="left">
 

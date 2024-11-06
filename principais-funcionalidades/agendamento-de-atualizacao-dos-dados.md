@@ -16,4 +16,4 @@ Com o agendamento pelo Power Embedded, isso não acontece, evitando esse tipo de
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Agendar atualização do conjunto de dados</td><td></td><td><a href="../.gitbook/assets/big-data (2).png">big-data (2).png</a></td><td><a href="../portal-de-administracao/artefatos/conjunto-de-dados.md">conjunto-de-dados.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Agendar atualização do conjunto de dados</td><td></td><td><a href="../.gitbook/assets/big-data (2).png">big-data (2).png</a></td><td><a href="../portal-de-administracao/artefatos/conjunto-de-dados/">conjunto-de-dados</a></td></tr></tbody></table>

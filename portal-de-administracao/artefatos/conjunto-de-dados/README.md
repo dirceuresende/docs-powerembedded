@@ -6,13 +6,13 @@ Nas opções de ação, você pode gerenciar regras de RLS, verificar o históri
 
 Além disso, é possível recarregar os conjuntos de dados neste menu.
 
-<figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
 Na maioria dos menus do portal, é possível aplicar filtros e até mesmo exportar para Excel ou CSV. Nessa mesma aba, também é possível recarregar todos os metadados do conjunto de dados.
 
 Ao clicar em “Ações”, é possível acessar algumas funcionalidades.
 
-![](<../../.gitbook/assets/image (31).png>)
+![](<../../../.gitbook/assets/image (31).png>)
 
 
 
@@ -26,7 +26,7 @@ Ao clicar em “Ações”, é possível acessar algumas funcionalidades.
 
 **Histórico de atualização:** Oferece uma visão detalhada sobre as atualizações realizadas.
 
-<figure><img src="../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -45,5 +45,5 @@ Atalhos do Power BI
     \
 
 
-    <figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
