@@ -16,7 +16,7 @@ Pesquise pelo conjunto de dados que você gostaria de configurar a filtragem din
 
 Na tela de filtragem dinâmica, você precisará configurar 3 parâmetros:
 
-*   **Nome da propriedade na chamada da API**: Esse é o nome da propriedade que será utilizada para passar o valor a ser filtrado na chamada da API.\
+*   **Nome da propriedade na chamada da API**: Esse é o nome da propriedade que será utilizada para passar o valor a ser filtrado na chamada da API. Esse nome da propriedade pode ser definido por você, e deverá ser utilizado na chamada da API.\
 
 
     <figure><img src="../../.gitbook/assets/image (392).png" alt=""><figcaption></figcaption></figure>
