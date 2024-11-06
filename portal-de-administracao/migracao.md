@@ -78,7 +78,7 @@ Vá ao portal de administração do Power Embedded no menu de migração, siga e
 
 <figure><img src="../.gitbook/assets/image (382).png" alt=""><figcaption></figcaption></figure>
 
-**Etapa 2:** Abra o script PowerShell disponível neste [\[link aqui\]](https://admin.powerembedded.com.br/powershell/migrationtool.txt), copie e cole no Power Shell
+**Etapa 2:** Abra o script PowerShell disponível no link dessa página, copie e cole no Power Shell
 
 **Etapa 3**: Substitua as variáveis do script pelos respectivos valores
 
