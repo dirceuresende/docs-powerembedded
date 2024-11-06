@@ -10,7 +10,17 @@ Durante a [instalação do Power Embedded](../../documentacao-tecnica/instalacao
 
 Quando essa senha expira, é quando o erro acima aparece no Power Embedded, pois não está sendo mais possível estabelecer essa comunicação.
 
-Caso isso tenha acontecido, siga esses 6 passos abaixo para criação de uma nova senha do usuário de serviço.
+
+
+A tela inicial do Power Embedded também mostra alguns alertas quando essa senha está perto de expirar:
+
+<figure><img src="../../.gitbook/assets/image (401).png" alt=""><figcaption></figcaption></figure>
+
+Assim como a tela de Configurações também irá te alertar quando essa senha está próximo de expirar:
+
+<figure><img src="../../.gitbook/assets/image (402).png" alt=""><figcaption></figcaption></figure>
+
+Caso a senha do Power Embedded tenha expirado ou esteja perto de expirar, siga esses 6 passos abaixo para criação de uma nova senha do usuário de serviço.
 
 
 
