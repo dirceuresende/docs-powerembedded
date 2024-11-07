@@ -36,7 +36,7 @@ Para clientes que possuem mais de 1.500 usuários ou por algum motivo, como LGPD
 
 Nesse formato, a equipe da Power Tuning instala o Power Embedded na assinatura Azure do cliente e realizará a cobrança da mensalidade de R$ 5.000,00 independente da quantidade de usuários, para mais ou para menos, e a gestão dos recursos fica por conta do cliente.
 
-Neste formato, o cliente que irá arcar com os custos de infraestrutura necessários para o Power Embedded funcionar (aproximadamente R$ 1.500,00), tendo total gestão sobre os recursos da aplicação e banco de dados, podendo escalar livremente conforme necessidade.
+No modelo PaaS, o cliente que irá arcar com os custos de infraestrutura necessários para o Power Embedded funcionar (aproximadamente R$ 1.500,00), tendo total gestão sobre os recursos da aplicação e banco de dados, podendo escalar livremente conforme necessidade.
 
 
 
