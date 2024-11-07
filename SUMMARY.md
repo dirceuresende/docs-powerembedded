@@ -52,6 +52,8 @@
   * [Personalização do portal e tela de login](principais-funcionalidades/personalizacao-do-portal-e-tela-de-login.md)
   * [Compartilhamento com usuários externos](principais-funcionalidades/compartilhamento-com-usuarios-externos.md)
   * [IA Generativa - Power Pilot](principais-funcionalidades/ia-generativa-power-pilot.md)
+  * [Sincronização automática de usuários com Entra ID](https://docs.powerembedded.com.br/portal-de-administracao/grupos/sincronizar-com-entra-id)
+  * [IA Generativa no WhatsApp](https://docs.powerembedded.com.br/portal-de-administracao/power-pilot-ia/ia-no-whatsapp)
 * [Calculadora](https://powerembedded.com.br/calculadora)
 * [Parceria Azure](https://powertuning.com.br/parceria-azure)
 * [Política de Privacidade](politica-de-privacidade.md)
