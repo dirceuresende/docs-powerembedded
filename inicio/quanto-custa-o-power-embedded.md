@@ -1,5 +1,7 @@
 # Quanto custa o Power Embedded?
 
+### Valor do Power Embedded - Modelo SaaS (Software como Serviço)
+
 Para ter acesso ao Power Embedded e começar a economizar no licenciamento de Power BI, você precisará fazer apenas 3 investimentos, sendo 2 mensais e 1 que você irá pagar única vez, que são:
 
 \
@@ -27,6 +29,18 @@ O custo por usuário do Power Embedded reduz conforme a quantidade de usuários:
 * **R$ 3,00** por usuário para **mais de 1.000 usuários**
 
 
+
+### Valor do Power Embedded - Modelo PaaS (Plataforma como Serviço)
+
+Para clientes que possuem mais de 1.500 usuários ou por algum motivo, como LGPD, precisem que os recursos da aplicação fiquem sob a sua gestão, **existe um outro modelo de cobrança, no formato PaaS, que é uma assinatura mensal sem cobrança de usuários**.
+
+Nesse formato, a equipe da Power Tuning instala o Power Embedded na assinatura Azure do cliente e realizará a cobrança da mensalidade de R$ 5.000,00 independente da quantidade de usuários, para mais ou para menos, e a gestão dos recursos fica por conta do cliente.
+
+Neste formato, o cliente que irá arcar com os custos de infraestrutura necessários para o Power Embedded funcionar (aproximadamente R$ 1.500,00), tendo total gestão sobre os recursos da aplicação e banco de dados, podendo escalar livremente conforme necessidade.
+
+
+
+### Valor da capacidade
 
 Valores estimados das capacidades do Fabric e Power BI Embedded (258h = 12h por dia x 5 dias na semana):
 
