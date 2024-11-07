@@ -20,7 +20,7 @@ Para acessar a calculadora e gerar um orçamento, acesse a página da [Calculado
 
 
 
-O custo por usuário do Power Embedded reduz conforme a quantidade de usuários:
+O custo **mensal** **por usuário** do Power Embedded reduz conforme a quantidade de usuários:
 
 * **R$ 5,00** por usuário para até **300 usuários**
 * **R$ 4,50** por usuário para **301 a 500 usuários**
