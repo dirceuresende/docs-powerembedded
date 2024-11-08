@@ -57,6 +57,7 @@
   * [Mostrar relatórios no seu sistema](https://docs.powerembedded.com.br/documentacao-tecnica/api/mostrar-relatorio-no-seu-sistema)
 * [Calculadora](https://powerembedded.com.br/calculadora)
 * [Parceria Azure](https://powertuning.com.br/parceria-azure)
+* [Novidades e Atualizações](https://powerembedded.com.br/blog/)
 * [Política de Privacidade](politica-de-privacidade.md)
 
 ## Portal de Relatórios
