@@ -1,5 +1,7 @@
 # IA no WhatsApp
 
+{% embed url="https://www.youtube.com/watch?v=3z20ledHp5Q" %}
+
 Desde o seu [lançamento](https://powerembedded.com.br/power-pilot-ia/), o Power Pilot tem sido um verdadeiro sucesso, transformando a maneira como nossos clientes tomam decisões com eficiência e agilidade.&#x20;
 
 Imagine ter todo esse poder diretamente na palma da sua mão, com respostas rápidas e precisas em qualquer lugar!
