@@ -18,11 +18,11 @@ Selecione o recurso **Microsoft Fabric** na lista de resultados.
 
 Na tela de visão do recurso, clique em **Pause** para pausar o recurso.
 
-Confirme a ação clicando em **Yes**.
+Confirme a ação clicando em **"Yes"** .
 
 <figure><img src="../../../.gitbook/assets/Fabric 4.png" alt=""><figcaption></figcaption></figure>
 
-Para reiniciar o recurso, clique em **Resume** e confirme a operação.
+Para reiniciar o recurso, clique em **Resume** e confirme a operação clicando em **"Yes"** .
 
 <figure><img src="../../../.gitbook/assets/fabric 5.png" alt=""><figcaption></figcaption></figure>
 
