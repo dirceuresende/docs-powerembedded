@@ -25,7 +25,7 @@ Feito esse processo, a capacidade irá ligar novamente e o ambiente de relatóri
 
 
 {% hint style="warning" %}
-Em alguns cenários, pode ser necessário aumentar o SKU da capacidade. Para realizar esse processo pelo Azure, siga o passo abaixo. É importante lembrar que a alteração do SKU da capacidade impacta nos custos.
+Em alguns cenários, pode ser necessário aumentar o SKU da capacidade. Para realizar esse processo pelo Power Embedded, siga o passo abaixo. É importante lembrar que a alteração do SKU da capacidade impacta nos custos.
 {% endhint %}
 
 ## Como alterar a capacidade pelo Power Embedded
@@ -34,7 +34,7 @@ Em alguns cenários, pode ser necessário aumentar o SKU da capacidade. Para rea
 
 Acesse o menu de **artefatos** e selecione **capacidades**.
 
-Na capacidade contratada, clique em **ações** e depois em **alterar o tamanho da capacidade**.
+Na capacidade contratada, clique em **ações** e depois em **alterar o tamanho**.
 
 <figure><img src="../../../.gitbook/assets/Alterar.png" alt=""><figcaption></figcaption></figure>
 

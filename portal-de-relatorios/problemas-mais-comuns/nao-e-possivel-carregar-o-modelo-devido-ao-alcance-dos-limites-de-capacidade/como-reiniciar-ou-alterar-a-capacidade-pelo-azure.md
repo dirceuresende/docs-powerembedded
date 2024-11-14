@@ -34,8 +34,6 @@ Em alguns cenários, pode ser necessário aumentar o SKU da capacidade. Para rea
 
 ## Aumentar a capacidade pelo Azure
 
-#### Aumentar a Capacidade pelo Azure
-
 No portal do Azure, busque por **Microsoft Fabric** na barra de pesquisa e selecione o recurso.
 
 <figure><img src="../../../.gitbook/assets/Fabric 1.png" alt=""><figcaption></figcaption></figure>
