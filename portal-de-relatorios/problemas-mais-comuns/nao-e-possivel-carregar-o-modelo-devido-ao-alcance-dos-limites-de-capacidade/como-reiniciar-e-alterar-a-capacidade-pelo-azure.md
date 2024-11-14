@@ -1,4 +1,4 @@
-# Como reiniciar ou alterar a capacidade pelo Azure
+# Como reiniciar e alterar a capacidade pelo Azure
 
 {% hint style="warning" %}
 Utilize esta opção caso alguém do time de suporte do Power Embedded tenha indicado realizá-lo.
@@ -6,7 +6,7 @@ Utilize esta opção caso alguém do time de suporte do Power Embedded tenha ind
 
 ## Reiniciar a capacidade pelo Azure
 
-Acesse o **portal do Azure**.
+Acesse o [**Portal do Azure.**](https://portal.azure.com/#browse/Microsoft.Fabric%2Fcapacities)
 
 No menu inicial, vá até a barra de pesquisa e procure por **Microsoft Fabric**.
 
@@ -34,7 +34,7 @@ Em alguns cenários, pode ser necessário aumentar o SKU da capacidade. Para rea
 
 ## Aumentar a capacidade pelo Azure
 
-No portal do Azure, busque por **Microsoft Fabric** na barra de pesquisa e selecione o recurso.
+No[ Portal do Azure](https://portal.azure.com/#browse/Microsoft.Fabric%2Fcapacities), busque por **Microsoft Fabric** na barra de pesquisa e selecione o recurso.
 
 <figure><img src="../../../.gitbook/assets/Fabric 1.png" alt=""><figcaption></figcaption></figure>
 
