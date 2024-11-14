@@ -10,21 +10,13 @@ Agora você precisa analisar o relatório [Fabric Capacity Metrics](https://apps
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-
-
-## Como reiniciar ou aumentar a capacidade pelo Power Embedded
-
+Abaixo, você tem a opção de reiniciar e alterar a capacidade de duas maneiras, pelo Azure ou diretamente pelo Power Embedded.
 
 
 
+{% embed url="https://docs.powerembedded.com.br/portal-de-relatorios/problemas-mais-comuns/nao-e-possivel-carregar-o-modelo-devido-ao-alcance-dos-limites-de-capacidade/como-reiniciar-ou-alterar-a-capacidade-pelo-power-embedded" %}
 
-
-
-
-
-
-
-
+{% embed url="https://docs.powerembedded.com.br/portal-de-relatorios/problemas-mais-comuns/nao-e-possivel-carregar-o-modelo-devido-ao-alcance-dos-limites-de-capacidade/como-reiniciar-ou-alterar-a-capacidade-pelo-azure" %}
 
 Se precisar de ajuda para realizar essa análise, [agende uma reunião](https://powerembedded.com.br/reuniao-suporte) com o time de suporte.
 

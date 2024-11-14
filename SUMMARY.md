@@ -79,8 +79,8 @@
   * [Relatórios utilizando Live Connection com Analysis Services não carregam](portal-de-relatorios/problemas-mais-comuns/relatorios-utilizando-live-connection-com-analysis-services-nao-carregam.md)
   * [Sua capacidade de avaliação gratuita do Fabric expirará em X dias](portal-de-relatorios/problemas-mais-comuns/sua-capacidade-de-avaliacao-gratuita-do-fabric-expirara-em-x-dias.md)
   * [Não é possível carregar o modelo devido ao alcance dos limites de capacidade](portal-de-relatorios/problemas-mais-comuns/nao-e-possivel-carregar-o-modelo-devido-ao-alcance-dos-limites-de-capacidade/README.md)
-    * [Como reiniciar ou alterar a capacidade pelo Power Embedded](portal-de-relatorios/problemas-mais-comuns/nao-e-possivel-carregar-o-modelo-devido-ao-alcance-dos-limites-de-capacidade/como-reiniciar-ou-alterar-a-capacidade-pelo-power-embedded.md)
-    * [Como reiniciar ou alterar a capacidade pelo Azure](portal-de-relatorios/problemas-mais-comuns/nao-e-possivel-carregar-o-modelo-devido-ao-alcance-dos-limites-de-capacidade/como-reiniciar-ou-alterar-a-capacidade-pelo-azure.md)
+    * [Como reiniciar e alterar a capacidade pelo Power Embedded](portal-de-relatorios/problemas-mais-comuns/nao-e-possivel-carregar-o-modelo-devido-ao-alcance-dos-limites-de-capacidade/como-reiniciar-e-alterar-a-capacidade-pelo-power-embedded.md)
+    * [Como reiniciar e alterar a capacidade pelo Azure](portal-de-relatorios/problemas-mais-comuns/nao-e-possivel-carregar-o-modelo-devido-ao-alcance-dos-limites-de-capacidade/como-reiniciar-e-alterar-a-capacidade-pelo-azure.md)
   * [Não foi possível carregar os dados para este visual: ClientError\_TokenExpired](portal-de-relatorios/problemas-mais-comuns/nao-foi-possivel-carregar-os-dados-para-este-visual-clienterror\_tokenexpired.md)
   * [Erro ao exportar relatório - Error Code 400](portal-de-relatorios/problemas-mais-comuns/erro-ao-exportar-relatorio-error-code-400.md)
 
