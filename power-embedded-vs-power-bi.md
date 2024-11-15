@@ -98,7 +98,7 @@ Segue abaixo uma tabela comparando as principais semelhanças e diferenças entr
 
 ### 5. Limitações do Power Embedded
 
-<mark style="color:red;">**Embora o Power Embedded ofereça soluções poderosas, existem algumas limitações que, devido a não ter suporte na API oficial do Power BI, você perde acesso:**</mark>
+<mark style="color:red;">**Embora o Power Embedded ofereça soluções poderosas, existem algumas limitações que, devido a não ter suporte na API oficial do Power BI, você não consegue fazer pelo portal:**</mark>
 
 * **Analisar no Excel**: Caso a quantidade de usuários que precisam dessa funcionalidade seja baixa, pode liberar algumas contas Pro para que eles continuem utilizando essa funcionalidade.
 * **Direct Lake**: Não suportado ainda pela API.
