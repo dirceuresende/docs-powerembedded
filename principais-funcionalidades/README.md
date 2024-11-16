@@ -10,7 +10,7 @@ icon: wrench
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>IA com baixo custo</td><td></td><td><a href="ia-generativa-power-pilot.md">ia-generativa-power-pilot.md</a></td><td><a href="../.gitbook/assets/Group 14.png">Group 14.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-type="content-ref"></th><th data-hidden data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>IA com baixo custo</td><td></td><td><a href="ia-generativa-power-pilot.md">ia-generativa-power-pilot.md</a></td><td><a href="ia-generativa-power-pilot.md">ia-generativa-power-pilot.md</a></td><td><a href="../.gitbook/assets/Group 14.png">Group 14.png</a></td></tr></tbody></table>
 
 
 
