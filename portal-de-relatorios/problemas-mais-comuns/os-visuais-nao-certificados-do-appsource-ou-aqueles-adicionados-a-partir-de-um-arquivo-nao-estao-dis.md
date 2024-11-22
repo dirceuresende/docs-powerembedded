@@ -6,9 +6,12 @@ Esse erro ocorre quando você tenta utilizar um visual não certificado no Power
 
 ### Como resolver ?
 
-Para corrigir esse problema e permitir o uso de visuais não certificados, siga os passos abaixo:
+Para corrigir esse problema e permitir o uso de visuais não certificados, siga os passos abaixo:\
 
-&#x20;
+
+{% hint style="warning" %}
+Para seu usuário conseguir realizar essa configuração ele precisa ter a função de Administrador do Fabric
+{% endhint %}
 
 Acesse o Portal de Administração do Power BI Serviço, [clique nesse link.](https://app.powerbi.com/admin-portal/tenantSettings?experience=power-bi)
 
