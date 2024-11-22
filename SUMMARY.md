@@ -83,6 +83,7 @@
     * [Como reiniciar e alterar a capacidade pelo Azure](portal-de-relatorios/problemas-mais-comuns/nao-e-possivel-carregar-o-modelo-devido-ao-alcance-dos-limites-de-capacidade/como-reiniciar-e-alterar-a-capacidade-pelo-azure.md)
   * [Não foi possível carregar os dados para este visual: ClientError\_TokenExpired](portal-de-relatorios/problemas-mais-comuns/nao-foi-possivel-carregar-os-dados-para-este-visual-clienterror\_tokenexpired.md)
   * [Erro ao exportar relatório - Error Code 400](portal-de-relatorios/problemas-mais-comuns/erro-ao-exportar-relatorio-error-code-400.md)
+  * [Os visuais não certificados do AppSource ou aqueles adicionados a partir de um arquivo não estão dis](portal-de-relatorios/problemas-mais-comuns/os-visuais-nao-certificados-do-appsource-ou-aqueles-adicionados-a-partir-de-um-arquivo-nao-estao-dis.md)
 
 ## Portal de Administração
 

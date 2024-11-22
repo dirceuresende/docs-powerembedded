@@ -32,15 +32,15 @@ Segue exemplo para demonstrar a diferença entre cada um dos tipos de visualiza�
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Visualização de Pastas</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Visualização de Pastas</p></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Visualização de Ícones</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Visualização de Ícones</p></figcaption></figure>
 
  
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Visualização de Lista</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Visualização de Lista</p></figcaption></figure>
 
 </div>
 
@@ -49,7 +49,7 @@ Esse parâmetro é para definir o tipo padrão de visualização, quando o usuá
 \
 Uma vez que o usuário tenha selecionado o tipo de visualização desejado, ao clicar em uma das opções abaixo, o portal irá respeitar a preferência do usuário, sobrepondo essa parâmetro.\
 \
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (4).png>)
 {% endhint %}
 
 
