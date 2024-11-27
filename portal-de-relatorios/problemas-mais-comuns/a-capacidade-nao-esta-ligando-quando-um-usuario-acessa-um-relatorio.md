@@ -47,7 +47,7 @@ Acesse a página [Permissões no Azure](../../portal-de-administracao/artefatos/
 
 Acesse a [página de Capacidades](https://admin.powerembedded.com.br/Capacities) e verifique se a capacidade contratada aparece na lista.
 
-Caso não esteja, clique no botão **Recarregar** para atualizar a lista de capacidades**.**
+Caso não esteja, clique no botão **Recarregar** para atualizar a lista de capacidade&#x73;**.**
 
 <figure><img src="../../.gitbook/assets/image (345).png" alt=""><figcaption></figcaption></figure>
 

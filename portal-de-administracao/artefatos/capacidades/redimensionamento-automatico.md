@@ -37,7 +37,7 @@ Após configurar tudo no Azure para gerenciar o recurso diretamente no portal, s
 3. Caso apareça a mensagem “Não configurado” ao lado da capacidade que você quer controlar, você precisará configurar a capacidade corretamente no Power Embedded e liberar as permissões necessárias para o sistema poder gerenciar a capacidade. Veja mais em [Permissões do Azure](permissoes-no-azure.md).
 4. Clique no botão _**Ações**_ ao lado da capacidade que você quer alterar e clique na opção _**Editar**_
 5. Na tela de edição de capacidades, clique na aba _**Otimização de Custo**_
-6. Ative a opção _**Otimização de Custo**_ e selecione _**Definir horário para otimização de custos**_** para iniciar a configuração.** Isso será permitir a alterações agendadas da capacidade.
+6. Ative a opção _**Otimização de Custo**_ e selecione _**Definir horário para otimização de custos**_**&#x20;para iniciar a configuração.** Isso será permitir a alterações agendadas da capacidade.
 
 
 

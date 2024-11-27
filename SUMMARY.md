@@ -26,6 +26,7 @@
     * [Posso utilizar o Power BI Pro ou Premium por Usuário para Embeddar?](perguntas-frequentes/licenciamento/posso-utilizar-o-power-bi-pro-ou-premium-por-usuario-para-embeddar.md)
     * [Ainda preciso de licença Pro do Power BI, mesmo com Embedded?](perguntas-frequentes/licenciamento/ainda-preciso-de-licenca-pro-do-power-bi-mesmo-com-embedded.md)
     * [Eu não consigo compartilhar os relatórios sem pagar nenhuma licença?](perguntas-frequentes/licenciamento/eu-nao-consigo-compartilhar-os-relatorios-sem-pagar-nenhuma-licenca.md)
+    * [Para acessar relatórios sem ter licença PRO não é apenas a partir do F64?](perguntas-frequentes/licenciamento/para-acessar-relatorios-sem-ter-licenca-pro-nao-e-apenas-a-partir-do-f64.md)
   * [Capacidades dedicadas](perguntas-frequentes/capacidades-dedicadas/README.md)
     * [Fabric? Power BI Embedded? O que são essas capacidades?](perguntas-frequentes/capacidades-dedicadas/fabric-power-bi-embedded-o-que-sao-essas-capacidades.md)
     * [Enquanto a capacidade estiver pausada, ninguém acessa os relatórios?](perguntas-frequentes/capacidades-dedicadas/enquanto-a-capacidade-estiver-pausada-ninguem-acessa-os-relatorios.md)
@@ -81,7 +82,7 @@
   * [Não é possível carregar o modelo devido ao alcance dos limites de capacidade](portal-de-relatorios/problemas-mais-comuns/nao-e-possivel-carregar-o-modelo-devido-ao-alcance-dos-limites-de-capacidade/README.md)
     * [Como reiniciar e alterar a capacidade pelo Power Embedded](portal-de-relatorios/problemas-mais-comuns/nao-e-possivel-carregar-o-modelo-devido-ao-alcance-dos-limites-de-capacidade/como-reiniciar-e-alterar-a-capacidade-pelo-power-embedded.md)
     * [Como reiniciar e alterar a capacidade pelo Azure](portal-de-relatorios/problemas-mais-comuns/nao-e-possivel-carregar-o-modelo-devido-ao-alcance-dos-limites-de-capacidade/como-reiniciar-e-alterar-a-capacidade-pelo-azure.md)
-  * [Não foi possível carregar os dados para este visual: ClientError\_TokenExpired](portal-de-relatorios/problemas-mais-comuns/nao-foi-possivel-carregar-os-dados-para-este-visual-clienterror\_tokenexpired.md)
+  * [Não foi possível carregar os dados para este visual: ClientError\_TokenExpired](portal-de-relatorios/problemas-mais-comuns/nao-foi-possivel-carregar-os-dados-para-este-visual-clienterror_tokenexpired.md)
   * [Erro ao exportar relatório - Error Code 400](portal-de-relatorios/problemas-mais-comuns/erro-ao-exportar-relatorio-error-code-400.md)
   * [Os visuais não certificados do AppSource ou aqueles adicionados a partir de um arquivo não estão dis](portal-de-relatorios/problemas-mais-comuns/os-visuais-nao-certificados-do-appsource-ou-aqueles-adicionados-a-partir-de-um-arquivo-nao-estao-dis.md)
 
