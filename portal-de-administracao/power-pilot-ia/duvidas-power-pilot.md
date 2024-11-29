@@ -4,6 +4,12 @@
 
 Esta documentação foi criada para esclarecer as principais dúvidas relacionadas à funcionalidade do **Power Pilot**. Aqui, você encontrará respostas detalhadas sobre o que é o Power Pilot, como ele funciona, seus custos, integrações e outras questões importantes.
 
+
+
+{% hint style="info" %}
+Esta documentação tem o objetivo de responder às possíveis dúvidas que você pode ter em relação à funcionalidade do Power Pilot. Para configurar o Power Pilot, siga a documentação oficial: **Como configurar o Power Pilot**.
+{% endhint %}
+
 ## O que é Power Pilot ?
 
 O **Power Pilot** é uma IA generativa desenvolvida para ajudar você a criar assistentes personalizados que respondem às suas perguntas de negócios de maneira eficiente.
@@ -26,20 +32,14 @@ O custo é calculado por tokens:
 * **Token de entrada (input)**: As perguntas feitas ao assistente.
 * **Token de saída (output)**: As respostas geradas pelo assistente.
 
-Por exemplo, com o modelo **GPT-4O-mini**:
+Por exemplo, com o modelo **GPT-4o-mini**:
 
 * **Custo de input**: $0,15 de dólares por 1 milhão de tokens.&#x20;
 * **Custo de output**: $0,60 dólares  por 1 milhão de tokens.
 
 Você só será cobrado quando atingir 1 milhão de tokens, tornando a funcionalidade acessível e econômica. Além disso, se não houver interação com o assistente, não haverá custo
 
-</details>
-
-<details>
-
-<summary><strong>Existe previsão de custo mensal?</strong></summary>
-
-Por ser uma funcionalidade paga por uso, o custo varia. Porém, em testes, 400 perguntas feitas ao assistente resultaram em menos de $5 de custo.
+Preço dos modelos de IA: [https://openai.com/api/pricing/](https://openai.com/api/pricing/)
 
 </details>
 
@@ -54,6 +54,16 @@ No site da Open AI, você consegue ter uma demonstração do que é tokens, e um
 Tokenizer: [https://platform.openai.com/tokenizer](https://platform.openai.com/tokenizer)
 
 
+
+</details>
+
+<details>
+
+<summary><strong>Existe previsão de custo mensal?</strong></summary>
+
+Por ser uma funcionalidade paga por uso, o custo pode variar. No entanto, em testes realizados, 400 perguntas feitas ao assistente resultaram em um custo inferior a 5 dólares.
+
+Além disso, no portal de administração do Power Embedded, há uma auditoria específica para o uso do Power Pilot. Essa funcionalidade é muito útil quando é necessário acompanhar a quantidade de tokens utilizados, estimar os custos e obter uma visão geral sobre o consumo. Com isso, você consegue ter uma estimativa precisa dos custos envolvidos.
 
 </details>
 
