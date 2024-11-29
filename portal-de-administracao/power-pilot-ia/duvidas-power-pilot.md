@@ -109,7 +109,7 @@ Sim, ambas são ferramentas de inteligência artificial porém distintas:
 
 <details>
 
-<summary>O Power Pilot funciona se eu usar a funcionalidade de "Mostrar os relatórios na aplicação"</summary>
+<summary><strong>O Power Pilot funciona se eu usar a funcionalidade de "Mostrar os relatórios na aplicação"</strong></summary>
 
 Sim, é possível utilizar a funcionalidade do Power Pilot. No entanto, como o Power Pilot é exibido na barra de navegação do relatório, é necessário configurar o parâmetro **HideNavbar** da API de Identity como **true** (hideNavbar = TRUE) para habilitar essa funcionalidade corretamente.
 
@@ -117,7 +117,7 @@ Sim, é possível utilizar a funcionalidade do Power Pilot. No entanto, como o P
 
 <details>
 
-<summary>Eu não tenho uma assinatura paga no Azure ? Posso usar a gratuita ?</summary>
+<summary><strong>Eu não tenho uma assinatura paga no Azure ? Posso usar a gratuita ?</strong></summary>
 
 Para utilizar a funcionalidade do **Power Pilot**, é recomendado ter uma assinatura paga no Azure. A assinatura gratuita oferecida pelo Azure tem uma limitação de tokens, geralmente inferior a 10K tokens por minuto, o que é insuficiente para o uso ideal dessa funcionalidade.
 
@@ -133,7 +133,7 @@ Tornar-se parceiro Microsoft é gratuito. Basta preencher o formulário no link 
 
 <details>
 
-<summary>É preciso treinar o modelo ?</summary>
+<summary><strong>É preciso treinar o modelo ?</strong></summary>
 
 Não é necessário treinar o modelo para utilizar o Power Pilot. Todos os prompts já são configurado internamente via código. Basta seguir as instruções da nossa documentação para configurar o Power Pilot e começar a utilizá-lo imediatamente.\
 \
@@ -143,7 +143,7 @@ Não é necessário treinar o modelo para utilizar o Power Pilot. Todos os promp
 
 <details>
 
-<summary>Eu já tenho um GPT Pro contratado na open AI, posso utilizar no Power Pilot ?</summary>
+<summary><strong>Eu já tenho um GPT Pro contratado na open AI, posso utilizar no Power Pilot ?</strong></summary>
 
 Não, o GPT Pro é o GPT como serviço. No caso do Power Pilot, é necessário utilizar a API de um modelo de IA. Quando você precisa de uma IA isolada ou personalizada, pode contratar as APIs, e o cliente tem a liberdade de escolher o modelo que deseja usar, como o GPT-4, GPT-4O Mini, entre outros.
 
