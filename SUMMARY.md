@@ -161,6 +161,7 @@
   * [Assistentes de IA](portal-de-administracao/power-pilot-ia/assistentes-de-ia.md)
   * [RLS no PowerPilot](portal-de-administracao/power-pilot-ia/rls-no-powerpilot.md)
   * [Auditoria](portal-de-administracao/power-pilot-ia/auditoria.md)
+  * [Dúvidas Power Pilot](portal-de-administracao/power-pilot-ia/duvidas-power-pilot.md)
   * [IA no WhatsApp](portal-de-administracao/power-pilot-ia/ia-no-whatsapp.md)
 * [Firewall](portal-de-administracao/firewall/README.md)
   * [Tentativas de logins bloqueadas](portal-de-administracao/firewall/tentativas-de-logins-bloqueadas.md)
