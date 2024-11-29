@@ -7,7 +7,7 @@ Esta documentação foi criada para esclarecer as principais dúvidas relacionad
 
 
 {% hint style="info" %}
-Esta documentação tem o objetivo de responder às possíveis dúvidas que você pode ter em relação à funcionalidade do Power Pilot. Para configurar o Power Pilot, siga a documentação oficial: **Como configurar o Power Pilot**.
+Esta documentação tem o objetivo de responder às possíveis dúvidas que você pode ter em relação à funcionalidade do Power Pilot. Para configurar o Power Pilot, siga a documentação oficial:[ **Como configurar o Power Pilot**.](https://docs.powerembedded.com.br/portal-de-administracao/power-pilot-ia)
 {% endhint %}
 
 ## O que é Power Pilot ?
