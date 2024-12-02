@@ -9,9 +9,21 @@ Para que você tenha um assistente no portal, é preciso fazer a configuração 
 3. [Criar um modelo](../modelos-de-ia.md) no Power Embedded
 4. [Criar um assistente](../assistentes-de-ia.md) no Power Embedded
 
+Requisitos para criação de um assistente na Azure,
+
+* Ter uma assinatura paga&#x20;
+
+{% hint style="warning" %}
+Para contratar o modelo de IA, é indispensável optar por uma assinatura paga, pois a versão gratuita possui uma limitação muito baixa de tokens, tornando-a incompatível com o Power Pilot. Caso ainda não tenha uma assinatura, podemos ajudá-lo. Como Parceiros Microsoft, oferecemos suporte para disponibilizar a assinatura rapidamente. Basta preencher este formulário para que nosso time de cloud entre em contato:[ Parceria Azure.](https://powertuning.com.br/parceria-azure)
+{% endhint %}
 
 
-Para criar o recurso de IA no Azure [clique nesse link](https://portal.azure.com/#view/Microsoft\_Azure\_ProjectOxford/CognitiveServicesHub/\~/OpenAI).
+
+Para criar o recurso de IA acesso [clique nesse link](https://platform.openai.com/assistants).
+
+
+
+Para criar o recurso de IA no Azure [clique nesse link](https://portal.azure.com/#view/Microsoft_Azure_ProjectOxford/CognitiveServicesHub/~/OpenAI).
 
 <figure><img src="../../../.gitbook/assets/image (84).png" alt=""><figcaption></figcaption></figure>
 
@@ -19,41 +31,25 @@ Para criar o recurso de IA no Azure [clique nesse link](https://portal.azure.com
 
 Agora você precisa preencher as informações necessárias para contratação do recurso.
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure></div>
 
 
 
 Após vir para essa próxima tela, pode deixar selecionado a primeira opção.
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (86).png" alt=""><figcaption></figcaption></figure></div>
 
 
 
 Nessa aba, caso você tenha tags para identificar recursos com base em configurações da empresa, basta associar. Caso não tenha, deixe em branco.
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure></div>
 
 
 
 Após verificar os dados e as configurações, basta criar o recurso clicando em “Create”.
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -73,11 +69,7 @@ Nessa nova tela vá em **Implantações > Criar uma implantação.**
 
 Escolher o modelo de IA é uma etapa essencial na configuração do seu assistente virtual. Nesta documentação, optamos pelo modelo GPT-4o-mini devido ao seu custo mais acessível por token. [Clique e saiba mais](https://azure.microsoft.com/pt-br/pricing/details/cognitive-services/openai-service/)
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure></div>
 
 Você pode definir o limite de taxa de tokens de acordo com suas necessidades de uso do assistente. No entanto, para garantir uma experiência mais fluida e eficiente, é recomendável manter o limite mínimo de 100K tokens por minuto.
 
