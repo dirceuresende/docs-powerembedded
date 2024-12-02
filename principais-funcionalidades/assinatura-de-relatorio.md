@@ -19,7 +19,9 @@ O sistema gera relatórios individualizados para cada usuário com base nas regr
 
 ### Escolher qual página do relatório enviar por email:
 
-O usuário pode selecionar especificamente a página do relatório a ser enviada por e-mail, ideal para relatórios com múltiplas páginas. Essa funcionalidade simplifica o compartilhamento direcionado de dashboards, garantindo que o destinatário receba apenas a informação relevante
+O usuário pode selecionar especificamente a página do relatório a ser enviada por e-mail, ideal para relatórios com múltiplas páginas. Essa funcionalidade simplifica o compartilhamento direcionado de dashboards, garantindo que o destinatário receba apenas a informação relevante\
+\
+![](<../.gitbook/assets/image (411).png>)
 
 &#x20;
 
