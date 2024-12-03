@@ -18,7 +18,7 @@ icon: wrench
 
 ### 3. Atualização dos Dados&#x20;
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>Agendamento de atualização dos dados</td><td></td><td><a href="agendamento-de-atualizacao-dos-dados.md">agendamento-de-atualizacao-dos-dados.md</a></td><td><a href="../.gitbook/assets/Group 23.png">Group 23.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>Atualização com intervalos 5 minutos</td><td></td><td><a href="atualizacao-dos-dados.md#atualizacao-com-intervalos-de-5-minutos">#atualizacao-com-intervalos-de-5-minutos</a></td><td><a href="../.gitbook/assets/Group 12 (1).png">Group 12 (1).png</a></td></tr><tr><td></td><td>Não precisa tomar o controle para gerenciar, várias pessoas podem administrar</td><td></td><td><a href="atualizacao-dos-dados.md#nao-precisa-tomar-o-controle-para-gerenciar-verias-pessoas-podem-administrar">#nao-precisa-tomar-o-controle-para-gerenciar-verias-pessoas-podem-administrar</a></td><td><a href="../.gitbook/assets/Group 3.png">Group 3.png</a></td></tr><tr><td></td><td>Mesmo após 5 falhas, continua funcionando</td><td></td><td><a href="atualizacao-dos-dados.md#mesmo-apos-5-falhas-continua-funcionando">#mesmo-apos-5-falhas-continua-funcionando</a></td><td><a href="../.gitbook/assets/Group 28.png">Group 28.png</a></td></tr></tbody></table>
 
 ### 4. Auditorias:
 
