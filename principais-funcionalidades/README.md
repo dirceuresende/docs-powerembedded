@@ -60,11 +60,7 @@ icon: wrench
 
 <table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>Autenticação com Google</td><td></td><td><a href="autenticacao-integrada-microsoft-google-e-usuario-senha.md#autenticacao-google">#autenticacao-google</a></td><td><a href="../.gitbook/assets/Group 30.png">Group 30.png</a></td></tr><tr><td></td><td>E-mail/senha</td><td></td><td><a href="autenticacao-integrada-microsoft-google-e-usuario-senha.md#usuario-e-senha">#usuario-e-senha</a></td><td><a href="../.gitbook/assets/Group 29.png">Group 29.png</a></td></tr><tr><td></td><td>Autenticação integrda Microsoft </td><td></td><td><a href="autenticacao-integrada-microsoft-google-e-usuario-senha.md#autenticacao-microsoft">#autenticacao-microsoft</a></td><td><a href="../.gitbook/assets/Group 44.png">Group 44.png</a></td></tr></tbody></table>
 
-
-
 ## 14. API
 
-
-
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>Mostrar relatório no seu sistema </td><td></td><td><a href="../documentacao-tecnica/api/mostrar-relatorio-no-seu-sistema.md">mostrar-relatorio-no-seu-sistema.md</a></td><td><a href="../.gitbook/assets/Group 50.png">Group 50.png</a></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>Mostrar relatório no seu sistema </td><td></td><td><a href="../documentacao-tecnica/api/mostrar-relatorio-no-seu-sistema.md">mostrar-relatorio-no-seu-sistema.md</a></td><td><a href="../.gitbook/assets/Group 50.png">Group 50.png</a></td></tr></tbody></table>
 
