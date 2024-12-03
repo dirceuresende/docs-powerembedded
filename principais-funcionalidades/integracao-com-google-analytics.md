@@ -12,4 +12,4 @@ A documentação detalhada oferece um guia passo a passo para configurar e explo
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Integração  com Google Analytics</td><td><a href="../.gitbook/assets/Group 40.png">Group 40.png</a></td><td><a href="../portal-de-administracao/configuracoes/organizacao/google-analytics.md">google-analytics.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Integração  com Google Analytics</td><td><a href="../.gitbook/assets/Group 40.png">Group 40.png</a></td><td><a href="../portal-de-administracao/configuracoes/organizacao/google-analytics.md">google-analytics.md</a></td></tr></tbody></table>
