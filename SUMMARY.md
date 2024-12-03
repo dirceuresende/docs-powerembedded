@@ -60,8 +60,6 @@
   * [Assinatura de Relatório](principais-funcionalidades/assinatura-de-relatorio.md)
   * [Integração com Google Analytics](principais-funcionalidades/integracao-com-google-analytics.md)
   * [Autenticação Integrada Microsoft, Google e  usuário/senha](principais-funcionalidades/autenticacao-integrada-microsoft-google-e-usuario-senha.md)
-  * [Page](principais-funcionalidades/page/README.md)
-    * [Listagem de relatórios - 3 tipos de visualização](https://docs.powerembedded.com.br/portal-de-administracao/configuracoes/parametros/personalizacoes-gerais#tipo-de-visualizacao-padrao-dos-relatorios)
   * [Mostrar relatórios no seu sistema](https://docs.powerembedded.com.br/documentacao-tecnica/api/mostrar-relatorio-no-seu-sistema)
 * [Calculadora](https://powerembedded.com.br/calculadora)
 * [Parceria Azure](https://powertuning.com.br/parceria-azure)
