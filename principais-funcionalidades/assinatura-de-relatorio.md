@@ -7,7 +7,7 @@ No Power Embedded,  entregamos as seguintes melhorias:&#x20;
 
 ### Assinatura de relatório incluindo anexo:
 
-
+O usuário ao criar a assinatura e enviar, o destinatário irá receber no e-mail um anexo do relatório com o formato selecionado (PDF, PPT). Essa funcionalidade simplifica a visualização do relatório.
 
 
 
