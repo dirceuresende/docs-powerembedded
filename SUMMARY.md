@@ -50,6 +50,7 @@
   * [Aplicativo](principais-funcionalidades/aplicativo.md)
   * [Modo Escuro](principais-funcionalidades/modo-escuro.md)
   * [Agendamento de atualização dos dados](principais-funcionalidades/agendamento-de-atualizacao-dos-dados.md)
+  * [Atualização dos Dados](principais-funcionalidades/atualizacao-dos-dados.md)
   * [Auditorias](principais-funcionalidades/auditorias.md)
   * [Firewall](principais-funcionalidades/firewall.md)
   * [Catálogo de relatórios](principais-funcionalidades/catalogo-de-relatorios.md)
