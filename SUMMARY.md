@@ -123,6 +123,7 @@
   * [Publicar relatório no Power BI](portal-de-administracao/relatorios/publicar-relatorio-no-power-bi.md)
   * [Modelos dinâmicos](portal-de-administracao/relatorios/modelos-dinamicos.md)
   * [Assinatura de relatórios](portal-de-administracao/relatorios/assinatura-de-relatorios.md)
+  * [Assinatura de consultas DAX](portal-de-administracao/relatorios/assinatura-de-consultas-dax.md)
   * [Importação automática de relatórios criados pelo portal de visualização](portal-de-administracao/relatorios/importacao-automatica-de-relatorios-criados-pelo-portal-de-visualizacao.md)
 * [Usuários](portal-de-administracao/usuarios/README.md)
   * [Criar/editar usuário](portal-de-administracao/usuarios/criar-editar-usuario.md)
