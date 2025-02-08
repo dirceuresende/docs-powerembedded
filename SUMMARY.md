@@ -5,7 +5,7 @@
   * [Quanto custa o Power Embedded?](inicio/quanto-custa-o-power-embedded.md)
   * [Como iniciar a avaliação gratuita de 30 dias](inicio/como-iniciar-a-avaliacao-gratuita-de-30-dias.md)
   * [Capacidades dedicadas](inicio/capacidades-dedicadas.md)
-  * [Documento de apresentação comercial](https://powerembedded.com.br/apresentacao-comercial)
+  * [Documento de apresentação comercial](inicio/documento-de-apresentacao-comercial.md)
   * [Documento de arquitetura do sistema](inicio/documento-de-arquitetura-do-sistema.md)
 * [Agendar reunião](agendar-reuniao/README.md)
   * [Apresentação](https://powerembedded.com.br/apresentacao)
