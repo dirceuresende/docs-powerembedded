@@ -197,6 +197,11 @@
 * [Migração](portal-de-administracao/migracao.md)
 * [Sistema de chamados](portal-de-administracao/sistema-de-chamados.md)
 
+***
+
+* [POWER EMBEDDED ACADEMY](power-embedded-academy/README.md)
+  * [Como configurar rls no Power Embedded](power-embedded-academy/como-configurar-rls-no-power-embedded.md)
+
 ## Links úteis
 
 * [Site do Power Embedded](https://powerembedded.com.br/)
