@@ -18,9 +18,9 @@ O Power Embedded, quando configurado, poderá ligar automaticamente a capacidade
 
 Tipos de capacidades (todas são suportadas pelo Power Embedded):
 
-* Fabric: Mais nova, flexível, mais recursos e pode começar mais barato.
-* Power BI Embedded: Mais estável, confiável e pode ser mais barato no modelo pago pelo uso, dependendo da região e tamanho.
-* Premium por Capacidade: Capacidade que foi descontinuada e o custo inicial é 32 mil reais por mês.
+* Fabric: Mais nova (Maio/2024), flexível, mais recursos e pode começar mais barato.
+* Power BI Embedded: Disponível desde 2017, pode ser mais barata no modelo pago pelo uso, dependendo da região e tamanho.
+* Premium por Capacidade: Capacidade que foi descontinuada e o custo inicial era 32 mil reais por mês.
 
 &#x20;
 
@@ -46,7 +46,7 @@ O melhor caminho para realizar essa estimativa, seria utilizando o período de 6
 
 A partir do momento que o workspace é alterado para utilizar a capacidade do Fabric, o Power BI começa a coletar dados e estatísticas do uso real dessa capacidade.
 
-Utilizando o relatório “[Fabric Capacity Usage Metrics](https://appsource.microsoft.com/en-us/product/power-bi/pbi\_pcmm.microsoftpremiumfabricpreviewreport)”, disponibilizado pela própria Microsoft, é possível identificar com muito mais precisão qual capacidade que o seu ambiente necessita.
+Utilizando o relatório “[Fabric Capacity Usage Metrics](https://appsource.microsoft.com/en-us/product/power-bi/pbi_pcmm.microsoftpremiumfabricpreviewreport)”, disponibilizado pela própria Microsoft, é possível identificar com muito mais precisão qual capacidade que o seu ambiente necessita.
 
 Se você já for cliente do Power Embedded, terá acesso GRATUITO ao curso de Análises de Capacidades com o Microsoft Fabric.
 
