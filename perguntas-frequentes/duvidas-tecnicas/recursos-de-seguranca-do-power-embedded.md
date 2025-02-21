@@ -22,13 +22,13 @@ Controles de Segurança do Power Embedded:
 
 8️⃣ **Controle de exportação dos dados**: Controle quem pode exportar os dados dos visuais de cada relatório.
 
-9️⃣ Controle granular de APIs: Crie chaves de integração com a API do sistema e selecione quais endpoints a chave criada poderá utilizar.
+9️⃣ **Controle granular de APIs**: Crie chaves de integração com a API do sistema e selecione quais endpoints a chave criada poderá utilizar.
 
-🔟 Controle de login: Selecione quais os métodos de autenticação (Integrada Microsoft, Google ou Email/senha com MFA) cada usuário poderá utilizar para logar no portal, que já tem proteção Google Recaptcha V3
+🔟 **Controle de login**: Selecione quais os métodos de autenticação (Integrada Microsoft, Google ou Email/senha com MFA) cada usuário poderá utilizar para logar no portal, que já tem proteção Google Recaptcha V3
 
-1️⃣1️⃣ Controle de sessão: Defina quantos minutos o portal irá desconectar o usuário automaticamente após inatividade, exigindo um novo login.
+1️⃣1️⃣ **Controle de sessão**: Defina quantos minutos o portal irá desconectar o usuário automaticamente após inatividade, exigindo um novo login.
 
-1️⃣2️⃣ Controle de localização: Saiba de qual endereço IP, cidade e estado seus usuários estão e qual a operador de internet estão utilizando.
+1️⃣2️⃣ **Controle de localização**: Saiba de qual endereço IP, cidade e estado seus usuários estão e qual a operador de internet estão utilizando.
 
 
 
