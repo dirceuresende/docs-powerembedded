@@ -39,6 +39,7 @@
     * [Como o Power Embedded funciona internamente?](perguntas-frequentes/duvidas-tecnicas/como-o-power-embedded-funciona-internamente.md)
     * [Segurança interna do Power Embedded](perguntas-frequentes/duvidas-tecnicas/seguranca-interna-do-power-embedded.md)
     * [Controles de privacidade e LGPD](perguntas-frequentes/duvidas-tecnicas/controles-de-privacidade-e-lgpd.md)
+    * [Recursos de Segurança do Power Embedded](perguntas-frequentes/duvidas-tecnicas/recursos-de-seguranca-do-power-embedded.md)
     * [Diferenças entre o Embedded, "Publicar na Web" e "Inserir Relatório"](perguntas-frequentes/duvidas-tecnicas/diferencas-entre-o-embedded-publicar-na-web-e-inserir-relatorio.md)
     * [Processo de publicação dos relatórios](perguntas-frequentes/duvidas-tecnicas/processo-de-publicacao-dos-relatorios.md)
     * [Atualizações do sistema](perguntas-frequentes/duvidas-tecnicas/atualizacoes-do-sistema.md)
