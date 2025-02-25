@@ -32,7 +32,7 @@ O custo **mensal** **por usuário** do Power Embedded reduz conforme a quantidad
 * **R$ 1,00** por usuário para **5.000 a 8.000** usuários
 * **R$ 0,80** por usuário para **8.000 a 10.000** usuários
 * **R$ 0,70** por usuário para **10.000 a 12.000** usuários
-* **R$ 0,50** por usuário para acima de **12.000** usuários
+* **R$ 0,50** por usuário para **acima de 12.000** usuários
 
 
 
