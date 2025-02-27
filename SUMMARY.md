@@ -20,6 +20,7 @@
     * [O que eu preciso ter para utilizar o Power Embedded?](perguntas-frequentes/duvidas-gerais/o-que-eu-preciso-ter-para-utilizar-o-power-embedded.md)
     * [É possível testar ou fazer uma PoC o Power Embedded?](perguntas-frequentes/duvidas-gerais/e-possivel-testar-ou-fazer-uma-poc-o-power-embedded.md)
     * [Preciso contratar o portal da Power Tuning? Não posso usar o da Microsoft?](perguntas-frequentes/duvidas-gerais/preciso-contratar-o-portal-da-power-tuning-nao-posso-usar-o-da-microsoft.md)
+    * [Posso criar o meu próprio portal?](perguntas-frequentes/duvidas-gerais/posso-criar-o-meu-proprio-portal.md)
     * [Quanto tempo demora para ter o Power Embedded na minha empresa?](perguntas-frequentes/duvidas-gerais/quanto-tempo-demora-para-ter-o-power-embedded-na-minha-empresa.md)
     * [Os meus usuários poderão acessar os relatórios usando dispositivos móveis (celulares) ?](perguntas-frequentes/duvidas-gerais/os-meus-usuarios-poderao-acessar-os-relatorios-usando-dispositivos-moveis-celulares.md)
     * [Posso cancelar o Power Embedded? Existe alguma multa?](perguntas-frequentes/duvidas-gerais/posso-cancelar-o-power-embedded-existe-alguma-multa.md)
