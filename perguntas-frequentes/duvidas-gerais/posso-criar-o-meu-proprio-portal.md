@@ -10,7 +10,7 @@ O portal é atualizado quase que diariamente com melhorias e novos recursos base
 \
 Apesar disso, ainda vemos empresas pensando em criar seu próprio portal de relatórios, achando que vão economizar. Mas será que isso faz sentido? Vamos às contas?\
 📊 Cenário de exemplo: uma empresa com 100 usuários\
-💵 Custo mensal do Power Embedded: R$ 500,00 (R$ 5,00 x 100).\
+💵 Custo mensal do Power Embedded: R$ 500,00 (R$ 5,00 x 100 usuários).\
 \
 Agora, quanto custaria desenvolver e manter um portal próprio?\
 1️⃣ Desenvolvimento inicial: Um portal bem simples e básico, apenas com tela de login, autenticação integrada, controle de acessos, permissões, grupos, RLS, não leva menos de 100 horas de trabalho de um desenvolvedor. Estimando um valor/hora de um dev Jr/PL a R$ 50/hora, são R$ 5 mil — quase 1 ano do Power Embedded!\
