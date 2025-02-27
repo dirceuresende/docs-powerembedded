@@ -6,16 +6,16 @@ O Power Embedded já é referência no Brasil: são +300 empresas utilizando e +
 
 O portal é atualizado quase que diariamente com melhorias e novos recursos baseados no feedback e solicitações dos clientes (e sem cobrar por isso) e o sistema é 100% personalizável, multi-tenant e white-label, onde você pode personalizar a identidade visual, tela de login e URL de acesso de acordo com as cores e logomarcas do seu cliente ou sua empresa, com vários níveis de personalização.\
 \
-👀 Apesar disso, ainda vemos empresas pensando em criar seu próprio portal de relatórios, achando que vão economizar. Mas será que isso faz sentido? Vamos às contas?\
+Apesar disso, ainda vemos empresas pensando em criar seu próprio portal de relatórios, achando que vão economizar. Mas será que isso faz sentido? Vamos às contas?\
 📊 Cenário de exemplo: uma empresa com 100 usuários\
 💵 Custo mensal do Power Embedded: R$ 500,00.\
 \
 Agora, quanto custaria desenvolver e manter um portal próprio?\
-1️⃣ Desenvolvimento inicial: Um portal bem simples e básico, apenas com tela de login, autenticação integrada, controle de acessos, permissões, grupos, RLS, não leva menos de 100 horas de trabalho de um desenvolvedor. Estimando um valor/hora de um dev Jr/PL a R$ 50/hora, são R$ 5 mil — quase 1 ano do Power Embedded! 💸\
+1️⃣ Desenvolvimento inicial: Um portal bem simples e básico, apenas com tela de login, autenticação integrada, controle de acessos, permissões, grupos, RLS, não leva menos de 100 horas de trabalho de um desenvolvedor. Estimando um valor/hora de um dev Jr/PL a R$ 50/hora, são R$ 5 mil — quase 1 ano do Power Embedded!\
 2️⃣ Infraestrutura: Hospedagem, banco de dados… R$ 200/mês (bem básico, viu?). Já é quase metade do custo do Power Embedded.\
 3️⃣ Recursos avançados: Quer cubos do Analysis Services ou dashboards mais complexos? Adicione mais umas 20h de desenvolvimento (+R$ 1 mil). Quer integrar com IA e WhatsApp? Adicione mais umas 100h de desenvolvimento (+R$ 2 mil). Além do dinheiro, lá se vão uns bons meses de desenvolvimento.\
 4️⃣ Interface moderna: UI/UX demandam tempo e custo.\
-5️⃣ Manutenção: API mudou? Problema no banco? Relatórios lentos? Horas extras do dev. 😩\
+5️⃣ Manutenção: API mudou? Problema no banco? Relatórios lentos? Horas extras do dev.\
 6️⃣ Suporte e documentação: Quem vai atender usuários e desenvolvedores de relatórios? Se a capacidade estiver com problemas, quem vai ajudar o seu time?\
 \
 E olha que isso é só o começo! Nem chegamos nas funcionalidades robustas, documentação estruturada e suporte técnico dedicado que o Power Embedded oferece.\
@@ -30,4 +30,4 @@ Se você é líder e quer:\
 ✨ A solução já existe! ✨\
 Acesse [powerembedded.com.br](http://powerembedded.com.br/) e transforme a forma de compartilhar relatórios na sua empresa.\
 \
-🚀 Vamos juntos simplificar e inovar! 😉
+🚀 Vamos juntos simplificar e inovar!
