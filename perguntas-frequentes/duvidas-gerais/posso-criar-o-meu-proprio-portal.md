@@ -2,7 +2,9 @@
 
 Para utilizar o licenciamento por capacidade (Fabric ou Power BI Embedded), que é diferente de todos os outros tipos de licenciamentos do Power BI, você **obrigatoriamente** precisa utilizar uma aplicação Web para gerar esses tokens de forma automática e disponibilizar os relatórios para os seus usuários, pois a Microsoft NÃO disponibiliza um portal ou código-fonte de um portal pronto para ser utilizado.
 
-O Power Embedded já é referência no Brasil: são +300 empresas utilizando e +30.000 usuários aproveitando recursos incríveis, como IA generativa integrada, controles avançados de segurança e muito mais. Todos esses recursos por apenas R$ 5,00 por usuário/mês, e quanto mais usuários, menos o custo por usuário ([Quanto custa o Power Embedded?](../../inicio/quanto-custa-o-power-embedded.md)).
+O Power Embedded já é referência no Brasil: são +300 empresas utilizando e +30.000 usuários aproveitando recursos incríveis, como IA generativa integrada inclusive via WhatsApp, controles avançados de segurança e muito mais.&#x20;
+
+**Todos esses recursos por apenas R$ 5,00 por usuário/mês**, e quanto mais usuários, menos o custo por usuário ([Quanto custa o Power Embedded?](../../inicio/quanto-custa-o-power-embedded.md)).
 
 O portal é atualizado quase que diariamente com melhorias e novos recursos baseados no feedback e solicitações dos clientes (e sem cobrar por isso) e o sistema é 100% personalizável, multi-tenant e white-label, onde você pode personalizar a identidade visual, tela de login e URL de acesso de acordo com as cores e logomarcas do seu cliente ou sua empresa, com vários níveis de personalização.\
 \
