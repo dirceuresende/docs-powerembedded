@@ -2,7 +2,9 @@
 
 Para utilizar o licenciamento por capacidade (Fabric ou Power BI Embedded), que é diferente de todos os outros tipos de licenciamentos do Power BI, você **obrigatoriamente** precisa utilizar uma aplicação Web para gerar esses tokens de forma automática e disponibilizar os relatórios para os seus usuários, pois a Microsoft NÃO disponibiliza um portal ou código-fonte de um portal pronto para ser utilizado.
 
-O Power Embedded já é referência no Brasil: são +300 empresas utilizando e +30.000 usuários aproveitando recursos incríveis, como IA generativa integrada, controles avançados de segurança e muito mais.\
+O Power Embedded já é referência no Brasil: são +300 empresas utilizando e +30.000 usuários aproveitando recursos incríveis, como IA generativa integrada, controles avançados de segurança e muito mais.
+
+Além disso, o sistema é atualizado quase que diariamente com melhorias e novos recursos baseados no feedback e solicitações dos clientes (e sem cobrar por isso) e o sistema é 100% personalizável e white-label, onde você pode personalizar a identidade visual, tela de login e URL de acesso de acordo com as cores e logomarcas do seu cliente ou sua empresa, com vários níveis de personalização.\
 \
 👀 Apesar disso, ainda vemos empresas pensando em criar seu próprio portal de relatórios, achando que vão economizar. Mas será que isso faz sentido? Vamos às contas?\
 📊 Cenário de exemplo: uma empresa com 100 usuários\
