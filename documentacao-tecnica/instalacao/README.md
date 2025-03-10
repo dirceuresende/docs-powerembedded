@@ -6,4 +6,5 @@ description: Processo de instalação do Power Embedded
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><strong>Trial do Fabric</strong></td><td>Instalação do Power Embedded com o Fabric</td><td></td></tr><tr><td><strong>Power BI Embedded</strong></td><td>Instalação com o Power BI Embedded</td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Instalação do Power Embedded com o Fabric</td><td><strong>Trial do Fabric</strong></td><td></td><td><a href="trial-do-fabric.md">trial-do-fabric.md</a></td></tr><tr><td>Instalação com o Power BI Embedded</td><td><strong>Power BI Embedded</strong></td><td></td><td><a href="power-bi-embedded.md">power-bi-embedded.md</a></td></tr></tbody></table>
+
