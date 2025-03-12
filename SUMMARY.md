@@ -218,6 +218,7 @@
 ## Documentação Técnica
 
 * [Instalação](documentacao-tecnica/instalacao/README.md)
+  * [Pré-Requisitos para a Instalação](documentacao-tecnica/instalacao/pre-requisitos-para-a-instalacao.md)
   * [Trial do Fabric](documentacao-tecnica/instalacao/trial-do-fabric.md)
   * [Power BI Embedded](documentacao-tecnica/instalacao/power-bi-embedded.md)
 * [Documento de apresentação comercial](https://powerembedded.com.br/apresentacao-comercial)

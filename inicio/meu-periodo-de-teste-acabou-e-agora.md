@@ -1,7 +1,3 @@
----
-icon: triangle-exclamation
----
-
 # Meu período de teste acabou, e agora?
 
 Primeiramente, não se preocupe! Você não perderá o acesso aos portais!&#x20;
