@@ -46,25 +46,3 @@ Seguem atividades que iremos realizar no portal de Administração do Power BI (
 
 [Calculadora do Power Embedded para estimar o custo da solução para o seu ambiente](https://powerembedded.com.br/calculadora)
 
-&#x20;
-
-### Processo de Migração dos Relatórios
-
-Para o processo de implantação em fases, pode-se utilizar duas abordagens:
-
-1. Migrar um ou alguns workspaces e migrar somente estes, para testar a solução e ir migrando os outros aos poucos.
-2. Duplicar os relatórios, republicando para outro workspace, que estará rodando na capacidade do Fabric e importar somente esse(s) workspace(s).&#x20;
-
-O processo de migração de um workspace é bem rápido, demorando alguns segundos e poucos cliques do mouse, sendo este rápido e sem gerar indisponibilidades e pode ser feito em massa (alterar vários/todos workspaces de uma vez)
-
-Caso queira desfazer essa migração, é só voltar os workspaces para a capacidade Pro novamente.
-
-&#x20;
-
-### Sobre a capacidade do Power Embedded ou Fabric
-
-A cobrança da capacidade do Embedded é calculada a nível de segundo pela Microsoft, e convertida para hora para gerar a cobrança final, e o nosso sistema permite definir os períodos de horários, por dia da semana, que o sistema irá ficar ligado e fora desse horário, o próprio sistema já desliga a capacidade automaticamente.
-
-Caso alguém tente acessar o relatório fora desses horários, o sistema poderá ligar automaticamente para permitir que visualizem os relatórios e irá desligar automaticamente após um período de inatividade (definido por você).
-
-Para definir qual a capacidade mais indicada do Power BI Embedded ou Microsoft Fabric para o seu cenário, o melhor caminho seria utilizando o período de 60 dias de avaliação gratuita do Microsoft Fabric, onde poderemos rodar toda a PoC de forma gratuita, fazendo com que os relatórios atuais sejam atualizados e processados por essa capacidade trial gratuita (F64), coletando o uso real dessa capacidade através da análise da carga do seu ambiente atual utilizando o relatório "Fabric Capacity Usage Metrics", disponibilizado pela própria Microsoft, a fim de identificar com muito mais precisão qual capacidade que o seu ambiente necessita.
