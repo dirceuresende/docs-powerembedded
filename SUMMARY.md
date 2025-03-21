@@ -94,7 +94,7 @@
   * [Não foi possível carregar os dados para este visual: ClientError\_TokenExpired](portal-de-relatorios/problemas-mais-comuns/nao-foi-possivel-carregar-os-dados-para-este-visual-clienterror_tokenexpired.md)
   * [Erro ao exportar relatório - Error Code 400](portal-de-relatorios/problemas-mais-comuns/erro-ao-exportar-relatorio-error-code-400.md)
   * [Os visuais não certificados do AppSource ou aqueles adicionados a partir de um arquivo não estão dis](portal-de-relatorios/problemas-mais-comuns/os-visuais-nao-certificados-do-appsource-ou-aqueles-adicionados-a-partir-de-um-arquivo-nao-estao-dis.md)
-  * [Creating embed token for accessing dataset 947115a2-4a47-416f-a3d1-d4f2232a66f1 requires username to](portal-de-relatorios/problemas-mais-comuns/creating-embed-token-for-accessing-dataset-947115a2-4a47-416f-a3d1-d4f2232a66f1-requires-username-to.md)
+  * [Creating embed token for accessing dataset](portal-de-relatorios/problemas-mais-comuns/creating-embed-token-for-accessing-dataset.md)
 
 ## Portal de Administração
 
