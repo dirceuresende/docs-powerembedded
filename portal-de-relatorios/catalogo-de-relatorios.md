@@ -1,8 +1,8 @@
 # Catálogo de relatórios
 
-Ferramenta que permite disponibilizar informações prévias dos relatórios, muito utilizada em cenários onde se deseja que colaboradores/usuários saibam que determinadas informações existem.
+O Catálogo de Relatórios é uma ferramenta que permite a exibição prévia de informações sobre relatórios disponíveis no sistema. Essa funcionalidade é especialmente útil para cenários em que se deseja que os usuários tenham conhecimento da existência de determinados relatórios antes de solicitar acesso.
 
-Caso desejem acessar um relatório específico, podem solicitar acesso.
+Se um usuário quiser visualizar um relatório específico, ele precisa enviar um pedido de acesso. Mas atenção: um relatório só aparecerá no catálogo se a opção **"Mostrar no Catálogo de Relatórios"** estiver ativada nas configurações dele.
 
 <figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
 
