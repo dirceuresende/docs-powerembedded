@@ -1,3 +1,10 @@
+---
+description: >-
+  Esse erro normalmente ocorre quando o seu relatório está conectado ao Azure
+  Analysis Services. Abaixo, apresentamos uma documentação com um passo a passo
+  para ajudá-lo a resolver esse problema.
+---
+
 # Creating embed token for accessing dataset 947115a2-4a47-416f-a3d1-d4f2232a66f1 requires username to
 
 <figure><img src="../../.gitbook/assets/Erro.png" alt=""><figcaption></figcaption></figure>
