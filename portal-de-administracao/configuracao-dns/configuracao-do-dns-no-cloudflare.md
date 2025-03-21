@@ -1,14 +1,14 @@
 ---
-description: Aprenda como configurar o DNS personalizado no Cloudflare
+description: >-
+  Aprenda a configurar um DNS personalizado no Cloudflare para utilizar um
+  subdomínio no Power Embedded.
 ---
 
-# Cloudflare
+# Configuração do DNS no Cloudflare
 
-Se você usa a Cloudflare para gerenciamento de DNS e precisa inserir as entradas TXT e CNAME para configurar seu subdomínio no Power Embedded, basta seguir os passos abaixo:
+Se você gerencia seu DNS pelo Cloudflare e precisa adicionar os registros TXT e CNAME, siga o passo a passo abaixo:
 
-&#x20;
-
-**1. Acesse a Cloudflare:** [Clique aqui](https://dash.cloudflare.com/) para acessar o site da Cloudflare e na página inicial da Cloudflare, clique no seu domínio.
+&#x20;**1. Acesse a Cloudflare:** [Clique aqui](https://dash.cloudflare.com/) para acessar o site da Cloudflare e na página inicial da Cloudflare, clique no seu domínio.
 
 <figure><img src="../../.gitbook/assets/Captura-de-tela-2024-08-06-154420.png" alt=""><figcaption></figcaption></figure>
 
