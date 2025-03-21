@@ -1,25 +1,21 @@
 ---
 description: >-
-  Aprenda como configurar a URL personalizada do portal, utilizando domínio
-  interno ou próprio
+  Saiba como configurar uma URL personalizada para o portal, utilizando um
+  domínio próprio ou um domínio interno do Power Embedded.
 ---
 
 # Configuração do DNS
 
-O Power Embedded é uma plataforma SaaS no formato _white-label_, onde o sistema é totalmente personalizável para cada cliente, desde cores, imagens até a própria URL de acesso, que pode ser personalizada também.
-
-
+O **Power Embedded** é uma plataforma **SaaS no formato white-label**, permitindo que cada cliente personalize totalmente sua experiência. Além de cores e imagens, é possível definir uma **URL de acesso personalizada** para o sistema.
 
 ### Criação dos registros no DNS
 
-Para que você possa acessar o sistema utilizando uma URL personalizada, oferecemos 2 opções para nossos clientes:
+Para acessar o sistema com uma URL personalizada, há duas opções disponíveis:
 
-1. Utilizar o seu próprio domínio. Ex: bi.suaempresa.com.br
-2. Utilizar o domínio do Power Embedded. Ex: suaempresa.powerembedded.com.br
+1. **Utilizar um domínio próprio** → Exemplo: bi.suaempresa.com.br
+2. **Utilizar o domínio do Power Embedded** → Exemplo: suaempresa.powerembedded.com.br
 
-
-
-Caso você opte por utilizar o seu próprio domínio, você precisará adicionar os 2 registros no seu DNS (CNAME e TXT) para ser possível utilizar essa URL personalizada no Power Embedded:
+Se optar por um domínio próprio, será necessário adicionar dois registros ao seu DNS: As entradas (CNAME e TXT) para ser possível utilizar essa URL personalizada no Power Embedded:
 
 | Tipo  | Nome     | Valor                                                            |
 | ----- | -------- | ---------------------------------------------------------------- |
@@ -28,12 +24,14 @@ Caso você opte por utilizar o seu próprio domínio, você precisará adicionar
 
 O exemplo acima é para quando você está configurando o subdomínio bi.suaempresa.com.br
 
+### Exemplo de Configuração
 
+Se a URL personalizada for bi.suaempresa.com.br, utilize os valores acima. Caso deseje um nome diferente, como relatorios.minhaempresa.com.br, apenas o campo "Nome" mudará:
 
-Caso você queira utilizar outro nome, como relatorios.minhaempresa.com.br, você irá utilizar o mesmos valores do campo "Valor", mas o valor do "Nome" será diferente:
+* CNAME → Nome: "relatorios"
+* TXT → Nome: "asuid.relatorios"
 
-* Para o registro CNAME, o valor seria "relatorios"
-* Para o registro TXT, o valor seria "asuid.relatorios"
+Os valores da coluna "Valor" permanecem os mesmos.
 
 {% hint style="warning" %}
 Após realizar as configurações indicadas, lembre-se de comunicar o time de suporte do Power Embedded para que eles realizem a liberação no sistema.
@@ -41,17 +39,14 @@ Após realizar as configurações indicadas, lembre-se de comunicar o time de su
 Utilize o site [DNSChecker](https://dnschecker.org/) para verificar se a criação dos registros no DNS já foi propagada.
 {% endhint %}
 
+### Configurando a Nova URL no Power Embedded
 
+Após a liberação do suporte, siga os passos abaixo para finalizar a configuração:
 
-### Configurar a nova URL no Power Embedded
+1. Acesse a página de **Configurações** no Power Embedded.
+2. Insira o **subdomínio personalizado** no campo correspondente.
 
-Após as alterações realizadas no DNS e liberadas pelo time de suporte, agora você só precisa configurar no sistema essa nova URL.
-
-Para fazer isso, acesse a página de Configurações e digite o sub-domínio personalizado
-
-<figure><img src="../../.gitbook/assets/image (146).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/03.png" alt=""><figcaption></figcaption></figure>
 
 ### Como configurar em outras plataformas
 
