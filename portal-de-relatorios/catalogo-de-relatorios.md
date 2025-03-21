@@ -4,7 +4,9 @@ O Catálogo de Relatórios é uma ferramenta que permite a exibição prévia de
 
 Se um usuário quiser visualizar um relatório específico, ele precisa enviar um pedido de acesso. Mas atenção: um relatório só aparecerá no catálogo se a opção **"Mostrar no Catálogo de Relatórios"** estiver ativada nas configurações dele.
 
-<figure><img src="../.gitbook/assets/image (25).png" alt=""><figcaption></figcaption></figure>
+
+
+<figure><img src="../.gitbook/assets/01 (1).png" alt=""><figcaption></figcaption></figure>
 
 O relatório é exibido exclusivamente nesta tela e somente se a opção “Mostrar no catálogo de relatórios” estiver ativada no cadastro do relatório.
 
@@ -14,7 +16,7 @@ Após a solicitação de acesso, tanto os administradores quanto os contribuidor
 
 A notificação é exibida conforme exemplo na tela abaixo.
 
-<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/02 (1).png" alt=""><figcaption></figcaption></figure>
 
 Para garantir uma gestão eficaz das solicitações de acesso, o sistema envia alertas automáticos, permitindo que os responsáveis revisem e aprovem ou rejeitem as solicitações de acesso.
 
