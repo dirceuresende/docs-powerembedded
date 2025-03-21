@@ -4,15 +4,13 @@
 
 A transparência é um dos principais valores da empresa. Por isso, dentro do portal de administração, cada cliente pode acompanhar em tempo real os valores relacionados ao uso da plataforma, com base nos usuários cadastrados no portal.
 
-<figure><img src="../../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/F1.png" alt=""><figcaption></figcaption></figure>
 
 Na tela principal, há um seletor que permite escolher o período de faturamento e visualizar a data de início do período de instalação. Assim, é possível consultar faturas de meses anteriores e verificar a quantidade de usuários faturados em cada período.
 
 Durante o período de avaliação, o portal pode ser utilizado gratuitamente por 30 dias. Esse período serve como uma demonstração para avaliar se a solução atende às necessidades da empresa.
 
 Durante a PoC, não cobramos a taxa de instalação no valor de R$ 1.500,00, que só ocorrerá caso opte por continuar com o Power Embedded.
-
-
 
 ### Link de pagamento e nota fiscal
 
@@ -45,11 +43,9 @@ No entanto, se essa ação se repetir várias vezes, o sistema passará a consid
 
 Usuários removidos deixam de gerar custos e não aparecem nas próximas faturas.
 
-
-
 ### **Usuários Ativos**
 
-<figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/F4.png" alt=""><figcaption></figcaption></figure>
 
 Neste menu, é possível visualizar os usuários responsáveis pelo custo mensal, quantos logins eles realizaram no portal e até mesmo analisar o comportamento desses usuários.
 
@@ -63,4 +59,4 @@ Neste menu, é possível visualizar os usuários responsáveis pelo custo mensal
 
 Neste menu, são visualizados todos os usuários removidos durante o período, sendo possível obter informações detalhadas sobre essa ação.
 
-<figure><img src="../../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/F5.png" alt=""><figcaption></figcaption></figure>
