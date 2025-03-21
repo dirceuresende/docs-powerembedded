@@ -26,13 +26,11 @@ Se você gerencia seu DNS pelo Cloudflare e precisa adicionar os registros TXT e
 
 ![](../../.gitbook/assets/cname.png)
 
-&#x20;O campo Nome é que vai definir o endereço do subdomínio. Se você digitar “bi”, a URL de acesso será bi.seudominio.com.br
-
-&#x20;
+O campo **Nome** é que vai definir o endereço do subdomínio. Se você digitar **“bi”**, a URL de acesso será bi.seudomini
 
 **5.** Clique novamente em **Adicionar registro** e selecione o tipo **TXT**.&#x20;
 
-Insira o valor asuid.bi no campo Nome, o valor fornecido para o TXT (D1B15490F13A639D57FF7985A837F7E5242DD6F062BEEC8698E3CC36A6CBD693) no campo Conteúdo e salve as alterações.
+Insira o valor asuid.bi no campo **Nome**, o valor fornecido para o TXT (D1B15490F13A639D57FF7985A837F7E5242DD6F062BEEC8698E3CC36A6CBD693) no campo **Conteúdo** e salve as alterações.
 
 ![](../../.gitbook/assets/Captura-de-tela-2024-08-06-155442.png)
 

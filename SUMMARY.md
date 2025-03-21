@@ -101,7 +101,7 @@
 * [Navegação do portal](portal-de-administracao/navegacao-do-portal.md)
 * [Primeiro Acesso](portal-de-administracao/primeiro-acesso.md)
 * [Configuração do DNS](portal-de-administracao/configuracao-dns/README.md)
-  * [Configuração do DNS no Cloudflare](portal-de-administracao/configuracao-dns/configuracao-do-dns-no-cloudflare.md)
+  * [Configuração do DNS no Cloudflare](portal-de-administracao/configuracao-dns/cloudflare.md)
 * [Artefatos](portal-de-administracao/artefatos/README.md)
   * [Conjunto de dados](portal-de-administracao/artefatos/conjunto-de-dados/README.md)
     * [Filtragem dinâmica](portal-de-administracao/artefatos/conjunto-de-dados/filtragem-dinamica.md)

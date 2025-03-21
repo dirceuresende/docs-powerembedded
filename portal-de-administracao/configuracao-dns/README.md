@@ -50,4 +50,4 @@ Após a liberação do suporte, siga os passos abaixo para finalizar a configura
 
 ### Como configurar em outras plataformas
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Cloudflare</strong></td><td>Aprenda a configurar</td><td></td><td><a href="configuracao-do-dns-no-cloudflare.md">configuracao-do-dns-no-cloudflare.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Cloudflare</strong></td><td>Aprenda a configurar</td><td></td><td><a href="cloudflare.md">cloudflare.md</a></td></tr></tbody></table>
