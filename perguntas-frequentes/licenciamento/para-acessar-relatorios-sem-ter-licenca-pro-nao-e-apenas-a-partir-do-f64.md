@@ -16,6 +16,8 @@ Usuários podem acessar os relatórios pelo Power BI serviço em um workspace as
 
 Se você tem uma licença do Power BI Embedded ou Microsoft Fabric menor que a F64, para que os usuários acessem os relatórios **pelo portal do Power BI (app.powerbi.com)**, você realmente precisará que **todos eles tenham uma licença PRO** do Power BI.
 
+<figure><img src="../../.gitbook/assets/image (430).png" alt=""><figcaption><p><a href="https://learn.microsoft.com/pt-br/fabric/enterprise/licenses">https://learn.microsoft.com/pt-br/fabric/enterprise/licenses</a></p></figcaption></figure>
+
 Porém, quando falamos de Embedded Analytics e do Power Embedded, encontramos alternativas mais baratas para esse licenciamento.
 
 
@@ -30,8 +32,17 @@ Mesmo utilizando uma capacidade abaixo da F64, com o F2, F4, F8, etc ou uma capa
 
 Neste [link aqui](https://powerbi.microsoft.com/pt-br/blog/power-bi-embedded-with-microsoft-fabric/), a Microsoft mostra que o Microsoft Fabric também pode ser utilizado normalmente para inserir relatórios em aplicações terceiras em qualquer tamanho de capacidade.
 
-<figure><img src="../../.gitbook/assets/image (405).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (405).png" alt=""><figcaption><p><a href="https://powerbi.microsoft.com/pt-br/blog/power-bi-embedded-with-microsoft-fabric/">https://powerbi.microsoft.com/pt-br/blog/power-bi-embedded-with-microsoft-fabric/</a></p></figcaption></figure>
+
+
 
 Falando sobre o licenciamento por capacidade, no [link abaixo](https://azure.microsoft.com/pt-br/pricing/details/power-bi-embedded/), a Microsoft deixa bem claro que os usuários que estão vendo o conteúdo publicado no Power BI Embedded não precisam de licenças do Power BI atribuídas a eles, portanto, não é necessário uma licença PRO para visualização dos relatórios através do Power Embedded.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p><a href="https://azure.microsoft.com/pt-br/pricing/details/power-bi-embedded/">https://azure.microsoft.com/pt-br/pricing/details/power-bi-embedded/</a></p></figcaption></figure>
+
+
+
+Além disso, no tópico "Comparação das soluções de _inserção dos seus clientes_ versus _inserção da sua organização" da página "_&#x4F; que é a análise integrada do Power BI?_"_ explica que os usuários do aplicativo NÃO precisam de uma licença do Power BI para acessar os relatórios, conforme a imagem abaixo:
+
+<figure><img src="../../.gitbook/assets/image (431).png" alt=""><figcaption><p><a href="https://learn.microsoft.com/pt-br/power-bi/developer/embedded/embedded-analytics-power-bi#embed-for-your-customers">https://learn.microsoft.com/pt-br/power-bi/developer/embedded/embedded-analytics-power-bi#embed-for-your-customers</a></p></figcaption></figure>
+
