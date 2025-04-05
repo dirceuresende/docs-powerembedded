@@ -21,17 +21,25 @@ Antes de utilizar a tecnologia de [Análise integrada do Power BI](https://learn
 **Caso você esteja utilizando uma plataforma que utilize uma conta Pro para gerar os tokens de inserção de relatórios, sem utilizar uma capacidade para isso, você provavelmente está violando os termos de uso do Power BI e sua empresa pode sofrer multas e sanções pela Microsoft.**
 {% endhint %}
 
+### Azure Marketplace
+
 O Power Embedded também está disponível para ser acessado e contratado pelo [Azure Marketplace](https://azuremarketplace.microsoft.com/pt-br/marketplace/apps/powertuningperformanceemdados1702567987391.powerembedded?tab=overview), o que indica um forte relacionamento com a Microsoft para suportar o produto
 
 <figure><img src="https://powerembedded.com.br/wp-content/uploads/2024/05/Power-Embedded-no-Marketplace-da-Microsoft.png" alt=""><figcaption></figcaption></figure>
+
+### Perguntas e respostas da licença do Power BI Embedded
 
 Falando sobre o licenciamento por capacidade, no [link abaixo](https://azure.microsoft.com/pt-br/pricing/details/power-bi-embedded/), a Microsoft deixa bem claro que os usuários que estão vendo o conteúdo publicado no Power BI Embedded não precisam de licenças do Power BI atribuídas a eles, portanto, não é necessária uma licença PRO para visualização dos relatórios através do Power Embedded
 
 <figure><img src="https://powerembedded.com.br/wp-content/uploads/2024/04/O-Power-Embedded-e-legal-Print-1-768x455.png" alt=""><figcaption></figcaption></figure>
 
+### Microsoft Fabric também permite incorporar relatórios
+
 Neste [link aqui](https://powerbi.microsoft.com/pt-br/blog/power-bi-embedded-with-microsoft-fabric/), a Microsoft mostra que o Microsoft Fabric também pode ser utilizado normalmente para inserir relatórios em aplicações terceiras, sem problema algum
 
 <figure><img src="https://powerembedded.com.br/wp-content/uploads/2024/04/O-Power-Embedded-e-legal-Print-3.png" alt=""><figcaption></figcaption></figure>
+
+### Usuários podem criar/alterar relatórios pelo portal sem precisar de licença
 
 Neste[ link abaixo](https://learn.microsoft.com/pt-br/power-bi/developer/embedded/embedded-faq#quem-precisa-de-uma-licen-a-power-bi-pro-ou-ppu--premium-por-usu-rio--para-o-power-bi-embedded-e-por-qu--), a Microsoft deixa explícito que alteração e criação de relatórios por meio de um portal que utilize o licenciamento do Power BI Embedded, não requer uma licença PRO ou PPU para isso, e por tanto, a alteração e criação de relatórios pelo Power Embedded é totalmente legal e suportada.
 
