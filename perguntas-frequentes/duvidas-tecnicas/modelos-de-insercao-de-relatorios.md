@@ -16,7 +16,7 @@ Antes de utilizar a tecnologia de [Análise integrada do Power BI](https://learn
 | Autenticação não interativa. Seu aplicativo usa uma _entidade de serviço_ ou um _usuário mestre_ para se autenticar           | Autenticação interativa. Seu aplicativo usa as credenciais do usuário do aplicativo para autenticar                      |
 
 {% hint style="danger" %}
-**Caso você esteja utilizando uma plataforma que utilize uma conta Pro para gerar os tokens de inserção de relatórios, sem utilizar uma capacidade para isso, você provavelmente está violando os termos de uso do Power BI e sua empresa pode sofrer multas e sanções pela Microsoft. Saiba mais** [**clicando aqui neste link**](../perguntas-frequentes/licenciamento/posso-utilizar-o-power-bi-pro-ou-premium-por-usuario-para-embeddar.md)**.**
+**Caso você esteja utilizando uma plataforma que utilize uma conta Pro para gerar os tokens de inserção de relatórios, sem utilizar uma capacidade para isso, você provavelmente está violando os termos de uso do Power BI e sua empresa pode sofrer multas e sanções pela Microsoft. Saiba mais** [**clicando aqui neste link**](../licenciamento/posso-utilizar-o-power-bi-pro-ou-premium-por-usuario-para-embeddar.md)**.**
 {% endhint %}
 
 
