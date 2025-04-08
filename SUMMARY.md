@@ -8,6 +8,7 @@
   * [Meu período de teste acabou, e agora?](inicio/meu-periodo-de-teste-acabou-e-agora.md)
   * [Documento de apresentação comercial](inicio/documento-de-apresentacao-comercial.md)
   * [Documento de arquitetura do sistema](inicio/documento-de-arquitetura-do-sistema.md)
+  * [Modelos de inserção de relatórios](inicio/modelos-de-insercao-de-relatorios.md)
 * [Agendar reunião](agendar-reuniao/README.md)
   * [Apresentação](https://powerembedded.com.br/apresentacao)
   * [Instalação](https://powerembedded.com.br/instalacao)
