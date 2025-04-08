@@ -106,7 +106,7 @@ Pontos importantes:
 Antes de utilizar a tecnologia de [Análise integrada do Power BI](https://learn.microsoft.com/pt-br/power-bi/developer/embedded/embedded-analytics-power-bi) para incorporar relatórios em portais e aplicações Web, é bom entender quais as regras para que a solução esteja em conformidade com o licenciamento correto da Microsoft, para evitar violar os termos de uso do Power BI.
 {% endhint %}
 
-### **1) ISV com um único tenant, hospedando relatórios de clientes**
+### **1) Portal hospedando relatórios de clientes**
 
 * Um único workspace por cliente **dentro do tenant da ISV**.
 * Uma capacidade compartilhada entre todos.
