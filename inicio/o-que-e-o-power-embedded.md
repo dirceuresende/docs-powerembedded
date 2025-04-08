@@ -45,6 +45,25 @@ Além de redução de custos e todas as vantagens citadas acima, saiba que todos
 
 
 
+**Modelo de inserção de relatório - Inserir para clientes (Apps owns data)**
+
+* Cada **cliente tem seu próprio tenant Power BI**, onde:
+  * Eles **adquirem a capacidade Premium (P ou F SKU)**.
+  * Os **relatórios estão hospedados nos workspaces deles**.
+  * Os **usuários são do próprio tenant deles**, cadastrados por você via SSO ou métodos alternativos (Entra ID, Google etc.).
+* A Power Tuning, como ISV, cria um **Service Principal diretamente dentro do tenant do cliente** (com consentimento deles), e o configura com as permissões adequadas para gerar o token de embed.
+* O portal SaaS da sua empresa **atua como um middleware**, mas o acesso e o embed ocorrem usando o **Service Principal daquele tenant**, com capacidade vinculada àquele tenant.
+
+#### ✅ Isso está 100% em conformidade com o modelo **"App owns data"**:
+
+* Mesmo que o portal seja multicliente, **cada tenant tem sua própria instância de embed isolada**, com seu próprio Service Principal e sua própria capacidade.
+* O **acesso aos relatórios é feito via autenticação não interativa**, conforme definido pela Microsoft para ISVs no modelo "inserir para seus clientes".
+* Os usuários finais **não precisam de licenças Power BI Pro**, uma vez que os relatórios estão atribuídos a uma capacidade dedicada.
+* Como o conteúdo e o Service Principal estão no **mesmo tenant do cliente**, não há violação do controle de dados nem do isolamento entre tenants.
+* Toda autenticação com Power BI Embedded (para gerar embed tokens) **usa o Service Principal criado no tenant do cliente**, com `client_id` e `client_secret` específicos.
+
+
+
 ### Principais documentações
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>O que é o Power Embedded</strong></td><td>Um resumo deste produto</td><td><a href="../.gitbook/assets/Power Embedded - Ícone da Documentação (32).png">Power Embedded - Ícone da Documentação (32).png</a></td><td></td><td><a href="o-que-e-o-power-embedded.md">o-que-e-o-power-embedded.md</a></td></tr><tr><td><strong>Agendar apresentação</strong></td><td>Conheça nosso comercial</td><td><a href="../.gitbook/assets/Power Embedded - Ícone da Documentação (27).png">Power Embedded - Ícone da Documentação (27).png</a></td><td></td><td><a href="https://powerembedded.com.br/apresentacao">https://powerembedded.com.br/apresentacao</a></td></tr><tr><td><strong>Agendar instalação</strong></td><td>Avaliação gratuita 30 dias</td><td><a href="../.gitbook/assets/Power Embedded - Ícone da Documentação (28).png">Power Embedded - Ícone da Documentação (28).png</a></td><td></td><td><a href="https://powerembedded.com.br/instalacao">https://powerembedded.com.br/instalacao</a></td></tr><tr><td><strong>Apresentação comercial</strong></td><td>Veja um resumo do sistema</td><td><a href="../.gitbook/assets/Power Embedded - Ícone da Documentação (31).png">Power Embedded - Ícone da Documentação (31).png</a></td><td></td><td><a href="https://powerembedded.com.br/apresentacao-comercial">https://powerembedded.com.br/apresentacao-comercial</a></td></tr><tr><td><strong>Perguntas frequentes</strong></td><td>E suas respostas</td><td><a href="../.gitbook/assets/Power Embedded - Ícone da Documentação (33).png">Power Embedded - Ícone da Documentação (33).png</a></td><td></td><td><a href="../perguntas-frequentes/">perguntas-frequentes</a></td></tr><tr><td><strong>Calculadora de Preços</strong></td><td>Quanto custa esse produto</td><td><a href="../.gitbook/assets/Power Embedded - Ícone da Documentação (29).png">Power Embedded - Ícone da Documentação (29).png</a></td><td></td><td><a href="https://powerembedded.com.br/calculadora">https://powerembedded.com.br/calculadora</a></td></tr><tr><td><strong>Primeiro acesso</strong></td><td>O que fazer primeiro</td><td><a href="../.gitbook/assets/Design sem nome (41).png">Design sem nome (41).png</a></td><td></td><td><a href="../portal-de-administracao/primeiro-acesso.md">primeiro-acesso.md</a></td></tr><tr><td><strong>Administração</strong></td><td>Como administrar o portal</td><td><a href="../.gitbook/assets/Design sem nome (42).png">Design sem nome (42).png</a></td><td></td><td><a href="../portal-de-administracao/visao-geral.md">visao-geral.md</a></td></tr><tr><td><strong>Visualização dos relatórios</strong></td><td>A experiência dos usuários</td><td><a href="../.gitbook/assets/Design sem nome (43) (1).png">Design sem nome (43) (1).png</a></td><td></td><td><a href="../portal-de-relatorios/portal-de-relatorios/">portal-de-relatorios</a></td></tr></tbody></table>
