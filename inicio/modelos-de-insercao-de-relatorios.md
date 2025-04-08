@@ -107,24 +107,34 @@ Pontos importantes:
 * Um único workspace por cliente **dentro do tenant da ISV**.
 * Uma capacidade compartilhada entre todos.
 * Service Principal controlado pela ISV.
+* Acesso segmentado por RLS ou filtros.
 * Nenhum controle real do cliente sobre seus relatórios.
+
+
 
 **Risco:**
 
 * Violação das regras de licenciamento.
 * Possível infração contratual com a Microsoft.
+* Pode levar à suspensão da conta pela Microsoft.
 * Dados de múltiplos clientes sob controle de um único tenant = risco de segurança e privacidade.
 
 
 
 ### **2) Uso de Master Account para todos os relatórios:**
 
-* Aplicação usa uma **conta Pro de um usuário específico** para gerar tokens de incorporação.
+* A aplicação usa uma conta "genérica" com licença Pro para gerar embed tokens.
+* Não utiliza Service Principal.
 * Não há uso de capacidade Premium.
 * Usuários finais acessam sem licença.
+
+
 
 **Risco:**
 
 * **Totalmente fora do modelo suportado atualmente.**
+* Prática obsoleta e não recomendada pela Microsoft.
+* Altamente arriscado para escalabilidade, segurança e compliance.
 * Inviável para escala ou auditoria.
+* Não é suportado oficialmente.
 * Pode levar à suspensão da conta.
