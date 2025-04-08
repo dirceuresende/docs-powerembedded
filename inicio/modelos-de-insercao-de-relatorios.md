@@ -79,10 +79,10 @@ Cada **cliente tem**:
 
 O Power Embedded (no tenant da ISV):
 
-* Autentica usando o **client\_id + secret do service principal do cliente**
+* Autentica usando o **client\_id + secret** do service principal do cliente
 * Gera o **token de embed** com escopo mínimo
-* Aplica segurança e RLS com base no banco de dados interno da ISV
-* Não possui controle ou hospedagem dos relatórios, apenas os consome via API
+* **Aplica segurança e RLS** com base no banco de dados interno da ISV
+* **Não possui controle ou hospedagem dos relatórios**, apenas os consome via API
 
 
 
@@ -93,7 +93,7 @@ Pontos importantes:
 * A Power Tuning, como ISV, cria um **Service Principal diretamente dentro do tenant do cliente** (com consentimento deles), e o configura com as permissões adequadas para gerar o token de embed.
 * O Power Embedded **atua como um middleware**, mas o acesso e o embed ocorrem usando o **Service Principal daquele tenant**, com capacidade vinculada àquele tenant.
 * Mesmo que o portal seja multicliente, **cada tenant tem sua própria instância de embed isolada**, com seu próprio Service Principal e sua própria capacidade.
-* Os usuários finais **não precisam de licenças Power BI Pro**, desde que os relatórios estejam atribuídos a uma capacidade dedicada.
+* Os usuários finais **não precisam de licenças Power BI Pro**, uma vez que os relatórios estão atribuídos a uma capacidade dedicada.
 * Como o conteúdo e o Service Principal estão no **mesmo tenant do cliente**, não há violação do controle de dados nem do isolamento entre tenants.
 
 #### ✅ Isso está 100% em conformidade com o modelo **"App owns data"**
