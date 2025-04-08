@@ -102,6 +102,8 @@ Pontos importantes:
 
 ## Erros comuns ao utilizar o modelo App Owns Data
 
+Antes de utilizar a tecnologia de [Análise integrada do Power BI](https://learn.microsoft.com/pt-br/power-bi/developer/embedded/embedded-analytics-power-bi) para incorporar relatórios em portais e aplicações Web, é bom entender quais as regras para que a solução esteja em conformidade com o licenciamento correto da Microsoft, para evitar violar os termos de uso do Power BI.
+
 ### **1) ISV com um único tenant, hospedando relatórios de clientes**
 
 * Um único workspace por cliente **dentro do tenant da ISV**.
