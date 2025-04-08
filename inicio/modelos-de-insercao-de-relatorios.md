@@ -134,7 +134,7 @@ Antes de utilizar a tecnologia de [Análise integrada do Power BI](https://learn
 
 
 
-**Risco:**
+**Riscos de licenciamento:**
 
 * **Totalmente fora do modelo suportado atualmente.**
 * Prática obsoleta e não recomendada pela Microsoft.
@@ -142,3 +142,12 @@ Antes de utilizar a tecnologia de [Análise integrada do Power BI](https://learn
 * Inviável para escala ou auditoria.
 * Não é suportado oficialmente.
 * Pode levar à suspensão da conta.
+
+
+
+**Riscos de segurança:**
+
+* Necessário armazenar login e senha (com risco de vazamento).
+* Tokens são gerados com permissões de um usuário humano.
+* Sem autenticação granular ou escopo controlado.
+* Se tokens forem interceptados, qualquer pessoa pode acessar o conteúdo embutido.
