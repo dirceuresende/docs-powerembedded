@@ -18,25 +18,17 @@ Durante a reunião de instalação do sistema, que é feita junto com o cliente,
 
 ### Como criar o aplicativo do Power Embedded no Azure AD
 
-Para registrar o de aplicativo que será utilizado pelo Power Embedded, você precisará acessar [esse link aqui](https://portal.azure.com/#view/Microsoft\_AAD\_IAM/ActiveDirectoryMenuBlade/\~/RegisteredApps).
+Para registrar o de aplicativo que será utilizado pelo Power Embedded, você precisará acessar [esse link aqui](https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/RegisteredApps).
 
 Na tela abaixo, clique no botão “New registration
 
-<div align="left">
-
-<figure><img src="https://powerembedded.com.br/wp-content/uploads/2023/08/Manual-de-Instalacao-do-Power-Embedded-3.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="https://powerembedded.com.br/wp-content/uploads/2023/08/Manual-de-Instalacao-do-Power-Embedded-3.png" alt=""><figcaption></figcaption></figure></div>
 
 Agora você deverá escolher um nome para o aplicativo que irá criar no seu Azure AD. O nome fica a seu critério.
 
 Após isso, clique no botão “Register”, no final da página
 
-<div data-full-width="false">
-
-<figure><img src="https://powerembedded.com.br/wp-content/uploads/2023/08/Manual-de-Instalacao-do-Power-Embedded-5.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="false"><figure><img src="https://powerembedded.com.br/wp-content/uploads/2023/08/Manual-de-Instalacao-do-Power-Embedded-5.png" alt=""><figcaption></figcaption></figure></div>
 
 Após a criação desse Aplicativo, você será direcionado para a tela de visão geral desse usuário.
 
@@ -86,6 +78,10 @@ Na aba a seguir, busque por “Directory” e selecione a primeira opção “Di
 
 ![](https://powerembedded.com.br/wp-content/uploads/2024/07/Directory-1.png)
 
+Caso queira utilizar uma permissão menos privilegiada, pode liberar apenas as permissões "User.Read.All" e "Group.Read.All".
+
+<figure><img src="../../.gitbook/assets/image (436).png" alt=""><figcaption></figcaption></figure>
+
 Para finalizar basta conceder o consentimento do administrador clicando em “Grant admin consent for”.
 
 <figure><img src="https://powerembedded.com.br/wp-content/uploads/2024/07/Conssentimento-admin.png" alt=""><figcaption></figcaption></figure>
@@ -98,7 +94,7 @@ Pronto, quando finalizar as próximas etapas já conseguirá importar os usuári
 
 Para liberar permissões no Portal de Administração do Power BI para o Service Principal que você acabou de criar, ele obrigatoriamente precisa fazer parte de um grupo de segurança do Azure AD (Entra ID).
 
-Para fazer isso, acesse [este link aqui](https://portal.azure.com/#view/Microsoft\_AAD\_IAM/GroupsManagementMenuBlade/\~/AllGroups) e clique no botão “New group”
+Para fazer isso, acesse [este link aqui](https://portal.azure.com/#view/Microsoft_AAD_IAM/GroupsManagementMenuBlade/~/AllGroups) e clique no botão “New group”
 
 <figure><img src="https://powerembedded.com.br/wp-content/uploads/2023/08/Manual-de-Instalacao-do-Power-Embedded-11.png" alt=""><figcaption></figcaption></figure>
 
@@ -191,17 +187,17 @@ Caso você tenha acessado o portal de administração utilizando um usuário sem
 
 Se isso acontecer, você precisará autorizar a aplicação do Power Embedded (powerportal.cloud) em nome da organização, utilizando um usuário com permissões globais no Azure AD.
 
-Para fazer isso, clique no link “[Enterprise Applications](https://portal.azure.com/#view/Microsoft\_AAD\_IAM/StartboardApplicationsMenuBlade/\~/AppAppsPreview/menuId\~/null)” do Azure AD (Entra ID
+Para fazer isso, clique no link “[Enterprise Applications](https://portal.azure.com/#view/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/~/AppAppsPreview/menuId~/null)” do Azure AD (Entra ID
 
 <img src="https://powerembedded.com.br/wp-content/uploads/2023/10/Aplicativos-empresariais.png" alt="" data-size="original">
 
 Localize e clique no aplicativo “powerportal.cloud”
 
-[![](https://powerembedded.com.br/wp-content/uploads/2023/10/Aplicativos-empresariais-powerportal.cloud\_.png)](https://powerembedded.com.br/wp-content/uploads/2023/10/Aplicativos-empresariais-powerportal.cloud\_.png)
+[![](https://powerembedded.com.br/wp-content/uploads/2023/10/Aplicativos-empresariais-powerportal.cloud_.png)](https://powerembedded.com.br/wp-content/uploads/2023/10/Aplicativos-empresariais-powerportal.cloud_.png)
 
 Clique no menu “Permissão” no painel da esquerda e depois clique no botão “Conceder consentimento do administador para …” e autorize a aplicação.
 
-[![](https://powerembedded.com.br/wp-content/uploads/2023/10/Aplicativos-empresariais-Permissoes-powerportal.cloud\_.png)](https://powerembedded.com.br/wp-content/uploads/2023/10/Aplicativos-empresariais-Permissoes-powerportal.cloud\_.png)
+[![](https://powerembedded.com.br/wp-content/uploads/2023/10/Aplicativos-empresariais-Permissoes-powerportal.cloud_.png)](https://powerembedded.com.br/wp-content/uploads/2023/10/Aplicativos-empresariais-Permissoes-powerportal.cloud_.png)
 
 </details>
 
