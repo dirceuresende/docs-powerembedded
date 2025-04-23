@@ -120,7 +120,7 @@ Permite os usuários colaborarem diretamente nos relatórios, compartilhando obs
 
 <figure><img src="../.gitbook/assets/image (439).png" alt=""><figcaption></figcaption></figure>
 
-No portal de administração é possível você gerenciar esses comentários. Vá ao menu de **artefatos** > **relatórios** > **Comentários** e lá você vai encontrar todos os comentários existente, onde é possível remover, editar, ou até mesmo criar um comentário.
+No portal de administração é possível você gerenciar esses comentários. Vá ao menu de **Power BI** > **relatórios** > **Comentários** e lá você vai encontrar todos os comentários existente, onde é possível remover, editar, ou até mesmo criar um comentário.
 
 <figure><img src="../.gitbook/assets/image (440).png" alt=""><figcaption></figcaption></figure>
 
