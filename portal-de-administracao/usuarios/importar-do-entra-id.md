@@ -26,7 +26,7 @@ Se você não quiser sincronizar os grupos, mas apenas realizar uma importação
 
 ### Requisitos para a integração com Entra ID
 
-Para integrar o Power Embedded com o Azure AD (Entra ID) e importar os usuários e grupos, acesse a tela de [Registros de aplicativos](https://portal.azure.com/#view/Microsoft\_AAD\_IAM/ActiveDirectoryMenuBlade/\~/RegisteredApps).
+Para integrar o Power Embedded com o Azure AD (Entra ID) e importar os usuários e grupos, acesse a tela de [Registros de aplicativos](https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/RegisteredApps).
 
 Pesquise pelo aplicativo do Power Embedded (PowerEmbedded-App), clique em “API permissions” e em “Add a Permission”.
 
@@ -43,6 +43,10 @@ Em seguida seleciona a opção de “Application permissions”.
 Na aba a seguir, busque por “Directory” e selecione a primeira opção “Directory.Read.All” e clique em “Add permissions”.
 
 ![](https://powerembedded.com.br/wp-content/uploads/2024/07/Directory-1.png)
+
+Caso queira utilizar uma permissão menos privilegiada, pode liberar apenas as permissões "User.Read.All" e "Group.Read.All".
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Para finalizar basta conceder o consentimento do administrador clicando em “Grant admin consent for”.
 
