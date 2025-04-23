@@ -78,11 +78,16 @@ O usuário que receber algumas das opções abaixo, só será possível visualiz
 
 Uma lista como essa é criada ao salvar filtros, e ir interagindo entre eles.
 
-<div align="left">
+<div align="left"><figure><img src="../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure></div>
 
-<figure><img src="../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure>
+**Filtro Padrão:** Ao salvar um filtro como padrão, todas as vezes que o relatório for aberto, ele será exibido automaticamente com o filtro selecionado. Além disso, o filtro padrão pode ser editado conforme as necessidades do usuário, garantindo flexibilidade.\
+&#x20;   Uma vez salvo, o filtro marcado como padrão será automaticamente aplicado sempre que o relatório for acessado, garantindo consistência e agilidade no uso diário.
 
-</div>
+<figure><img src="../.gitbook/assets/image (438).png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="danger" %}
+**Importante:** O filtro padrão aplicado não poderá ser compartilhado filtrado com outra pessoa que tenha acesso ao relatório. Cada usuário deverá configurar seu próprio filtro padrão conforme suas necessidades.
+{% endhint %}
 
 
 
@@ -108,3 +113,17 @@ Se deseja que ao salvar uma cópia do relatório ela seja importada automaticame
 {% hint style="danger" %}
 **Atenção:** Cuidado ao sobrescrever um relatório, isso pode modificar para outros usuários.
 {% endhint %}
+
+Menu Comentários:
+
+Permite os usuários colaborarem diretamente nos relatórios, compartilhando observações, ideias ou questionamentos. Facilitando o trabalho em equipe, e mantendo todas as discussões no contexto dos dados apresentados.
+
+<figure><img src="../.gitbook/assets/image (439).png" alt=""><figcaption></figcaption></figure>
+
+No portal de administração é possível você gerenciar esses comentários. Vá ao menu de **artefatos** > **relatórios** > **Comentários** e lá você vai encontrar todos os comentários existente, onde é possível remover, editar, ou até mesmo criar um comentário.
+
+<figure><img src="../.gitbook/assets/image (440).png" alt=""><figcaption></figcaption></figure>
+
+Além de existir as opções citadas acima, é possível você definir quais relatórios vão ter essa funcionalidade habilitada. A funcionalidade de comentários já por padrão vem habilitada no relatório, caso opte por desabilitar, clique em **Power BI > relatórios > seleciona o relatório > ações > editar > Bloquear comentários do relatório**.
+
+![](<../.gitbook/assets/image (441).png>)\
