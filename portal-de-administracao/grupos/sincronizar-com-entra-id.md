@@ -78,7 +78,7 @@ Para que a sincronização ocorra de fato, é necessário selecionar quais grupo
 
 Para ser possível importar dados de usuários e grupos do Entra ID, é necessário atribuir algumas permissões para o Service Principal, criado no Portal do Azure, utilizado pelo Power Embedded para se comunicar com o seu ambiente.
 
-Na tela de [Registro de aplicativos](https://portal.azure.com/#view/Microsoft\_AAD\_IAM/ActiveDirectoryMenuBlade/\~/RegisteredApps), pesquise pelo nome do aplicativo criado (O nome padrão é PowerEmbedded-App).
+Na tela de [Registro de aplicativos](https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/RegisteredApps), pesquise pelo nome do aplicativo criado (O nome padrão é PowerEmbedded-App).
 
 Na tela do aplicativo, clique em _**API permissions**_, no menu lateral e depois em _**Add a Permission**_.
 
@@ -95,6 +95,10 @@ Em seguida selecione a opção de _**Application permissions**_.
 Na aba a seguir, busque por _**Directory**_ e selecione a primeira opção _**Directory.Read.All**_ e clique em _**Add permissions**_.
 
 <figure><img src="../../.gitbook/assets/image (260).png" alt=""><figcaption></figcaption></figure>
+
+Caso queira utilizar uma permissão menos privilegiada, pode liberar apenas as permissões "User.Read.All" e "Group.Read.All".
+
+<figure><img src="../../.gitbook/assets/image (434).png" alt=""><figcaption></figcaption></figure>
 
 Para finalizar basta conceder o consentimento do administrador clicando em _**Grant admin consent for**_.
 
