@@ -2,7 +2,7 @@
 
 ### Controle de gastos com Power Pilot: limite de uso mensal em dólar (USD)
 
-#### A funcionalidade de controle de gasto permite definir um **limite mensal de uso em dólar (USD)** para o Power Pilot, trazendo mais previsibilidade e tranquilidade para os usuários. Com essa funcionalidade, é possível utilizar a inteligência artificial com **mais confiança**, inclusive explorando modelos mais robustos, como o **GPT-4o**, sem correr o risco de ultrapassar o orçamento.
+A funcionalidade de controle de gasto permite definir um limite mensal de uso em dólar (USD) para o Power Pilot, trazendo mais previsibilidade e tranquilidade para os usuários. Com essa funcionalidade, é possível utilizar a inteligência artificial com mais confiança, inclusive explorando modelos mais robustos, como o GPT-4o, sem correr o risco de ultrapassar o orçamento
 
 <figure><img src="../../.gitbook/assets/Imagem 1.png" alt=""><figcaption></figcaption></figure>
 
