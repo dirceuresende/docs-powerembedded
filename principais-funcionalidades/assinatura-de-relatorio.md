@@ -27,4 +27,4 @@ O usuário pode selecionar especificamente a página do relatório a ser enviada
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>Assinatura de Relatório </td><td></td><td><a href="../portal-de-relatorios/assinatura-de-relatorio.md">assinatura-de-relatorio.md</a></td><td><a href="../.gitbook/assets/Group 39.png">Group 39.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td></td><td>Assinatura de Relatório </td><td></td><td><a href="../portal-de-relatorios/assinatura-de-relatorio/">assinatura-de-relatorio</a></td><td><a href="../.gitbook/assets/Group 39.png">Group 39.png</a></td></tr></tbody></table>

@@ -4,7 +4,7 @@ No relatório, se o usuário tiver acesso, é possível utilizar as permissões 
 
 É crucial lembrar que o usuário só poderá acessar essas funcionalidades se as permissões estiverem ativas; caso contrário, ele não conseguirá utilizá-las.
 
-<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 Ao clicar no nome do relatório na barra de navegação superior do relatório, é possível acessar algumas informações sobre o relatório e identificar o responsável.
 
@@ -18,7 +18,7 @@ Ao clicar no nome do relatório na barra de navegação superior do relatório, 
   * **Exportar apenas esta página:** Permite exportar apenas a página atual do relatório, útil quando há várias páginas disponíveis.
   * **Excluir abas ocultas:** Se existirem abas ocultas no relatório, é possível excluí-las da exportação.
 
-<figure><img src="../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (314).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -36,7 +36,7 @@ Ao clicar no nome do relatório na barra de navegação superior do relatório, 
     \
 
 
-    <figure><img src="../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (315).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -59,16 +59,16 @@ O usuário que receber algumas das opções abaixo, só será possível visualiz
 *   Mostrar barra lateral: Mostra a barra lateral da tela inicial.\
 
 
-    <figure><img src="../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (316).png" alt=""><figcaption></figcaption></figure>
 *   **Filtros**: Exibe os filtros padrão do Power BI.\
 
 
-    <figure><img src="../.gitbook/assets/image (318).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (318).png" alt=""><figcaption></figcaption></figure>
 *   **Abas**: Oculta abas adicionais caso o relatório possua mais de uma\
     \
 
 
-    <figure><img src="../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -78,12 +78,12 @@ O usuário que receber algumas das opções abaixo, só será possível visualiz
 
 Uma lista como essa é criada ao salvar filtros, e ir interagindo entre eles.
 
-<div align="left"><figure><img src="../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (320).png" alt=""><figcaption></figcaption></figure></div>
 
 **Filtro Padrão:** Ao salvar um filtro como padrão, todas as vezes que o relatório for aberto, ele será exibido automaticamente com o filtro selecionado. Além disso, o filtro padrão pode ser editado conforme as necessidades do usuário, garantindo flexibilidade.\
 &#x20;   Uma vez salvo, o filtro marcado como padrão será automaticamente aplicado sempre que o relatório for acessado, garantindo consistência e agilidade no uso diário.
 
-<figure><img src="../.gitbook/assets/image (438).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (438).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **Importante:** O filtro padrão aplicado não poderá ser compartilhado filtrado com outra pessoa que tenha acesso ao relatório. Cada usuário deverá configurar seu próprio filtro padrão conforme suas necessidades.
@@ -99,14 +99,14 @@ Essas funcionalidades estarão disponíveis se estiverem ativadas no cadastro do
 *   **Edição**: Permite editar o relatório. Se o usuário tiver permissão, pode sobrescrever o relatório ou criar uma cópia.\
 
 
-    <figure><img src="../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>
 
 
 *   **Criação**: Modo de criação onde o usuário pode começar um novo relatório do zero, reutilizando conjuntos de dados existentes.\
     \
 
 
-    <figure><img src="../.gitbook/assets/image (322).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (322).png" alt=""><figcaption></figcaption></figure>
 
 Se deseja que ao salvar uma cópia do relatório ela seja importada automaticamente, você pode definir essa regra em **Configurações > Parâmetros > Modo de Edição e Criação.**
 
@@ -118,12 +118,12 @@ Menu Comentários:
 
 Permite os usuários colaborarem diretamente nos relatórios, compartilhando observações, ideias ou questionamentos. Facilitando o trabalho em equipe, e mantendo todas as discussões no contexto dos dados apresentados.
 
-<figure><img src="../.gitbook/assets/image (439).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (439).png" alt=""><figcaption></figcaption></figure>
 
 No portal de administração é possível você gerenciar esses comentários. Vá ao menu de **Power BI** > **relatórios** > **Comentários** e lá você vai encontrar todos os comentários existente, onde é possível remover, editar, ou até mesmo criar um comentário.
 
-<figure><img src="../.gitbook/assets/image (440).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (440).png" alt=""><figcaption></figcaption></figure>
 
 Além de existir as opções citadas acima, é possível você definir quais relatórios vão ter essa funcionalidade habilitada. A funcionalidade de comentários já por padrão vem habilitada no relatório, caso opte por desabilitar, clique em **Power BI > relatórios > seleciona o relatório > ações > editar > Bloquear comentários do relatório**.
 
-![](<../.gitbook/assets/image (441).png>)\
+![](<../../.gitbook/assets/image (441).png>)\

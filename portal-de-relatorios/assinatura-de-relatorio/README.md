@@ -19,19 +19,11 @@ Para configurar essa automação, siga os passos abaixo:
 
 
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure></div>
 
 Após concluir a configuração, salve a assinatura. É necessário **habilitar a assinatura na flag,** conforme imagem abaixo.
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure></div>
 
 O usuário pode criar mais de uma assinatura, facilitando a gestão de diferentes relatórios e destinatários.
 
