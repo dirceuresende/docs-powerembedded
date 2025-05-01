@@ -26,4 +26,4 @@ Permite programar horários para ligar/desligar a capacidade ou alterá-la, ofer
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Capacidades</td><td></td><td><a href="../.gitbook/assets/Group 38.png">Group 38.png</a></td><td><a href="../portal-de-administracao/artefatos/capacidades/">capacidades</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Capacidades</td><td></td><td><a href="../.gitbook/assets/Group 38.png">Group 38.png</a></td><td><a href="../portal-de-administracao/power-bi/capacidades/">capacidades</a></td></tr></tbody></table>

@@ -65,5 +65,5 @@ Pesquise pelo nome do aplicativo que foi criado anteriormente (PowerEmbedded-App
 Pronto! Agora o Power Embedded já possui acesso nesse workspace. Repita isso para todos os Workspaces que você quer importar relatórios.
 
 {% hint style="info" %}
-Para configurar a capacidade no portal do azure, acesse [Configuração de Capacidades](../artefatos/capacidades/).
+Para configurar a capacidade no portal do azure, acesse [Configuração de Capacidades](../power-bi/capacidades/).
 {% endhint %}

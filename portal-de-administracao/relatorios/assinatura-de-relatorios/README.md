@@ -4,7 +4,7 @@ A assinatura de relatório é um recurso que permite aos usuários com a permiss
 
 Esse recurso é uma ferramenta poderosa para garantir que informações importantes sejam entregues de maneira consistente e pontual, e facilitando a análise de dados para usuários que gostam de receber as informações por e-mail sem precisar acessar o portal.
 
-<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -14,7 +14,7 @@ No menu de gerenciamento de assinaturas de relatórios, você pode visualizar qu
 
 Essa funcionalidade oferece uma visão detalhada das assinaturas existentes, facilitando o gerenciamento e a supervisão, e garantindo que você esteja sempre atualizado sobre as assinaturas criadas.
 
-<figure><img src="../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (112).png" alt=""><figcaption></figcaption></figure>
 
 Além disso, nesse mesmo menu, ao clicar em **Ações**, você pode remover assinaturas de relatórios e editar as informações existentes.
 
@@ -30,11 +30,7 @@ Além disso, você pode adicionar destinatários, permitindo a inclusão de múl
 
 Também é possível escolher o formato do relatório, que pode ser PDF ou PowerPoint, e configurar os parâmetros de data para a assinatura, especificando a frequência e as datas de envio.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure></div>
 
 Ao configurar sua assinatura de relatório, é necessário salvá-la e habilitar a regra para que ela funcione conforme o planejado. Para isso, marque o checkbox correspondente, que ficará azul quando ativado.&#x20;
 
