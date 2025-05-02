@@ -11,7 +11,7 @@ Dentro dessa funcionalidade, destacamos algumas ferramentas importantes para sab
 
 
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Criar e configurar um aplicativo</strong></td><td><a href="../portal-de-administracao/aplicativos.md">aplicativos.md</a></td><td><a href="../.gitbook/assets/coleta-de-dados.png">coleta-de-dados.png</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Criar e configurar um aplicativo</strong></td><td><a href="../portal-de-administracao/aplicativos/">aplicativos</a></td><td><a href="../.gitbook/assets/coleta-de-dados.png">coleta-de-dados.png</a></td></tr></tbody></table>
 
 
 
