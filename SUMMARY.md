@@ -83,7 +83,7 @@
   * [Exibir](portal-de-relatorios/navegacao-dos-relatorios/exibir.md)
   * [Filtros](portal-de-relatorios/navegacao-dos-relatorios/filtros.md)
   * [Modo](portal-de-relatorios/navegacao-dos-relatorios/modo.md)
-  * [Comentarios](portal-de-relatorios/navegacao-dos-relatorios/comentarios.md)
+  * [Comentários](portal-de-relatorios/navegacao-dos-relatorios/comentarios.md)
 * [Aplicativo móvel (PWA)](portal-de-relatorios/aplicativo-movel-pwa.md)
 * [Assinatura de relatório](portal-de-relatorios/assinatura-de-relatorio/README.md)
   * [Configuração](portal-de-relatorios/assinatura-de-relatorio/configuracao.md)
