@@ -46,6 +46,7 @@
     * [Processo de publicação dos relatórios](perguntas-frequentes/duvidas-tecnicas/processo-de-publicacao-dos-relatorios.md)
     * [Atualizações do sistema](perguntas-frequentes/duvidas-tecnicas/atualizacoes-do-sistema.md)
     * [Personalizações do sistema](perguntas-frequentes/duvidas-tecnicas/personalizacoes-do-sistema.md)
+    * [Posso instalar o Power Embedded na minha infraestrutura?](perguntas-frequentes/duvidas-tecnicas/posso-instalar-o-power-embedded-na-minha-infraestrutura.md)
 * [Power Embedded vs Power BI](power-embedded-vs-power-bi.md)
 * [Principais Funcionalidades](principais-funcionalidades/README.md)
   * [IA Generativa - Power Pilot](principais-funcionalidades/ia-generativa-power-pilot.md)
