@@ -44,3 +44,11 @@ Para conseguir instalar o Power Embedded na sua infraestrutura do Azure, você p
 | Azure OpenAI (Power Pilot - Opcional)                      | USD 10,00                    |
 | Azure Defender for Cloud (Opcional)                        | USD 200,00                   |
 | **TOTAL**                                                  | USD 362,63                   |
+
+
+
+### Arquitetura do Power Embedded
+
+Caso tenha interesse em conhecer melhor a arquitetura do Power Embedded e como são os processos internos e de segurança da aplicação, segue abaixo o documento técnico do portal.
+
+{% embed url="https://powertuning.com.br/wp-content/uploads/2025/04/Documentacao-Tecnica-Power-Embedded.pdf" %}
