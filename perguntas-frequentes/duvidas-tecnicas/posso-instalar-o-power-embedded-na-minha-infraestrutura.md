@@ -6,6 +6,10 @@ Nesse formato, a equipe da Power Tuning instala o Power Embedded na assinatura A
 
 No modelo PaaS, além do custo do Fabric, o cliente que irá arcar com os custos de infraestrutura necessários para o Power Embedded funcionar (aproximadamente R$ 1.500,00), tendo total gestão sobre os recursos da aplicação e banco de dados, podendo escalar livremente conforme necessidade.
 
+Todo o processo de contratação, configuração do ambiente e instalação do Power Embedded é feito junto com o time de suporte e será fornecida toda a ajuda necessária para a melhor experiência possível na utilização do portal no ambiente do cliente.
+
+O processo de deploy com as atualizações do portal pode ser automatizado utilizando o Azure DevOps, caso o cliente autorize essa integração automática, ou pode ser manual, onde o time do Power Embedded envia os binários da nova versão e o cliente realiza o deploy da nova versão (de forma assistida pelo time de suporte do portal ou não, conforme regras de segurança do cliente).
+
 
 
 ### Qual serviços o Power Embedded necessita?
