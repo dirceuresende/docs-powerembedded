@@ -12,7 +12,7 @@ O processo de deploy com as atualizações do portal pode ser automatizado utili
 
 
 
-### Qual serviços o Power Embedded necessita?
+### Quais serviços o Power Embedded necessita?
 
 Para conseguir instalar o Power Embedded na sua infraestrutura do Azure, você precisará dos seguintes recursos:
 
