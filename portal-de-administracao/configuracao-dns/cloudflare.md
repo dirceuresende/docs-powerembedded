@@ -44,7 +44,7 @@ Para realizar a configuração de um domínio personalizado em uma aplicação w
 
 Durante a associação de domínios personalizados, o Azure realiza verificações DNS diretas para validar a propriedade e vincular corretamente o domínio ao App Service. Se o proxy da Cloudflare estiver ativado (nuvem laranja), ele interfere na resolução esperada pelo Azure, impedindo a conclusão do processo. Em outras palavras, o Azure precisa verificar a propriedade do domínio diretamente, sem a intermediação do proxy da Cloudflare, que mascara o destino real do tráfego.
 
-A desativação temporária do proxy não compromete a segurança da aplicação, pois o domínio ainda estará sob a gestão da Cloudflare, com proteção contra ataques ao DNS. O tráfego permanecerá criptografado via HTTPS, com certificado gerenciado pelo Azure. E após a ativação do domínio, o proxy poderá ser reativado normalmente, se desejado.
+A desativação temporária do proxy não compromete a segurança da aplicação, pois o domínio ainda estará sob a gestão da Cloudflare, com proteção contra ataques ao DNS. O tráfego permanecerá criptografado via HTTPS, com certificado gerenciado pelo Azure. E após a ativação do domínio, o proxy poderá ser reativado normalmente, se desejado, embora isso possa causar falhas na renovação automática do certificado de segurança do seu subdomínio.
 
 Esse procedimento é amplamente documentado e utilizado por empresas que integram domínios personalizados com o Azure, AWS ou GCP. Inclusive, a própria Microsoft recomenda esse ajuste temporário em sua documentação oficial sobre binding de domínios no App Service.
 
