@@ -188,12 +188,15 @@ Clique em **Criar Organização**
 
 <details>
 
-<summary>Alternativas para controle granular sem criar novas organizaçõe</summary>
+<summary>Alternativas para controle granular sem criar novas organizações</summary>
 
 
 
-* **Empresas**&#x20;
-  * Permite agrupar relatórios e portais com identidades visuais distintas, mantendo uma única organização.\
+*   **Empresas**&#x20;
+
+    * Permite agrupar relatórios e portais com identidades visuais distintas, mantendo uma única organização.
+
+    [Funcionalidade de empresas](https://docs.powerembedded.com.br/portal-de-administracao/empresas)\
 
 
 - **Contribuidor de Workspace**
