@@ -14,13 +14,13 @@ Você pode até mesmo utilizar esse recurso para compartilhar arquivos entre os 
 
 Para utilizar o recurso, vá até a página de [Relatórios](https://admin.powerembedded.com.br/Reports) e clique no botão **Importar** > **Relatório da Web**.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Digite o nome do relatório ou arquivo que será mostrado no portal de relatório e informe a URL original de acesso.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Neste exemplo, estarei importando um relatório que criei no Google Data Studio para o Power Embedded</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Neste exemplo, estarei importando um relatório que criei no Google Data Studio para o Power Embedded</p></figcaption></figure>
 
 {% hint style="info" %}
 Muitos serviços e sites, como Canva, Slideshare e outros, bloqueiam por padrão, que você mostre um conteúdo dentro de outro site (como o Power Embedded), mas disponibilizam um botão ou opção para gerar um link compartilhável (embed), que possui liberação para ser incorporado em outros sites.\
@@ -61,13 +61,13 @@ Essa opção de "Abrir em uma nova aba externa" serve para atender 2 cenários:
 
 Um relatório externo aparece em uma categoria separada no portal de relatório, conforme a imagem abaixo.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Os relatórios externos, links ou arquivos podem ser visualizados normalmente
 
-<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 A segurança dos relatórios e o RLS nesse formato é feita utilizando cookies de sessão do navegador, onde você precisará estar logado nesse serviço que você está tentando inserir para conseguir mostrar os dados no Power Embedded corretamente e ter os filtros de segurança aplicados.
@@ -77,7 +77,7 @@ A segurança dos relatórios e o RLS nesse formato é feita utilizando cookies d
 
 A visualização dos arquivos segue o mesmo formato e padrão dos relatórios externos
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 O Power Embedded não hospeda ou importa os arquivos que você quer mostrar na plataforma utilizando essa importação, portanto, você precisará hospedar esses arquivos em algum local externo, como OneDrive, FTP ou Sharepoint.
@@ -89,6 +89,6 @@ O Power Embedded não hospeda ou importa os arquivos que você quer mostrar na p
 
 As auditorias de acesso de relatório são aplicadas normalmente para os relatórios externos, assim como já funcionam nos outros tipos de relatórios
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Espero que vocês aproveitem bem esse novo recurso e boas análises!

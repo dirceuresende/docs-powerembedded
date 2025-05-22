@@ -217,6 +217,7 @@
   * [Várias empresas ou organizações](portal-de-administracao/empresas/varias-empresas-ou-organizacoes.md)
 * [Avisos](portal-de-administracao/avisos.md)
 * [Configurações](portal-de-administracao/configuracoes/README.md)
+  * [Multi Organizações](portal-de-administracao/configuracoes/multi-organizacoes.md)
   * [Organização](portal-de-administracao/configuracoes/organizacao/README.md)
     * [Alterar senha do aplicativo](portal-de-administracao/configuracoes/organizacao/alterar-senha-do-aplicativo.md)
     * [Atualização de token](portal-de-administracao/configuracoes/organizacao/atualizacao-de-token.md)

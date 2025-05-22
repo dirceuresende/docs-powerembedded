@@ -2,13 +2,13 @@
 
 Ao utilizar o Analysis Services e implementar uma regra de RLS (Row-Level Security), é comum enfrentar o desafio de ter que mapear usuários individualmente no Power BI.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption><p>Mapeamento que você precisa fazer para cada usuário, em cada cubo do SSAS</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Mapeamento que você precisa fazer para cada usuário, em cada cubo do SSAS</p></figcaption></figure>
 
 
 
 Caso você não faça esse mapeamento, você irá ver a seguinte mensagem de erro no Power BI ao tentar acessar o relatório que está conectado ao Analysis Services (SSAS):
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Esse processo se torna ainda mais complexo quando há múltiplos cubos, exigindo a configuração repetitiva para cada cubo, o que pode ser um tanto trabalhoso quanto propenso à erros.
 
@@ -46,15 +46,15 @@ Para que o Power Embedded consiga implementar a segurança a nível de linha (RL
 
 Acesse a tela de [Gerenciar conexões e gateways](https://app.powerbi.com/groups/me/gateways) e clique na opção _**Gerenciar gateways de dados locais.**_
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Agora você irá clicar nas 3 elipses (…) ao lado do gateway que deseja liberar a permissão e selecionar a opção Gerenciar Usuários.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Na tela de gerenciamento de usuários, pesquise pelo nome do aplicativo que você está utilizando no Power Embedded (o nome padrão é _PowerEmbedded-App_), marque a permissão de Administrador e clique no botão **Share**.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Agora repita esse processo para todos os gateways que você precisar gerenciar e acessar dados pelo Power Embedded, **especialmente se for utilizar conexão com o Analysis Services (SSAS).**
 

@@ -9,11 +9,11 @@ Para que seja possível importar os relatórios do Power BI para o Power Embedde
 
 Para alterar a capacidade do Workspace para capacidade Premium (Microsoft Fabric ou Power BI Embedded), acesse o workspace e clique no botão “Configurações de workspace”
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 Caso sua tela seja muito pequena, clique nos 3 pontinhos e selecione a opção “Configurações de workspace”
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -52,11 +52,11 @@ O último passo agora é adicionar o usuário do Power Embedded ao Workspace.
 
 Para adicionar o usuário do Power Embedded (PowerEmbedded-App) como administrador de um workspace, acesse o workspace, clique nos 3 pontinhos e selecione a opção “Gerenciar acesso”
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Clique no botão “+ Adicionar pessoas ou grupos”.
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 Pesquise pelo nome do aplicativo que foi criado anteriormente (PowerEmbedded-App) e lembre de alterar o nível de acesso para “Administrador”. Após isso, clique no botão “Adicionar”.
 

@@ -30,26 +30,14 @@ O Power Embedded permite que você defina a visualização padrão que o usuári
 
 Segue exemplo para demonstrar a diferença entre cada um dos tipos de visualização.
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Visualização de Pastas</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Visualização de Ícones</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Visualização de Lista</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Visualização de Pastas</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Visualização de Ícones</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Visualização de Lista</p></figcaption></figure></div>
 
 {% hint style="info" %}
 Esse parâmetro é para definir o tipo padrão de visualização, quando o usuário ainda não definiu qual o tipo que ele prefere visualizar.\
 \
 Uma vez que o usuário tenha selecionado o tipo de visualização desejado, ao clicar em uma das opções abaixo, o portal irá respeitar a preferência do usuário, sobrepondo essa parâmetro.\
 \
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (4) (2).png>)
 {% endhint %}
 
 
@@ -58,21 +46,13 @@ Uma vez que o usuário tenha selecionado o tipo de visualização desejado, ao c
 
 No Power Embedded, é possível escolher o tipo de visualização das pastas no portal de relatórios.
 
-<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Abaixo segue um exemplo prático da diferença entre os 2 tipos
 
-<div>
-
-<figure><img src="../../../.gitbook/assets/image (366).png" alt=""><figcaption><p>Pastas no modo "Retângulo pequeno"</p></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/image (367).png" alt=""><figcaption><p>Pastas no modo "Cartão"</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../../../.gitbook/assets/image (366).png" alt=""><figcaption><p>Pastas no modo "Retângulo pequeno"</p></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (367).png" alt=""><figcaption><p>Pastas no modo "Cartão"</p></figcaption></figure></div>
 
 
 
@@ -80,11 +60,7 @@ Abaixo segue um exemplo prático da diferença entre os 2 tipos
 
 Esse drop-down permite definir quais elementos serão visualizados na tela, dentro do portão de visualização e de um relatório.
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/Layout-paginas.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/Layout-paginas.png" alt=""><figcaption></figcaption></figure></div>
 
 Segue abaixo cada elemento que vai ser oculto.
 

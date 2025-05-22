@@ -46,7 +46,7 @@ Na aba a seguir, busque por “Directory” e selecione a primeira opção “Di
 
 Caso queira utilizar uma permissão menos privilegiada, pode liberar apenas as permissões "User.Read.All" e "Group.Read.All".
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (432).png" alt=""><figcaption></figcaption></figure>
 
 Para finalizar basta conceder o consentimento do administrador clicando em “Grant admin consent for”.
 
