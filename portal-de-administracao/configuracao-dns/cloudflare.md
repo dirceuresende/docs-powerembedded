@@ -50,4 +50,6 @@ Esse procedimento é amplamente documentado e utilizado por empresas que integra
 
 <figure><img src="../../.gitbook/assets/image (442).png" alt=""><figcaption><p><a href="https://learn.microsoft.com/en-us/azure/api-management/configure-custom-domain?tabs=custom#dns-configuration">https://learn.microsoft.com/en-us/azure/api-management/configure-custom-domain?tabs=custom#dns-configuration</a></p></figcaption></figure>
 
-Estamos controlando esse processo cuidadosamente. A desativação do proxy será apenas durante o período de ativação do domínio. Após a associação ser concluída e validada, avaliaremos a reativação do proxy Cloudflare para proteção adicional (CDN e WAF), se compatível com a aplicação.
+
+
+<figure><img src="../../.gitbook/assets/image (443).png" alt=""><figcaption><p><a href="https://learn.microsoft.com/en-us/answers/questions/2244786/how-to-integrate-cloudflare-services-with-web-app">https://learn.microsoft.com/en-us/answers/questions/2244786/how-to-integrate-cloudflare-services-with-web-app</a></p></figcaption></figure>
