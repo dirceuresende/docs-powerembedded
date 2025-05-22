@@ -47,3 +47,4 @@ O Power Embedded tem 2 níveis de separação de personalizações e você pode 
 Caso o usuário esteja em mais de uma empresa ou em nenhuma, a identidade visual será herdada das configurações gerais da organização.
 {% endhint %}
 
+Se quiser entender um pouco mais sobre Multi Organizações [acesse esse link](https://docs.powerembedded.com.br/portal-de-administracao/empresas/varias-empresas-ou-organizacoes)
