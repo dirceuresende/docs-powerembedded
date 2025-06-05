@@ -8,7 +8,7 @@ description: >-
 
 **✅ Pré-requisitos:**
 
-* Ter sido **convidado para o tenant** (como usuário do tipo _Guest_).
+* Ter sido [**convidado para o tenant**](../../portal-de-administracao/usuarios/convidar-usuario-externo-para-acessar-o-portal-de-administracao.md) (como usuário do tipo _Guest_).
 * Possuir permissão de **administrador no Power Embedded**.
 
 **🔐 Passo a passo de acesso:**
