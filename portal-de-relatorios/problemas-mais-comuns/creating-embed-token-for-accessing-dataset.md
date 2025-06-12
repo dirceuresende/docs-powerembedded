@@ -5,7 +5,7 @@ description: >-
   para ajudá-lo a resolver esse problema.
 ---
 
-# Creating embed token for accessing dataset 947115a2-4a47-416f-a3d1-d4f2232a66f1 requires username to
+# Creating embed token for accessing dataset
 
 <figure><img src="../../.gitbook/assets/Erro.png" alt=""><figcaption></figcaption></figure>
 
@@ -91,35 +91,19 @@ description: >-
 
 </details>
 
-Feito esse processo nós acabamos de adicionar o PowerEmbedded-app com administrador do Azure Analysis Service, o próximo passo é acessar o Azure novamente e copiar o ObjectID e colar no portal de administração do Power Embedded
+Feito esse processo nós acabamos de adicionar o PowerEmbedded-app com administrador do Azure Analysis Service, o próximo passo é acessar o portal de administração do Power Embedded e clicar em salvar, siga o passo 3.
 
 
 
 <details>
 
-<summary>Passo 3: Configurar o Service Principal no Portal</summary>
+<summary>Passo 3: Acessar o portal do Power Embedded<br></summary>
 
-
-
-* No **Azure Portal**, acesse novamente o **Microsoft Entra ID**.
-
-
-
-* Vá até **Enterprise Applications ou Aplicativos empresarias**&#x20;
-
-![](<../../.gitbook/assets/image (425).png>)
-
-* Busque pelo **PowerEmbedded-app** e clique sobre ele e copie o **Object ID**.
-
-![](<../../.gitbook/assets/image (427).png>)
-
-
-
-* Acesse o **Portal de Administração do Power Embedded e** vá até **Configurações** e cole o **Object ID** no campo **ID de Objeto do Service Principal (Azure Analysis Services)**.
+* Acesse o **Portal de Administração do Power Embedded e** vá até **Configurações** e clique no botão de salvar.&#x20;
 
 ![](<../../.gitbook/assets/image (428).png>)\
 
 
-* Salve as alterações.
+Feito isso os relatórios irão funcionar normalmente
 
 </details>
