@@ -1,6 +1,6 @@
 # Trial do Fabric
 
-Para facilitar o processo de instalação do Power Embedded, criamos este tutorial para auxiliar nossos clientes a realizar a instalação do Power Embedded.
+ara facilitar o processo de instalação do Power Embedded, criamos este tutorial para auxiliar nossos clientes a realizar a instalação do Power Embedded.
 
 ### Pré-requisitos para realizar a instalação
 
@@ -173,7 +173,7 @@ Você irá autenticar na sua conta Microsoft e assim que terminar de logar, ver�
 
 **Marque a opção “Consent on behalf of your organization” e clique no botão “Accept”**
 
-<figure><img src="https://powerembedded.com.br/wp-content/uploads/2023/08/Manual-de-Instalacao-do-Power-Embedded-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Captura de tela 2025-06-17 162810.png" alt=""><figcaption></figcaption></figure>
 
 Esqueceu de marcar a opção “Consent on behalf of your organization” ou fez a instalação com uma conta que não era administrador?
 
