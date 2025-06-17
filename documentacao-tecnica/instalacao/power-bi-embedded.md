@@ -198,9 +198,7 @@ Você irá autenticar na sua conta Microsoft e assim que terminar de logar, ver�
 
 **Marque a opção “Consent on behalf of your organization” e clique no botão “Accept”.**
 
-<figure><img src="https://powerembedded.com.br/wp-content/uploads/2023/08/Manual-de-Instalacao-do-Power-Embedded-4.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/Captura de tela 2025-06-17 162810.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Esqueceu de marcar a opção “Consent on behalf of your organization” ou fez a instalação com uma conta que não era administrador?
