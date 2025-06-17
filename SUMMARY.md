@@ -93,6 +93,7 @@
   * [Usuários](portal-de-relatorios/assinatura-de-relatorio/usuarios.md)
   * [Email](portal-de-relatorios/assinatura-de-relatorio/email.md)
 * [Problemas mais comuns](portal-de-relatorios/problemas-mais-comuns/README.md)
+  * [The SMTP server requires a secure connection or the client was not authenticated. The server respons](portal-de-relatorios/problemas-mais-comuns/the-smtp-server-requires-a-secure-connection-or-the-client-was-not-authenticated.-the-server-respons.md)
   * [Convidei um usuário externo para meu tenant mas ele não consegue acessar](portal-de-relatorios/problemas-mais-comuns/convidei-um-usuario-externo-para-meu-tenant-mas-ele-nao-consegue-acessar.md)
   * [Este relatório possui Row-level security (RLS) habilitado e o usuário não está associado](portal-de-relatorios/problemas-mais-comuns/este-relatorio-possui-row-level-security-rls-habilitado-e-o-usuario-nao-esta-associado.md)
   * [A senha do usuário de serviço do Power BI expirou](portal-de-relatorios/problemas-mais-comuns/a-senha-do-usuario-de-servico-do-power-bi-expirou.md)
