@@ -32,6 +32,7 @@
   * [Capacidades dedicadas](perguntas-frequentes/capacidades-dedicadas/README.md)
     * [Fabric? Power BI Embedded? O que são essas capacidades?](perguntas-frequentes/capacidades-dedicadas/fabric-power-bi-embedded-o-que-sao-essas-capacidades.md)
     * [Enquanto a capacidade estiver pausada, ninguém acessa os relatórios?](perguntas-frequentes/capacidades-dedicadas/enquanto-a-capacidade-estiver-pausada-ninguem-acessa-os-relatorios.md)
+    * [Pausar a capacidade quando não estiver utilizando reduz o custo?](perguntas-frequentes/capacidades-dedicadas/pausar-a-capacidade-quando-nao-estiver-utilizando-reduz-o-custo.md)
     * [O que seria isso de 24x7, 14x6 e 12x5?](perguntas-frequentes/capacidades-dedicadas/o-que-seria-isso-de-24x7-14x6-e-12x5.md)
     * [Minha empresa já tem o Power BI Premium. Preciso contratar o Embedded?](perguntas-frequentes/capacidades-dedicadas/minha-empresa-ja-tem-o-power-bi-premium.-preciso-contratar-o-embedded.md)
     * [Uma empresa concorrente conseguiu um valor bem mais baixo do Embedded](perguntas-frequentes/capacidades-dedicadas/uma-empresa-concorrente-conseguiu-um-valor-bem-mais-baixo-do-embedded.md)
