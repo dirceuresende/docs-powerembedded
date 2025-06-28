@@ -17,7 +17,7 @@ Entretanto, no caso do Fabric, essa regra nem sempre irá refletir em uma reduç
 **🔹 Smoothing:**
 
 * O Fabric utiliza o conceito de "pré-alocação proporcional de uso futuro".
-* Quando você executa tarefas pesadas, como refresh de Lakehouse, notebooks ou pipelines, o sistema prevê e **amortiza o custo ao longo das próximas horas** (ex: 6h a 24h).
+* Quando você executa tarefas pesadas, como atualização de relatórios ou execução de notebooks ou pipelines, o sistema prevê e **amortiza o custo ao longo das próximas horas** (ex: 6h a 24h no futuro), para evitar que isso aloque toda a capacidade disponível e falhe a execução.
 * Se você **pausa a capacidade antes do smoothing completar**, o sistema entende que você interrompeu a "janela de pagamento" e pode:
   * Cobrar imediatamente o uso restante, que pode **até dobrar o custo estimado** se estiver considerando apenas a quantidade de horas ligadas, sem considerar o smoothing.
   * Aplicar **bursting credit fees**.
