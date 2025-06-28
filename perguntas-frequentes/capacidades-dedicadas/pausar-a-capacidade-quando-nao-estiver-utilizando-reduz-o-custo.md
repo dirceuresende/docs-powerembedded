@@ -12,12 +12,14 @@ Entretanto, no caso do Fabric, essa regra nem sempre irá refletir em uma reduç
 
 
 
-#### ⚠️ **Microsoft Fabric usa smoothing e bursting**, o que muda a lógica tradicional de "pausar = economizar":
+#### ⚠️ **Microsoft Fabric usa** [**smoothing e bursting**](https://learn.microsoft.com/en-us/fabric/data-warehouse/compute-capacity-smoothing-throttling), o que muda a lógica tradicional de "pausar = economizar":
 
 **🔹 Smoothing:**
 
-* O Fabric utiliza o conceito de "pré-alocação proporcional de uso futuro".
-* Quando você executa tarefas pesadas, como atualização de relatórios ou execução de notebooks ou pipelines, o sistema prevê e **amortiza o custo ao longo das próximas horas** (ex: 6h a 24h no futuro), para evitar que isso aloque toda a capacidade disponível e falhe a execução.
+* O smoothing serve para evitar que processamentos pesados consumam toda a capacidade disponível e falhe a execução ou impacte na visualização dos relatórios ou outras tarefas que estejam em execução.
+* Para isso, o Fabric utiliza o conceito de "pré-alocação proporcional de uso futuro".
+* Quando você executa tarefas pesadas, como atualização de relatórios ou execução de notebooks ou pipelines, o sistema prevê e **amortiza o custo ao longo das próximas horas** (ex: 6h a 24h no futuro).
+* No relatório Fabric Capacity Metrics, é mostrado que o processamento de background está em 50%, isso já está comprometido para as próximas 24 horas 50% da capacidade. Quando você PAUSA o recurso do Fabric, esse tempo futuro é comprometido e COBRADO de uma única vez.
 * Se você **pausa a capacidade antes do smoothing completar**, o sistema entende que você interrompeu a "janela de pagamento" e pode:
   * Cobrar imediatamente o uso restante, que pode **até dobrar o custo estimado** se estiver considerando apenas a quantidade de horas ligadas, sem considerar o smoothing.
   * Aplicar **bursting credit fees**.
