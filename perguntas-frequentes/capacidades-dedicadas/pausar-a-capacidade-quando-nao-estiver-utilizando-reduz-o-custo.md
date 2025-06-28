@@ -35,6 +35,7 @@ Entretanto, no caso do Fabric, essa regra nem sempre irá refletir em uma reduç
 #### ✅ Quando faz sentido pausar o **Microsoft Fabric**:
 
 * Fora de **horários fixos de execução de pipelines** (ex: 00:00–06:00).
+* A utilização média da capacidade não está próxima do seu limite e não possui muitos picos de utilização por longos períodos de tempo.
 * Se você tem controle sobre o agendamento de tarefas e **nenhum smoothing em aberto**.
 * Ideal com **monitoramento**: antes de pausar, verifique o **smoothing buffer ativo**.
 
