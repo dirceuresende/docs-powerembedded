@@ -19,7 +19,7 @@ Entretanto, no caso do Fabric, essa regra nem sempre irá refletir em uma reduç
 * O smoothing serve para evitar que processamentos pesados consumam toda a capacidade disponível e falhe a execução ou impacte na visualização dos relatórios ou outras tarefas que estejam em execução.
 * Para isso, o Fabric utiliza o conceito de "pré-alocação proporcional de uso futuro".
 * Quando você executa tarefas pesadas, como atualização de relatórios ou execução de notebooks, ou pipelines, o sistema **amortiza o custo ao longo das próximas 24 horas**.
-* No relatório Fabric Capacity Metrics, é mostrado que o processamento de background está em 50%, isso já está comprometido para as próximas 24 horas 50% da capacidade. Quando você PAUSA o recurso do Fabric, esse tempo futuro é comprometido e COBRADO de uma única vez.
+* Exemplo prático: Se no relatório Fabric Capacity Metrics, é mostrado que o processamento de background está em 50%, isso quer dizer que 50% da capacidade já está comprometido para as próximas 24 horas. Se você PAUSAR o recurso do Fabric, esse tempo futuro comprometido é COBRADO de uma única vez.
 * Se você **pausa a capacidade antes do smoothing completar**, o sistema entende que você interrompeu a "janela de pagamento" e cobrará imediatamente o uso restante, que pode **até dobrar o custo estimado** se estiver considerando apenas a quantidade de horas ligadas, sem considerar o smoothing.
 
 \
