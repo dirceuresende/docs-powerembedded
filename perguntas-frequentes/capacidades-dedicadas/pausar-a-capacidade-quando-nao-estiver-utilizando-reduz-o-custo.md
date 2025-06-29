@@ -22,7 +22,7 @@ Entretanto, no caso do Fabric, essa regra nem sempre irá refletir em uma reduç
 * Quando você executa tarefas de background, como atualização de relatórios ou execução de notebooks, ou pipelines, o sistema **amortiza e distribui o custo ao longo das próximas 24 horas**.
 * Para atividades interativas (navegação em relatórios), há suavização mínima de 5 minutos (até 64 min).
 * Se você **pausa a capacidade antes do smoothing completar**, o sistema entende que você interrompeu a "janela de pagamento" e cobrará imediatamente o uso restante, que pode **até dobrar o custo estimado** se estiver considerando apenas a quantidade de horas ligadas, sem considerar o smoothing.
-* Exemplo prático: Se no relatório Fabric Capacity Metrics, é mostrado que o processamento de background está em 50%, isso quer dizer que 50% da capacidade já está comprometido para as próximas 24 horas. Se você PAUSAR o recurso do Fabric, esse tempo futuro comprometido é COBRADO de uma única vez.
+* Exemplo prático: Se no relatório Fabric Capacity Metrics, é mostrado que o processamento de background está em 50%, isso quer dizer que 50% da capacidade já está comprometido para as próximas 24 horas. Se você PAUSAR o recurso do Fabric, esse tempo futuro comprometido é COBRADO de uma única vez e esse custo aparece no relatório de custos do portal do Azure.
 
 \
 **🔹 Bursting** (Capacidade Elástica)**:**
