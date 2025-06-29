@@ -13,7 +13,7 @@
 
 O Microsoft Fabric usa [**smoothing e bursting**](https://learn.microsoft.com/en-us/fabric/data-warehouse/compute-capacity-smoothing-throttling), o que muda a lógica tradicional de "pausar = economizar".
 
-### **Smoothing (Suavização):**
+### **Smoothing (Suavização)**
 
 * A suavização permite que cargas de trabalho usem recursos além do limite provisionado (capacidade burstable) durante picos de demanda, distribuindo o consumo de recursos ao longo do tempo.
 * A suavização serve para evitar que processamentos pesados consumam toda a capacidade disponível e falhe a execução ou impacte na visualização dos relatórios, ou outras tarefas que estejam em execução.
@@ -25,14 +25,14 @@ O Microsoft Fabric usa [**smoothing e bursting**](https://learn.microsoft.com/en
 
 
 
-### **Bursting** (Capacidade Elástica)**:**
+### **Bursting** (Capacidade Elástica)
 
 * Permite que workloads usem temporariamente mais recursos do que o SKU base, melhorando o desempenho em picos.
 * Cada SKU tem um **fator de burst** (e.g. F2 até 32x, F8 pode ter até 12x).
 
 
 
-### Throttling (Limitação)**:**
+### Throttling (Limitação)
 
 * Ocorre quando o uso médio de CUs ultrapassa os limites suavizados do SKU.
 * Operações em andamento não são interrompidas; a limitação se aplica apenas às próximas operações após o consumo ser suavizado.
@@ -44,7 +44,7 @@ O Microsoft Fabric usa [**smoothing e bursting**](https://learn.microsoft.com/en
 
 
 
-## Quando faz sentido pausar o **Microsoft Fabric**:
+## Quando faz sentido pausar o **Microsoft Fabric**
 
 * Fora de **horários fixos de execução de pipelines** (ex: 00:00–06:00).
 * A utilização da capacidade é majoritariamente composta por ações interativas (visualização e navegação nos relatórios).
@@ -53,7 +53,7 @@ O Microsoft Fabric usa [**smoothing e bursting**](https://learn.microsoft.com/en
 
 
 
-## Quando faz sentido pausar o **Power BI Embedded**:
+## Quando faz sentido pausar o **Power BI Embedded**
 
 * Sempre que não estiver com relatórios embutidos em uso — não há smoothing, só cobrança por tempo ligado da capacidade, então o cálculo de economia é tão simples quanto contar a quantidade de horas que ficou ligado x custo por hora da capacidade.
 
