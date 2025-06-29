@@ -74,7 +74,7 @@ O Microsoft Fabric usa [**smoothing e bursting**](https://learn.microsoft.com/en
 
 Se seu ambiente tem sobrecarregamentos constantes, isso pode indicar a necessidade de:
 
-* Avaliar se é necessário a**umentar o SKU** da capacidade.
+* Avaliar se é necessário **aumentar o SKU** da capacidade.
 * **Dividir workloads** ou espalhá-los em múltiplas capacidades.
 * **Otimizar** as atividades interativas:
   * Otimizar medidas DAX com alto consumo de capacidade.
