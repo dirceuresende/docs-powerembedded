@@ -52,7 +52,7 @@ P**ausar a capacidade do Power BI Embedded reduz o custo,** pois a cobrança é 
 
 #### ✅ Quando faz sentido pausar o **Power BI Embedded**:
 
-* Sempre que não estiver com relatórios embutidos em uso — não há smoothing, só cobrança por uptime da capacidade.
+* Sempre que não estiver com relatórios embutidos em uso — não há smoothing, só cobrança por tempo ligado da capacidade, então o cálculo de economia é tão simples quanto contar a quantidade de horas que ficou ligado x custo por hora da capacidade.
 
 ***
 
