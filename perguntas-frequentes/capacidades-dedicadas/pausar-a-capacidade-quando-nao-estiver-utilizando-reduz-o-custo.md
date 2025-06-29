@@ -1,14 +1,11 @@
 # Pausar a capacidade quando não estiver utilizando reduz o custo?
 
-Sim, **pausar a capacidade do Power BI Embedded reduz o custo,** pois a cobrança é por hora de uso. No caso do Microsoft Fabric, apesar da cobrança também ser por hora, essa **economia nem sempre acontece.**
+P**ausar a capacidade do Power BI Embedded reduz o custo,** pois a cobrança é por hora de uso. No caso do Microsoft Fabric, apesar da cobrança também ser por hora, essa **economia nem sempre acontece.**
 
 #### ✅ Quando a pausa reduz custo:
 
 * **Fabric Capacity (SKU F)**: Cobrado por hora de execução. Pausar a capacidade suspende a cobrança enquanto ela estiver parada, **desde que não haja uso futuro pré-alocado pendente**.
 * **Power BI Embedded (SKU A1 a A6)**: Cobradas por hora de execução, pausar a capacidade (via Azure Portal, PowerShell ou REST API) suspende a cobrança.
-
-\
-Entretanto, no caso do Fabric, essa regra nem sempre irá refletir em uma redução de custos.
 
 
 
