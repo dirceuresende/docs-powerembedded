@@ -16,7 +16,7 @@ O Microsoft Fabric usa [**smoothing e bursting**](https://learn.microsoft.com/en
 ### **Smoothing (Suavização):**
 
 * A suavização permite que cargas de trabalho usem recursos além do limite provisionado (capacidade burstable) durante picos de demanda, distribuindo o consumo de recursos ao longo do tempo.
-* O suavização serve para evitar que processamentos pesados consumam toda a capacidade disponível e falhe a execução ou impacte na visualização dos relatórios ou outras tarefas que estejam em execução.
+* A suavização serve para evitar que processamentos pesados consumam toda a capacidade disponível e falhe a execução ou impacte na visualização dos relatórios, ou outras tarefas que estejam em execução.
 * Para isso, o Fabric utiliza o conceito de "pré-alocação proporcional de uso futuro". Isso permite usar a capacidade baseada em uso médio, não no pico.
 * Quando você executa tarefas de background, como atualização de relatórios ou execução de notebooks, ou pipelines, o sistema **amortiza e distribui o custo ao longo das próximas 24 horas**.
 * Para atividades interativas (navegação em relatórios), há suavização mínima de 5 minutos (até 64 min).
@@ -28,7 +28,7 @@ O Microsoft Fabric usa [**smoothing e bursting**](https://learn.microsoft.com/en
 ### **Bursting** (Capacidade Elástica)**:**
 
 * Permite que workloads usem temporariamente mais recursos do que o SKU base, melhorando o desempenho em picos.
-* Cada SKU tem um **fator de burst** (e.g. F8 pode ter até 12x, F2 até 32x).
+* Cada SKU tem um **fator de burst** (e.g. F2 até 32x, F8 pode ter até 12x).
 
 
 
@@ -42,7 +42,7 @@ O Microsoft Fabric usa [**smoothing e bursting**](https://learn.microsoft.com/en
   2. **Rejeição Interativa**: após 60 min de sobrecarga.
   3. **Rejeição Background**: após 24 h de sobrecarga acumulada.
 
-***
+
 
 ## Quando faz sentido pausar o **Microsoft Fabric**:
 
@@ -51,13 +51,13 @@ O Microsoft Fabric usa [**smoothing e bursting**](https://learn.microsoft.com/en
 * Baixo consumo de capacidade por operações de background.
 * **Importante:** Sempre analise e acompanhe o consumo da capacidade pela tela de Gerenciamento de custos do Azure para verificar se realmente está ocorrendo uma economia. A partir do 2º dia após alterações no agendamento das pausas da capacidade já é possível analisar o custo diário.
 
-***
+
 
 ## Quando faz sentido pausar o **Power BI Embedded**:
 
 * Sempre que não estiver com relatórios embutidos em uso — não há smoothing, só cobrança por tempo ligado da capacidade, então o cálculo de economia é tão simples quanto contar a quantidade de horas que ficou ligado x custo por hora da capacidade.
 
-***
+
 
 ## Boas práticas de uso da capacidade
 
