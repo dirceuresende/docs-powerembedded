@@ -35,6 +35,7 @@ Entretanto, no caso do Fabric, essa regra nem sempre irá refletir em uma reduç
 **🔹** Throttling (Limitação)**:**
 
 * Ocorre quando o uso médio de CUs ultrapassa os limites suavizados do SKU.
+* Operações em andamento não são interrompidas; a limitação se aplica apenas às próximas operações após o consumo ser suavizado.
 * **Proteção de sobrecarga**: você pode ultrapassar até 10 minutos de capacidade futura sem sofrer limitações de desempenho.
 * Etapas do throttling:
   1. **Delay Interativo**: após 10 min de sobrecarga.
