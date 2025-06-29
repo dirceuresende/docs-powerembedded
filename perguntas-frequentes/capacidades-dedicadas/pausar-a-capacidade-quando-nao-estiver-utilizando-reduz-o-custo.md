@@ -11,7 +11,7 @@
 
 ## Smoothing, Bursting e Throttling
 
-#### O Mi**crosoft Fabric usa** [**smoothing e bursting**](https://learn.microsoft.com/en-us/fabric/data-warehouse/compute-capacity-smoothing-throttling), o que muda a lógica tradicional de "pausar = economizar":
+O Microsoft Fabric usa [**smoothing e bursting**](https://learn.microsoft.com/en-us/fabric/data-warehouse/compute-capacity-smoothing-throttling), o que muda a lógica tradicional de "pausar = economizar".
 
 ### **Smoothing (Suavização):**
 
