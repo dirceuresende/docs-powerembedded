@@ -72,7 +72,7 @@ O Microsoft Fabric usa [**smoothing e bursting**](https://learn.microsoft.com/en
 
 ## Capacidades com utilização acima do limite
 
-Se seu ambiente tem sobrecarregamentos constantes, isso pode indicar a necessidade de:
+Se seu ambiente tem sobrecargas constantes ou está frequentemente ultrapassando o limite da capacidade, recebendo mensagens de erro e impedimento a atualização dos modelos ou visualização dos relatórios, isso pode indicar a necessidade de:
 
 * Avaliar se é necessário **aumentar o SKU** da capacidade.
 * **Dividir workloads** ou espalhá-los em múltiplas capacidades.
