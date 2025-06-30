@@ -50,8 +50,6 @@ Seguem atividades que iremos realizar no portal de Administração do Power BI (
 
 ### Permissões no Portal de Administração do Power BI
 
-<figure><img src="../../.gitbook/assets/image (418).png" alt=""><figcaption></figcaption></figure>
-
 Permissões necessárias:
 
 * As entidades de serviço podem usar APIs do Fabric
@@ -69,6 +67,8 @@ Permissões opcionais:
 * Exportar para .csv (Necessário caso queira permitir exportar dados do relatório para CSV pelo portal)
 * Exportar relatório como apresentações em Power Point ou documentos PDF (necessário caso queira permitir exportar relatórios ou criar assinaturas por email no formato PDF ou Power Point)
 * Exportar os relatórios como arquivos de imagem (necessário caso queira permitir exportar relatórios no formato de Imagem/PNG)
+
+<figure><img src="../../.gitbook/assets/image (418).png" alt=""><figcaption></figcaption></figure>
 
 
 
