@@ -19,7 +19,7 @@ O Microsoft Fabric usa [**smoothing e bursting**](https://learn.microsoft.com/en
 * A suavização serve para evitar que processamentos pesados consumam toda a capacidade disponível e falhe a execução ou impacte na visualização dos relatórios, ou outras tarefas que estejam em execução.
 * Para isso, o Fabric utiliza o conceito de "pré-alocação proporcional de uso futuro". Isso permite usar a capacidade baseada em uso médio, não no pico.
 * Quando você executa tarefas de background, como atualização de relatórios ou execução de notebooks, ou pipelines, o sistema **amortiza e distribui o custo ao longo das próximas 24 horas**.
-* Para atividades interativas (navegação em relatórios), há suavização mínima de 5 minutos (até 64 min).
+* Para atividades interativas (navegação em relatórios), há suavização mínima de 5 minutos.
 * Se você **pausa a capacidade antes do smoothing completar**, o sistema entende que você interrompeu a "janela de pagamento" e cobrará à parte, essas horas que já estavam alocadas, o que pode **até dobrar o custo estimado** se estiver considerando apenas a quantidade de horas ligadas, sem considerar o smoothing.
 * Exemplo prático: Se no relatório Fabric Capacity Metrics, estiver mostrando que o processamento de background está em 50%, isso quer dizer que 50% da capacidade já está comprometido para as próximas 24 horas. Se você PAUSAR o recurso do Fabric, esse tempo futuro que foi suavizado será COBRADO à parte e esse custo será mostrado no relatório de custos do portal do Azure.
 
