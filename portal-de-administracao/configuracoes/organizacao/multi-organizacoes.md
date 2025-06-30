@@ -32,7 +32,7 @@ Para isso clique no link: [Registro de aplicativos](https://portal.azure.com/#vi
 
 Nessa tela busque pelo usuário der serviço criado no momento da instalação, por padrão é powerembedded-app, ao encontrar  clique sobre ele.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -203,4 +203,3 @@ Clique em **Criar Organização**
   * Use roles específicas para limitar o acesso a todos os workspace do portal de administração. Com a função de contribuidor de workspace você consegue liberar o acesso do usuário ao portal de admin sem precisa ter acesso full aos workspace
 
 </details>
-
