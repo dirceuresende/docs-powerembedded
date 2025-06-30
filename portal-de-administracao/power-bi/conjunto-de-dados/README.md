@@ -14,9 +14,7 @@ Na maioria dos menus do portal, é possível aplicar filtros e até mesmo export
 
 Ao clicar em “Ações”, é possível acessar algumas funcionalidades.
 
-![](<../../../.gitbook/assets/image (31).png>)
-
-
+<figure><img src="../../../.gitbook/assets/Screenshot_26.png" alt=""><figcaption></figcaption></figure>
 
 **Segurança:** Ao nível de conjuntos de dados, é possível configurar RLS (Row-Level Security) e OLS (Object-Level Security).
 
