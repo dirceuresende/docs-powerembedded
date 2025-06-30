@@ -12,27 +12,27 @@ Para que a instalação seja realizada com sucesso, é necessário a presença d
 
 Vamos realizar todos os passos abaixo juntos, durante essa reunião de instalação, mas apenas para conhecimento, seguem as permissões necessárias para a instalação, seguem atividades que iremos realizar no Azure AD (alguém com permissão “Azure Global Administrator” deve executar):
 
-* Criar um aplicativo no AD (Acessar a tela de registros de aplicativos)
-* Criar um novo grupo no AD
-* Adicionar esse usuário neste grupo
-* Criar o recurso do Power BI Embedded ou Fabric pelo Azure (opcional se for utilizar o Trial do Fabric)
-* Adicionar o Service Principal recém-criado na role “Contributor” no recurso criado (opcional se for utilizar o Trial do Fabric)
-* Adicionar o Service Principal recém-criado como “Power BI Capacity Administrator” do recurso criado  (opcional se for utilizar o Trial do Fabric)
-* Logar na área administrativa do Power Embedded ([admin.powerembedded.com.br](https://admin.powerembedded.com.br/)), autorizar o aplicativo na sua organização (vai abrir um pop-up no primeiro acesso solicitando o consentimento) e criar os primeiros usuários com perfil de Administrador.
-* Logar no portal de visualização do Power Embedded ([relatorios.powerembedded.com.br](https://relatorios.powerembedded.com.br/)) e autorizar o aplicativo na sua organização (vai abrir um pop-up no primeiro acesso solicitando o consentimento).
+1. Criar um aplicativo no AD (Acessar a tela de registros de aplicativos)
+2. Criar um novo grupo no AD
+3. Adicionar esse usuário neste grupo
+4. Criar o recurso do Power BI Embedded ou Fabric pelo Azure (opcional se for utilizar o Trial do Fabric)
+5. Adicionar o Service Principal recém-criado na role “Contributor” no recurso criado (opcional se for utilizar o Trial do Fabric ou não quiser que o portal gerencie a capacidade)
+6. Adicionar o Service Principal recém-criado como “Power BI Capacity Administrator” do recurso criado  (opcional se for utilizar o Trial do Fabric ou não quiser que o portal gerencie a capacidade)
+7. Logar na área administrativa do Power Embedded ([admin.powerembedded.com.br](https://admin.powerembedded.com.br/)), autorizar o aplicativo na sua organização (vai abrir um pop-up no primeiro acesso solicitando o consentimento) e criar os primeiros usuários com perfil de Administrador.
+8. Logar no portal de visualização do Power Embedded ([relatorios.powerembedded.com.br](https://relatorios.powerembedded.com.br/)) e autorizar o aplicativo na sua organização (vai abrir um pop-up no primeiro acesso solicitando o consentimento).
 
 &#x20;
 
 Seguem atividades que iremos realizar no portal de Administração do Power BI (alguém com permissão “Fabric Administrador” deve executar):
 
-* Habilitar as configurações abaixo e permitir o grupo do AD criado a utilizar essas configurações:
-  * Inserir conteúdo em aplicativos
-  * As entidades de serviço podem usar APIs do Fabric
-  * As entidades de serviço podem acessar APIs de administrador somente leitura
-  * Aprimorar as respostas das APIs de administração com metadados detalhados
-  * Permitir pontos de extremidade XMLA e analisar no Excel com modelos semânticos locais
-* Associar os workspaces ao recurso da capacidade contratada ou da trial (ou criar novos workspaces para migrar em paralelo)
-* Adicionar o grupo do AD criado como administrador dos workspaces
+1. Habilitar as configurações abaixo e permitir o grupo do AD criado a utilizar essas configurações:
+   * Inserir conteúdo em aplicativos
+   * As entidades de serviço podem usar APIs do Fabric
+   * As entidades de serviço podem acessar APIs de administrador somente leitura
+   * Aprimorar as respostas das APIs de administração com metadados detalhados
+   * Permitir pontos de extremidade XMLA e analisar no Excel com modelos semânticos locais
+2. Associar os workspaces ao recurso da capacidade contratada ou da trial (ou criar novos workspaces para migrar em paralelo)
+3. Adicionar o grupo do AD criado como administrador dos workspaces
 
 
 
@@ -56,15 +56,15 @@ Permissões necessárias:
 
 * As entidades de serviço podem usar APIs do Fabric
 * As entidades de serviço podem acessar APIs de administrador somente leitura
-* Aprimorar as respostas das APIs de administração com metadados detalhados
-* Aprimorar as respostas das APIs de administração com as expressões DAX e mashup
-* Inserir conteúdo em aplicativos (já vem ativado por padrão)
 * Permitir pontos de extremidade XMLA e analisar no Excel com modelos semânticos locais (já vem ativado por padrão)
+* Inserir conteúdo em aplicativos (já vem ativado por padrão)
 
 
 
 Permissões opcionais:
 
+* Aprimorar as respostas das APIs de administração com metadados detalhados (Necessário caso queira permitir o uso da IA Generativa do portal)
+* Aprimorar as respostas das APIs de administração com as expressões DAX e mashup (Necessário caso queira permitir o uso da IA Generativa do portal)
 * Exportar para Excel (Necessário caso queira permitir exportar dados do relatório para Excel pelo portal)
 * Exportar para .csv (Necessário caso queira permitir exportar dados do relatório para CSV pelo portal)
 * Exportar relatório como apresentações em Power Point ou documentos PDF (necessário caso queira permitir exportar relatórios ou criar assinaturas por email no formato PDF ou Power Point)
@@ -74,7 +74,12 @@ Permissões opcionais:
 
 ### Permissões na capacidade Fabric ou Power BI Embedded
 
+O Power Embedded possui uma funcionalidade que permite ligar, desligar e alterar o SKU da capacidade manualmente, baseado em agendamento ou por demanda.
 
+Caso você queira permitir que os administradores do portal possam utilizar esse recurso, você precisará realizar as atividades abaixo pelo portal do Azure:
+
+1. Adicionar o Service Principal na role “Contributor” da capacidade (opcional se for utilizar o Trial do Fabric)
+2. Adicionar o Service Principal como “Power BI Capacity Administrator” da capacidade (opcional se for utilizar o Trial do Fabric)
 
 
 
