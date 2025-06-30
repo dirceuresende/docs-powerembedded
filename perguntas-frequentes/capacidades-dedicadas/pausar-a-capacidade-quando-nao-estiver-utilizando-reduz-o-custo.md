@@ -70,7 +70,7 @@ O Microsoft Fabric usa [**smoothing e bursting**](https://learn.microsoft.com/en
 
 
 
-## Como reduzir o consumo de capacidade
+## Capacidades com utilização acima do limite
 
 Se seu ambiente tem sobrecarregamentos constantes, isso pode indicar a necessidade de:
 
