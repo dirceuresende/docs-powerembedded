@@ -72,6 +72,12 @@ Permissões opcionais:
 
 
 
+### Permissões na capacidade Fabric ou Power BI Embedded
+
+
+
+
+
 ## Links úteis
 
 [Documentação técnica da instalação](trial-do-fabric.md)
