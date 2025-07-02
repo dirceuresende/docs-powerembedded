@@ -16,11 +16,7 @@ Um modelo dinâmico irá consultar um modelo específico conforme o usuário que
 
 **Exemplo de modelos dinâmicos**
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (215).png" alt=""><figcaption></figcaption></figure></div>
 
 Os modelos dinâmicos permitem que diferentes clientes (Cliente A, Cliente B, Cliente C) acessem o mesmo relatório, aplicando filtros ao nível de modelo. Por exemplo, se o usuário está associado ao modelo A, o sistema irá conectar o relatório ao modelo A dinamicamente, sem precisar filtrar os dados.
 
@@ -31,11 +27,11 @@ Os modelos dinâmicos permitem que diferentes clientes (Cliente A, Cliente B, Cl
 
 Ao adicionar um modelo, clicando no botão “Adicionar modelo”, você terá acesso a todos os conjuntos de dados importados.
 
-<figure><img src="../../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (216).png" alt=""><figcaption></figcaption></figure>
 
 Você poderá selecionar o conjunto de dados desejado e atribuir quais usuários pertencem a esse modelo.
 
-<figure><img src="../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (217).png" alt=""><figcaption></figcaption></figure>
 
 A partir desse momento, quando o usuário acessar o relatório, será o modelo semântico será alterado automaticamente conforme a regra atribuída.
 

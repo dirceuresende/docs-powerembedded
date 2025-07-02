@@ -12,11 +12,11 @@ Para publicar relatórios do Power BI, diretamente pelo Power Embedded, acesse a
 
 Clique no botão _**Importar**_ > _**Arquivo do Power BI**_
 
-<figure><img src="../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
 
 Na tela que foi aberta, _**selecione o arquivo**_ que deseja publicar.
 
-<figure><img src="../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
 Após isso, selecione _**em qual workspace**_ você deseja publicar o relatório.
 
@@ -40,13 +40,13 @@ Antes de configurar a integração entre o Power Embedded e a conta de armazenam
 
 Para realizar a criação, pode utilizar os valores padrão, conforme demonstrado abaixo:
 
-![](<../../.gitbook/assets/image (208).png>)
+![](<../../../.gitbook/assets/image (208).png>)
 
 
 
 Ative a opção _**Permitir a habilitação do acesso anônimo em contêineres individuais:**_
 
-![](<../../.gitbook/assets/image (209).png>)
+![](<../../../.gitbook/assets/image (209).png>)
 
 
 
@@ -58,7 +58,7 @@ Expanda a seção _**Armazenamento de dados**_ e selecione a opção _**Contêin
 
 Clique no botão _**+Contêiner**_
 
-![](<../../.gitbook/assets/image (210).png>)
+![](<../../../.gitbook/assets/image (210).png>)
 
 
 
@@ -70,13 +70,13 @@ Expanda a seção _**Segurança + rede**_ e selecione a opção _**Chaves de ace
 
 Nesta tela, você irá copiar e salvar em um bloco de notas, os valores dos campos _**Nome da conta de armazenamento**_ e _**Chave**_ (precisa clicar no botão _**Mostrar**_ para conseguir copiar a chave), pois iremos utilizar esses valores na configuração da conta de armazenamento.
 
-![](<../../.gitbook/assets/image (211).png>)
+![](<../../../.gitbook/assets/image (211).png>)
 
 
 
 Agora expanda a seção _**Configurações**_ e selecione a opção _**Compartilhamento de recursos (CORS)**_
 
-![](<../../.gitbook/assets/image (212).png>)
+![](<../../../.gitbook/assets/image (212).png>)
 
 
 
@@ -106,14 +106,14 @@ Entretanto, é compreensível que você possa preferir utilizar uma conta de arm
 
 Essa integração utilizando a conta de armazenamento da sua empresa pode ser configurada na tela abaixo, que fica na página de _**Configurações**_ > Aba _**Parâmetros**_:
 
-![](<../../.gitbook/assets/image (213).png>)\
+![](<../../../.gitbook/assets/image (213).png>)\
 
 
 Abra o bloco de notas com as informações que você salvou e agora você pode configurar a sua integração entre o Power Embedded e a conta de armazenamento temporária criada por você.
 
 Exemplo dessa tela de configuração com as informações devidamente preenchidas:
 
-![](<../../.gitbook/assets/image (214).png>)
+![](<../../../.gitbook/assets/image (214).png>)
 
 </details>
 

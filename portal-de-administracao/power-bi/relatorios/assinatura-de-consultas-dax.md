@@ -4,7 +4,7 @@ Com nossa expertise no mundo de dados e profundo conhecimento sobre diferentes p
 
 Pensando nisso, desenvolvemos uma funcionalidade inovadora que permite enviar resultados de consultas DAX diretamente por e-mail, sem a necessidade de ferramentas externas, como o Power Automate. Essa solução reflete nossa experiência em criar fluxos de trabalho ágeis, eficientes e integrados, entregando exatamente o que você precisa com simplicidade e foco nos resultados.
 
-<figure><img src="../../.gitbook/assets/image (413).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (413).png" alt=""><figcaption></figcaption></figure>
 
 ### **Como configurar uma assinatura de DAX por e-mail**
 
@@ -17,13 +17,13 @@ O processo é simples e direto. Veja o passo a passo:
 * Vá até **Relatórios** e clique na opção **Assinaturas**.
 * Na aba Geral, primeiro clique em **Habilitar**, depois defina um nome e insira uma descrição para a assinatura.”
 
-<figure><img src="../../.gitbook/assets/image (414).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (414).png" alt=""><figcaption></figcaption></figure>
 
 **2 –  Configure as informações gerais**
 
 * Especifique uma **data inicial** e uma **data final** para definir o período em que os e-mails serão enviados.
 
-<figure><img src="../../.gitbook/assets/image (415).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (415).png" alt=""><figcaption></figcaption></figure>
 
 **3 – Insira sua consulta DAX**
 
@@ -56,7 +56,7 @@ Isso permite verificar como os dados serão estruturados no e-mail.
 
 Veja o exemplo abaixo:
 
-<figure><img src="../../.gitbook/assets/image (416).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (416).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -66,7 +66,7 @@ E não para por aí! Além de configurar suas consultas DAX, nossa funcionalidad
 
 Outra vantagem é a possibilidade de definir a **recorrência do envio**. Você pode configurar o envio de e-mails de forma automática, escolhendo o horário e a frequência que melhor atendem às suas necessidades, deixando o processo ainda mais eficiente e automatizado.
 
-<figure><img src="../../.gitbook/assets/image (417).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (417).png" alt=""><figcaption></figcaption></figure>
 
 #### **5 – Gerenciamento Simplificado**
 

@@ -10,15 +10,11 @@
 
 **Configurações do relatório**
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure></div>
 
 **Responsável:** Essa opção permite definir um responsável pelo relatório e facilitar o contato do usuário que está visualizando o relatório com a pessoa responsável pelo relatório.
 
-<figure><img src="../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (239).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -26,11 +22,7 @@
 
 Isso possibilita que o usuário conheça esses relatórios mediante uma descrição e possar solicitar acesso, caso sejam relevantes para suas atividades diárias.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure></div>
 
 É no nível do relatório que você define se ele aparecerá no catálogo de relatórios ou não.
 
@@ -40,15 +32,15 @@ Isso possibilita que o usuário conheça esses relatórios mediante uma descriç
 
 Permitir selecionar quais grupos terão acesso a esse relatório. Todos os usuários que fazem parte desses grupos poderão acessar os relatórios. Para saber mais, acesse a página de Grupos.
 
-<figure><img src="../../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (222).png" alt=""><figcaption></figcaption></figure>
 
 
 
 **Usuários**
 
-Permitir selecionar quais usuários terão acesso ao relatório. Para saber mais, acesse a página de [Usuários](../usuarios/criar-editar-usuario.md).
+Permitir selecionar quais usuários terão acesso ao relatório. Para saber mais, acesse a página de [Usuários](../../usuarios/criar-editar-usuario.md).
 
-<figure><img src="../../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -56,7 +48,7 @@ Permitir selecionar quais usuários terão acesso ao relatório. Para saber mais
 
 Para vincular em qual pasta ou subpasta o relatório será arquivado. Para saber mais, acesse a página de Pastas.
 
-<figure><img src="../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (224).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -64,7 +56,7 @@ Para vincular em qual pasta ou subpasta o relatório será arquivado. Para saber
 
 Permite selecionar quais empresas serão associadas ao relatório. Para saber mais, acesse a página de Empresas.
 
-<figure><img src="../../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (242).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -72,11 +64,11 @@ Permite selecionar quais empresas serão associadas ao relatório. Para saber ma
 
 Por padrão, ao importar um relatório ele configurado com o ícone padrão do Power BI. Caso queira inserir uma miniatura para facilitar a visualização dos usuários, utilize essa aba.
 
-<figure><img src="../../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (241).png" alt=""><figcaption></figcaption></figure>
 
 \
 **Editar RLS**
 
-<figure><img src="../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (243).png" alt=""><figcaption></figcaption></figure>
 
 Também é possível editar as regras de RLS (Row-Level Security) ao nível de relatório. [Ajuda – Row Level Security (RLS) e Object Level Security (OLS)](https://powerembedded.com.br/rls-ols-row-level-security-object-level-security/)

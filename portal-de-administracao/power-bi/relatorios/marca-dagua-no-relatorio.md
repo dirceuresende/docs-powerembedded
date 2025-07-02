@@ -23,13 +23,13 @@ Tudo isso de forma discreta, porém visível, diretamente na interface do relat�
 
 Vá até aba de Power BI > Relatórios  > Ações
 
-<figure><img src="../../.gitbook/assets/administração.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/administração.png" alt=""><figcaption></figcaption></figure>
 
 **Passo 2: Ative a permissão**
 
 Selecione a permissão "Proteger print da Tela"
 
-<figure><img src="../../.gitbook/assets/administração 2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/administração 2.png" alt=""><figcaption></figcaption></figure>
 
 **Passo 3: Salve e visualize**
 
@@ -37,7 +37,7 @@ Clique em **Salvar** e abra o relatório para visualizar a marca d’água em a�
 
 Agora ao acessar o seu relatório, a marca d'água vai está aplicada
 
-<figure><img src="../../.gitbook/assets/imagem marca d&#x27;agua.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/imagem marca d&#x27;agua.png" alt=""><figcaption></figcaption></figure>
 
 Benefícios da funcionalidade
 

@@ -12,4 +12,4 @@ Os modelos dinâmicos permitem que diferentes clientes (Cliente A, Cliente B, Cl
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Modelos Dinâmicos </td><td></td><td><a href="../.gitbook/assets/Group 37.png">Group 37.png</a></td><td><a href="../portal-de-administracao/relatorios/modelos-dinamicos.md">modelos-dinamicos.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td>Modelos Dinâmicos </td><td></td><td><a href="../.gitbook/assets/Group 37.png">Group 37.png</a></td><td><a href="../portal-de-administracao/power-bi/relatorios/modelos-dinamicos.md">modelos-dinamicos.md</a></td></tr></tbody></table>

@@ -10,7 +10,7 @@ Nesta tela é onde você poderá importar os relatórios, configurar segurança 
 
 Após a importação dos relatórios, é necessário editar o relatório e configurar os acessos.
 
-<figure><img src="../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Após a importação, os relatórios estarão disponíveis na aba de relatórios, mas inicialmente nem mesmo os administradores terão acesso ao relatório.
@@ -26,7 +26,7 @@ Todas as permissões em relatórios devem ser liberadas explicitamente, até par
 
 Pensando em praticidade na gestão das permissões de relatórios, na mesma tela você pode aplicar filtros para encontrar facilmente o relatório específico ao qual deseja aplicar as permissões necessárias.
 
-<figure><img src="../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (139).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -34,11 +34,7 @@ Pensando em praticidade na gestão das permissões de relatórios, na mesma tela
 
 Ao clicar em “Ações”, você terá acesso às funcionalidades para realizar essas configurações.
 
-<div align="left">
-
-<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure></div>
 
 * Visualizar: Caso seu usuário tenha acesso ao relatório, você será redirecionado para o portal de visualização e abrirá esse relatório.
 * Editar: Permite configurar várias propriedades e permissão do relatório.
@@ -55,8 +51,8 @@ Ao clicar em “Ações”, você terá acesso às funcionalidades para realizar
 
 Ao selecionar todos os relatórios através da caixa de seleção ao lado do nome, um botão de edição é exibido.
 
-<figure><img src="../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
 
 Isso permite atribuir um responsável para todos os relatórios e definir algumas permissões em massa para editar todos os relatórios selecionados de uma vez.
 
-<figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (140).png" alt=""><figcaption></figcaption></figure>

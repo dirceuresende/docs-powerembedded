@@ -25,11 +25,11 @@ Caso seja necessário que algumas pessoas continuem acessando o relatório no Po
 
 Abaixo estão algumas informações para ajudar no entendimento.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (225).png" alt=""><figcaption></figcaption></figure></div>
 
 Quando o relatório possuir uma ou mais regras de RLS, é obrigatório associá-la ao usuário que está visualizando o relatório, seja utilizando RLS estático ou dinâmico, caso contrário ele não conseguirá visualizar os relatórios, e uma mensagem como esta será exibida:
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (235).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="warning" %}
 Diferente do Power BI serviço, onde os usuários administradores não são afetados pelo RLS, no Power Embedded, TODOS os usuários são afetados pelo RLS.
@@ -49,7 +49,7 @@ Para associar um usuário a uma regra de RLS ou OLS, você tem 3 formas de fazer
     \
 
 
-    <figure><img src="../../../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (340).png" alt=""><figcaption></figcaption></figure>
 
 
 2.  Na página de [Relatórios](https://admin.powerembedded.com.br/Reports), pesquise o relatório que deseja gerenciar as regras de RLS, clique no botão **Ações** e depois clique no item **Editar.** \
@@ -57,13 +57,13 @@ Para associar um usuário a uma regra de RLS ou OLS, você tem 3 formas de fazer
     Você deverá ver um botão amarelo chamado **Editar RLS.** Se o relatório tiver RLS e esse botão não estiver aparecendo, entre na página de [**Conjuntos de dados**](https://admin.powerembedded.com.br/Datasets) e clique no botão **Recarregar**\
 
 
-    <figure><img src="../../../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (341).png" alt=""><figcaption></figcaption></figure>
 
 
 3.  Na página de [**Conjuntos de dados**](https://admin.powerembedded.com.br/Datasets), pesquise o conjunto de dados que deseja gerenciar as regras de RLS, clique no botão **Ações** e depois clique no item **Segurança.** \
 
 
-    <figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -73,15 +73,15 @@ Para empresas que precisam ou gostariam de criar várias regras de segurança e 
 
 Nesse formato, você irá visualizar a lista das roles que existem no modelo e poderá associar os usuários ou grupos que serão filtrados por essa regra, clicando no botão de ações.
 
-<figure><img src="../../../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (227).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Aqui está um print das regras criadas no Power BI Desktop. Existem duas regras criadas: ‘Alimentos’ e ‘Bebidas’. Isso significa que se um usuário for atribuído à regra de alimentos, ele só poderá visualizar dados relacionados a alimentos.
 
-<figure><img src="../../../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (226).png" alt=""><figcaption></figcaption></figure>
 
 Ao publicar o relatório e acessar “Ações” > “Segurança”, o Power Embedded identifica automaticamente as regras criadas e irá carregar a lista com essas regras.
 
@@ -95,7 +95,7 @@ Se a lista de regras de segurança não estiver sendo mostrada na tela de segura
 
 Quando o usuário "marcos" acessar o relatório, ele só vai verá as informações relacionadas a alimentos.
 
-<figure><img src="../../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (228).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -105,33 +105,33 @@ Com a Segurança Dinâmica, você pode definir uma ou mais roles e elas serão a
 
 Nesse formato, a role/função criada no Power BI Desktop, receberá o e-mail do usuário que está acessando o relatório (utilizando as funções USERNAME() ou USERPRINCIPALNAME()) e será responsável por realizar os filtros utilizando esse e-mail, com base nas regras criadas.
 
-<figure><img src="../../../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
 
 Nessa forma de aplicar os filtros automaticamente conforme o usuário, é necessário manter no seu modelo uma tabela com os usuários e permissões segundo a regra do RLS ou OLS.
 
 A tabela abaixo exemplifica um modelo contendo as informações de e-mails dos gerentes de um determinado relatório.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (230).png" alt=""><figcaption></figcaption></figure></div>
 
 Relacionamento entre as tabelas, ou seja, sua tabela vai estar vinculada a uma fato que contém as informações.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (231).png" alt=""><figcaption></figcaption></figure></div>
 
 Ao publicar esse relatório, a regra passa a ser visualizada no portal, é só selecionar a mesma e a regra será aplicada, diferente da estática aqui você não atribui um usuário a regra, somente clica na regra que deseja aplicar.
 
-<figure><img src="../../../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (232).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Relatório normal sem a regra existentes:
 
-<figure><img src="../../../.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (233).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Relatório com regra de RLS existente no modelo utilizando a RLS dinâmica:
 
-<figure><img src="../../../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
 
 A regra de RLS é aplicada utilizando a função UserPrincipalName() para identificar qual usuário está logado e realizar o filtro nas outras tabelas também, ou seja, o usuário só consegue visualizar as informações pertinentes a ele.
 
@@ -156,7 +156,7 @@ Como o Power Embedded prioriza essas regras:
 
 Se você se deparar com o erro abaixo ao tentar acessar o relatório, é muito provável que a tabela que contém a regra de RLS esteja utilizando a conexão DirectQuery.
 
-<figure><img src="../../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (236).png" alt=""><figcaption></figcaption></figure>
 
 O DirectQuery é amplamente utilizado para acessar dados em tempo real. No entanto, é importante destacar que as regras de Row-Level Security (RLS) não se aplicam diretamente às tabelas conectadas via Direct Query no Power BI.&#x20;
 
@@ -174,10 +174,10 @@ Para alterar a conexão da tabela, siga os passos abaixo:
 4. Acesse o menu **“Avançado”**, conforme mostrado na imagem.
 5. Altere o modo de armazenamento para **“Importar” ou “Dual”.**
 
-<figure><img src="../../../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (237).png" alt=""><figcaption></figcaption></figure>
 
 Ao seguir o passo a passo anterior, um aviso como o mostrado na imagem aparecerá na tela. Basta clicar em “OK” e prosseguir. Após realizar esse processo, é só publicar o relatório novamente.
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../../../.gitbook/assets/image (238).png" alt=""><figcaption></figcaption></figure></div>
 
 Agora irá conseguir ver suas informações.

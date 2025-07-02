@@ -6,7 +6,7 @@ Personalize o conteúdo do e-mail enviado junto ao relatório. Você pode:
 * Escrever um **texto descritivo**
 * Inserir **imagens**, como logotipos ou banners
 
-<figure><img src="../../../.gitbook/assets/preenchimento email.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/preenchimento email.png" alt=""><figcaption></figcaption></figure>
 
 Essa personalização torna a comunicação mais próxima da identidade da sua organização.
 

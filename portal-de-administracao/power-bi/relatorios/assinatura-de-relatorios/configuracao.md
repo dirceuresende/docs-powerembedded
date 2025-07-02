@@ -2,7 +2,7 @@
 
 O primeiro passo é acessar o menu de **Configurações**, onde você inicia a criação da assinatura. Aqui, você define:
 
-<figure><img src="../../../.gitbook/assets/Criando Assinatura P1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/Criando Assinatura P1.png" alt=""><figcaption></figcaption></figure>
 
 * **Nome da Assinatura**: Escolha um nome identificável para facilitar o gerenciamento.
 * **Habilitar Assinatura**: Sempre verifique se a assinatura está ativada para que o envio ocorra corretamente.
