@@ -263,6 +263,7 @@
   * [Pré-Requisitos para a Instalação](documentacao-tecnica/instalacao/pre-requisitos-para-a-instalacao.md)
   * [Trial do Fabric](documentacao-tecnica/instalacao/trial-do-fabric.md)
   * [Power BI Embedded](documentacao-tecnica/instalacao/power-bi-embedded.md)
+* [Ativando a Instância Reservada no Fabric](documentacao-tecnica/ativando-a-instancia-reservada-no-fabric.md)
 * [Documento de apresentação comercial](https://powerembedded.com.br/apresentacao-comercial)
 * [Documento de arquitetura do sistema](https://docs.powerembedded.com.br/inicio/documento-de-arquitetura-do-sistema)
 * [API](documentacao-tecnica/api/README.md)
