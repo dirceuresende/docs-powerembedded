@@ -77,9 +77,7 @@ Como todas as outras telas do sistema, é possível aplicar o filtro pela barrin
 
 Em “Detalhes”, é possível visualizar todos os usuários que acessaram o relatório e aplicar filtro, facilitando a busca por usuário.
 
-<figure><img src="../../.gitbook/assets/image (119).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/Screenshot_40.png" alt=""><figcaption></figcaption></figure>
 
 ### Relatórios menos acessados
 
@@ -99,7 +97,29 @@ Então vale esse tipo de análise para saber se a permissão está OK ou se real
 
 Uma vantagem do Power Embedded é que é possível visualizar para todos os relatórios importados, independente se está tudo em um workspace só ou espalhado em dezenas de workspaces diferentes.
 
+### Botão de Ações:
 
+Para ampliar ainda mais a usabilidade, adicionamos o botão **“Ações”** em abas estratégicas, permitindo maior eficiência na gestão de usuários e relatórios.
 
-Com o Power Embedded, você tem uma visão única e centralizada dos acessos, tanto de usuário quanto de relatório.
+Você poderá realizar ações rápidas nas seguintes seções:
 
+* **Usuários menos ativos e não ativos**
+* **Relatórios mais acessados, menos acessados e nunca acessados**
+
+<figure><img src="../../.gitbook/assets/Screenshot_41.png" alt=""><figcaption></figcaption></figure>
+
+### Funcionalidades:
+
+O botão “Ações” oferece diferentes opções conforme a seção em que é utilizado.
+
+1. **Gestão de Usuários ( menos ativos/ não ativos)**&#x20;
+   * **Detalhes**: Redireciona para a tela de **Auditoria de Relatórios**, onde é possível visualizar o registro completo dos logs dos usuários.
+   * **Editar**: Permite editar diretamente o perfil do usuário selecionado.
+   * **Remover**: Exclui o usuário da lista, evitando a necessidade de procurá-lo manualmente.\
+     \
+
+2. **Gestão de relatórios ( mais acessados/ menos acessados / nunca acessados)**&#x20;
+   * **Detalhes**: Direciona para a tela de **Auditoria de Relatórios**, onde é possível consultar o histórico completo de acessos.
+   * **Abrir Relatório**: Acessa diretamente o relatório no portal de visualizações.
+   * **Editar**: Permite editar rapidamente o relatório, facilitando ajustes e melhorias.
+   * **Remover** : Exclui o relatório do portal, garantindo uma gestão mais eficiente dos conteúdos disponíveis.
