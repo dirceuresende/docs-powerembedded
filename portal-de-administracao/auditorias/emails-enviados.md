@@ -2,7 +2,7 @@
 
 Para aumentar o controle e transparência do Power Embedded, estamos disponibilizando uma auditoria de emails, para que os administradores possam acompanhar os emails enviados pelo sistema.
 
-<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_42.png" alt=""><figcaption></figcaption></figure>
 
 Nessa tela, você poderá identificar os destinatários, situação do envio, mensagens de erros, etc.
 
