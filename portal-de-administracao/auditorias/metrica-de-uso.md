@@ -8,30 +8,48 @@ Essa auditoria ajuda muito na gestão de governança e monitoramento do portal, 
 \
 A auditoria de métricas de uso é composta por seis abas:
 
-1. Usuários mais ativos
-2. Usuários menos ativos
-3. Usuários não ativos
-4. Relatórios mais acessados
-5. Relatórios menos acessados
-6. Relatórios nunca acessados
+1. Dashboard&#x20;
+2. Usuários mais ativos
+3. Usuários menos ativos
+4. Usuários não ativos
+5. Relatórios mais acessados
+6. Relatórios menos acessados
+7. Relatórios nunca acessados
+
+
+
+### DashBoard
+
+Oferece  uma visão detalhada sobre o desempenho e a utilização do portal de forma simples e direta. Em vez de criar relatórios manuais o que normalmente demanda tempo, esse dashboard já fornece os dados prontos e organizados, permitindo que os usuários acompanhem informações importantes com facilidade.
+
+<figure><img src="../../.gitbook/assets/audi.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;As métricas disponíveis incluem:
+
+1. **Total de Acessos**: Mostra o número total de vezes que o portal foi acessado em um período específico, permitindo analisar a frequência de uso.
+2. **Total de Usuários**: Exibe o número total de usuários cadastrados no portal.
+3. **Total de Relatórios**: Informa quantos relatórios estão publicados no portal.
+4. **Acesso por mês**: Permite visualizar o total de acessos por mês.
+5. **Acesso por Usuário**: Mostra o número de acessos por usuário, permitindo analisar a frequência de uso individual e identificar usuários mais ativos.
+6. **Acesso por Relatório**: Indica quantas vezes aquele relatório foi acessado
 
 
 
 ### Usuários mais ativos
 
-Retorna um ranking dos 20 usuários mais ativos nos últimos 7 dias, ou seja, aqueles que mais abriram relatórios nesse período. Para aparecer nesse ranking, o usuário deve ter pelo menos um acesso a relatórios.\
+Retorna um ranking dos 100 usuários mais ativos nos últimos 7 dias, ou seja, aqueles que mais abriram relatórios nesse período. Para aparecer nesse ranking, o usuário deve ter pelo menos um acesso a relatórios.\
 \
 A plataforma também fornece informações sobre os acessos nos últimos 7/30/90 dias, além da data da última vez que o usuário acessou um relatório.
 
-Como todas as outras telas do sistema, é possível aplicar o filtro pela barrinha cinza. Como os campos também são numéricos, é possível fazer o filtro de número (quantidade) que eu quero visualizar e também posso usar da seguinte forma: “> (maior) 20” e ele retorna.
+Como todas as outras telas do sistema, é possível aplicar o filtro pela barrinha cinza. Como os campos também são numéricos, é possível fazer o filtro de número (quantidade) que eu quero visualizar e também posso usar da seguinte forma: “**> (maior) 100**” e ele retorna.
 
 Em “Detalhes”, é possível visualizar todas as auditorias de relatório, permitindo a navegação por todos os relatórios acessados pelo usuário no portal de visualização.
 
-<figure><img src="../../.gitbook/assets/image (118).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Screenshot_39.png" alt=""><figcaption></figcaption></figure>
 
 ### Usuários menos ativos
 
-Retorna um ranking dos 20 usuários menos ativos nos últimos 7 dias, ou seja, aqueles que menos abriram relatórios nesse período.&#x20;
+Retorna um ranking dos 100 usuários menos ativos nos últimos 7 dias, ou seja, aqueles que menos abriram relatórios nesse período.&#x20;
 
 Assim como em usuários mais ativos, a plataforma também fornece informações sobre os acessos nos últimos 7/30/90 dias, além da data da última vez que o usuário acessou o relatório.
 
@@ -47,7 +65,7 @@ Como a cobrança é feita por usuário, é importante avaliar se é necessário 
 
 ### Relatórios mais acessados
 
-Retorna um ranking dos 20 relatórios mais acessados nos últimos 7/30/90 dias.
+Retorna um ranking dos 100 relatórios mais acessados nos últimos 7/30/90 dias.
 
 É possível fazer também uma ordenação na coluna crescente ou decrescente, da maneira como achar melhor para visualizar.
 
@@ -55,7 +73,7 @@ Essa mesma visão que temos para usuários também está disponível para relat�
 
 É possível visualizar os relatórios mais acessados, menos acessados e nunca acessados.
 
-Como todas as outras telas do sistema, é possível aplicar o filtro pela barrinha cinza. Como os campos também são numéricos, é possível fazer o filtro de número (quantidade) que eu quero visualizar e também posso usar da seguinte forma: **“> (maior) 20”** e ele retorna.
+Como todas as outras telas do sistema, é possível aplicar o filtro pela barrinha cinza. Como os campos também são numéricos, é possível fazer o filtro de número (quantidade) que eu quero visualizar e também posso usar da seguinte forma: **“> (maior) 100”** e ele retorna.
 
 Em “Detalhes”, é possível visualizar todos os usuários que acessaram o relatório e aplicar filtro, facilitando a busca por usuário.
 
