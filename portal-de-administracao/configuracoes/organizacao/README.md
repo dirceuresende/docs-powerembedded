@@ -4,7 +4,9 @@
 
 Para auxiliar na configuração deste ambiente, segue um passo a passo de como funciona cada campo:
 
-<figure><img src="../../../.gitbook/assets/configuracoes-Organizacao.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Screenshot_44.png" alt=""><figcaption></figcaption></figure>
+
+
 
 **Nome:** Definir um nome para a organização é muito importante, pois será o nome visível para os usuários no portal de visualização e nos e-mails que eles receberão.
 
@@ -18,11 +20,7 @@ Para auxiliar na configuração deste ambiente, segue um passo a passo de como f
 
 **Atualizar Token a cada:** Quando um relatório é acessado, o token gerado tem validade de 1 hora. Caso o usuário deixe a tela aberta, o token pode expirar. Configurar esta opção permite atualizar o token periodicamente, evitando desconexões por expiração.
 
-<div align="left">
-
-<figure><img src="../../../.gitbook/assets/expiracao-do-token.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../../../.gitbook/assets/expiracao-do-token.png" alt=""><figcaption></figcaption></figure></div>
 
 Um erro como esse pode aparecer para o usuário quando acessar um relatório se o token tiver expirado.
 
@@ -41,6 +39,8 @@ Essa funcionalidade permite criar múltiplas organizações em um único tenant.
 
 
 ### Nova Organização
+
+<figure><img src="../../../.gitbook/assets/Screenshot_45.png" alt=""><figcaption></figcaption></figure>
 
 Esse botão permite criar múltiplas organizações em um único tenant / instalação.
 
