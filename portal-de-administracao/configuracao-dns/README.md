@@ -19,7 +19,7 @@ Se optar por um domínio próprio, será necessário adicionar dois registros ao
 
 | Tipo  | Nome     | Valor                                                            |
 | ----- | -------- | ---------------------------------------------------------------- |
-| CNAME | bi       | powerportal-client.azurewebsites.net                             |
+| CNAME | bi       | powerportal-client-eastus2.azurewebsites.net                     |
 | TXT   | asuid.bi | D1B15490F13A639D57FF7985A837F7E5242DD6F062BEEC8698E3CC36A6CBD693 |
 
 O exemplo acima é para quando você está configurando o subdomínio bi.suaempresa.com.br
