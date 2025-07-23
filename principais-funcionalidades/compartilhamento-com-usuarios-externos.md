@@ -8,7 +8,7 @@ Portanto, não importa se o seu usuário utiliza domínios como @yahoo, @gmail, 
 
 
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Cadastro de usuários</strong></td><td></td><td><a href="../.gitbook/assets/do-utilizador.png">do-utilizador.png</a></td><td><a href="../portal-de-administracao/usuarios/criar-editar-usuario.md">criar-editar-usuario.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Cadastro de usuários</strong></td><td></td><td><a href="../.gitbook/assets/do-utilizador.png">do-utilizador.png</a></td><td><a href="../portal-de-administracao/usuarios/criar-editar-usuario/">criar-editar-usuario</a></td></tr></tbody></table>
 
 
 

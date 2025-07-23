@@ -38,7 +38,7 @@ Permitir selecionar quais grupos terão acesso a esse relatório. Todos os usuá
 
 **Usuários**
 
-Permitir selecionar quais usuários terão acesso ao relatório. Para saber mais, acesse a página de [Usuários](../../usuarios/criar-editar-usuario.md).
+Permitir selecionar quais usuários terão acesso ao relatório. Para saber mais, acesse a página de [Usuários](../../usuarios/criar-editar-usuario/).
 
 <figure><img src="../../../.gitbook/assets/image (223).png" alt=""><figcaption></figcaption></figure>
 
