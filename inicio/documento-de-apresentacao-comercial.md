@@ -2,7 +2,7 @@
 
 {% embed url="https://powertuning.com.br/wp-content/uploads/2025/04/Apresentacao-Power-Embedded-Publica.pptx" %}
 
-### Agenda uma reunião agora
+### Agende uma reunião agora
 
 * [Apresentação (Conheça melhor a plataforma)](https://powerembedded.com.br/apresentacao)
 * [Instalação (Iniciar o teste gratuito de 30 dias)](https://powerembedded.com.br/instalacao)
@@ -12,6 +12,7 @@
 ### Precisa de mais informações?
 
 * [o-que-e-o-power-embedded.md](o-que-e-o-power-embedded.md "mention")
+* [documento-de-arquitetura-do-sistema.md](documento-de-arquitetura-do-sistema.md "mention")
 * [perguntas-frequentes](../perguntas-frequentes/ "mention")
 * [quanto-custa-o-power-embedded.md](quanto-custa-o-power-embedded.md "mention")
 * [a-partir-de-quantos-usuarios-o-power-embedded-e-vantajoso-para-minha-empresa.md](../perguntas-frequentes/duvidas-gerais/a-partir-de-quantos-usuarios-o-power-embedded-e-vantajoso-para-minha-empresa.md "mention")
