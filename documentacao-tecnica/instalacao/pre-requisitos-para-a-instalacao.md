@@ -44,7 +44,7 @@ Seguem atividades que iremos realizar no portal de Administração do Power BI (
 
 <table><thead><tr><th width="139">Permissão</th><th width="358">Descrição</th><th width="102">Tipo</th><th>Consentimento</th></tr></thead><tbody><tr><td>User.Read</td><td>Permissão padrão para ler os dados do usuário logado na aplicação</td><td>Delegado</td><td>Não</td></tr><tr><td>User.Read.All <strong>(Opcional)</strong></td><td>Necessário apenas se for importar/sincronizar usuários com Entra ID</td><td>Aplicação</td><td>Sim</td></tr><tr><td>Group.Read.All <strong>(Opcional)</strong></td><td>Necessário apenas se for importar/sincronizar usuários com Entra ID</td><td>Aplicação</td><td>Sim</td></tr></tbody></table>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 
 

@@ -32,23 +32,23 @@ Para isso clique no link: [Registro de aplicativos](https://portal.azure.com/#vi
 
 Nessa tela busque pelo usuário der serviço criado no momento da instalação, por padrão é powerembedded-app, ao encontrar  clique sobre ele.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
 Nessa nova aba, copie o nome do aplicativo cliente e cole isso em bloco de notas pois iremos utilizar ele no campo ID de cliente do Power BI.
 
-<figure><img src="../../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 Agora precisamos criar outro segredo do cliente, se estiver com esse valor guardado em algum lugar não precisa criar outra chave, mas se for preciso pode criar outro.
 
 Vá em Certificates & Secrets > New Client secret.
 
-<figure><img src="../../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 Em **Certificates & Secrets**, adicione um novo segredo (expiração: 730 dias)
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 Agora copie esse valor e cole em um bloco de notas, pois ao sair dessa tela o mesmo não poderá ser copiado.&#x20;
 
@@ -56,7 +56,7 @@ Agora copie esse valor e cole em um bloco de notas, pois ao sair dessa tela o me
 Importante: Ao criar outra chave, é preciso adicionar esse novo valor na organização já existente.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Finalizado esse processo, basta volta no menu de Criação de organização e preencher os campos.
 
@@ -93,7 +93,7 @@ O tipo de conta é a Single Tenant e pode clicar em Register
 
 Nessa nova aba, copie o Application (Client) ID e cole isso em bloco de notas pois iremos utilizar ele no campo ID de cliente do Power BI.
 
-<figure><img src="../../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

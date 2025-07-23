@@ -1,6 +1,6 @@
 # Sua capacidade de avaliação gratuita do Fabric expirará em X dias
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Se o seu período de avaliação do Fabric está próximo do fim, você precisa se programar para fazer a contratação do recurso no Azure.
 

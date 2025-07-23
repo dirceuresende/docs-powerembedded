@@ -1,6 +1,6 @@
 # Você atingiu o limite de uso de uma capacidade compartilhada (Pro ou PPU) para embeddar relatórios
 
-<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### O que essa mensagem de erro significa
 
@@ -28,7 +28,7 @@ Se você não tem um parceiro Microsoft para contratar as licenças do Power BI,
 
 Conforme está explicado no artigo [Perguntas frequentes sobre licenciamento](../../perguntas-frequentes/licenciamento/), é possível utilizar uma capacidade Pro ou Premium por Usuário para gerar tokens para inserir os relatórios no Power Embedded, mas de acordo com a [documentação oficial da Microsoft:](https://learn.microsoft.com/pt-br/power-bi/developer/embedded/move-to-production)
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

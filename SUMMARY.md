@@ -238,6 +238,7 @@
     * [Personalizar cores](portal-de-administracao/configuracoes/tela-de-login/personalizar-cores.md)
     * [Personalizar imagens](portal-de-administracao/configuracoes/tela-de-login/personalizar-imagens.md)
     * [Métodos de autenticação](portal-de-administracao/configuracoes/tela-de-login/metodos-de-autenticacao.md)
+  * [Parâmetros](portal-de-administracao/configuracoes/parametros.md)
   * [Emails](portal-de-administracao/configuracoes/emails.md)
   * [AI](portal-de-administracao/configuracoes/ai.md)
 * [Migração](portal-de-administracao/migracao.md)

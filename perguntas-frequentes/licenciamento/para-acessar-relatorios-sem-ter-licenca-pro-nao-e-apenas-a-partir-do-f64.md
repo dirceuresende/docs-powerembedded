@@ -38,7 +38,7 @@ Neste [link aqui](https://powerbi.microsoft.com/pt-br/blog/power-bi-embedded-wit
 
 Falando sobre o licenciamento por capacidade, no [link abaixo](https://azure.microsoft.com/pt-br/pricing/details/power-bi-embedded/), a Microsoft deixa bem claro que os usuários que estão vendo o conteúdo publicado no Power BI Embedded não precisam de licenças do Power BI atribuídas a eles, portanto, não é necessário uma licença PRO para visualização dos relatórios através do Power Embedded.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p><a href="https://azure.microsoft.com/pt-br/pricing/details/power-bi-embedded/">https://azure.microsoft.com/pt-br/pricing/details/power-bi-embedded/</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p><a href="https://azure.microsoft.com/pt-br/pricing/details/power-bi-embedded/">https://azure.microsoft.com/pt-br/pricing/details/power-bi-embedded/</a></p></figcaption></figure>
 
 
 
