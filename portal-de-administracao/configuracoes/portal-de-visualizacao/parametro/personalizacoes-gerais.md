@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # Personalizações gerais
 
 Ao expandir esse menu, é possível visualizar algumas funcionalidades e parâmetros para alterar o comportamento do Power Embedded. Abaixo iremos detalhar melhor suas funções.
