@@ -1,8 +1,6 @@
 # Documento de arquitetura do sistema
 
-
-
-{% embed url="https://powertuning.com.br/wp-content/uploads/2025/04/Documentacao-Tecnica-Power-Embedded.pdf" %}
+{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Ft2gQSHbraGsYbDGTmWAa%2Fuploads%2FakQn5a8C9A8WiF1uy9RT%2FDocumenta%C3%A7%C3%A3o%20T%C3%A9cnica%20Power%20Embedded.pdf?alt=media&token=11840ce8-8655-45b9-89d1-21ee68fc372a" %}
 
 
 
