@@ -1,6 +1,6 @@
 # Visão geral
 
-### Artefatos
+### Power BI
 
 Objetos do Power BI que são replicados e controlados pelo Power Embedded.
 
