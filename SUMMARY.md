@@ -191,7 +191,7 @@
 * [Auditorias](portal-de-administracao/auditorias/README.md)
   * [Relatórios](portal-de-administracao/auditorias/relatorios.md)
   * [Métrica de Uso](portal-de-administracao/auditorias/metrica-de-uso.md)
-  * [Eventos de Relatório](portal-de-administracao/auditorias/eventos-de-relatorio.md)
+  * [Eventos de Relatórios](portal-de-administracao/auditorias/eventos-de-relatorios.md)
   * [Catálogo de relatórios](portal-de-administracao/auditorias/catalogo-de-relatorios.md)
   * [Emails enviados](portal-de-administracao/auditorias/emails-enviados.md)
   * [Entidades (Alterações)](portal-de-administracao/auditorias/entidades-alteracoes.md)
