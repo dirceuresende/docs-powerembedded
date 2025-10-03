@@ -8,59 +8,49 @@ O portal de administração do Power Embedded possui vários recursos facilitado
 
 Menu principal da área administrativa do Power Embedded
 
-<figure><img src="../.gitbook/assets/image (325).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/Screenshot_69.png" alt=""><figcaption></figcaption></figure>
 
 ### Tela inicial do Power Embedded
 
 Acesso simplificado às principais telas e funcionalidades do Power Embedded
 
-<figure><img src="../.gitbook/assets/image (324).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_70.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Screenshot_71.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/Screenshot_72.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot_73.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Screenshot_74.png" alt=""><figcaption></figcaption></figure>
 
 ### Novidades do Power Embedded
 
 Veja as principais novidades e novos recursos disponibilizados no sistema
 
-<figure><img src="../.gitbook/assets/image (323).png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/Screenshot_75.png" alt=""><figcaption></figcaption></figure>
 
 ### Suporte técnico
 
 Está com alguma dúvida ou problema e precisa abrir um chamado?
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (326).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (326).png" alt=""><figcaption></figcaption></figure></div>
 
 
 
 ### Botões de Ajuda
 
-Está com dúvida? Todas as telas do sistema possuem um botão de ajuda no canto inferior direito, que te direciona para a documentação relacionada à tela atual.
+Está com dúvida? Todas as telas do sistema possuem um botão de ajuda no canto superior direito, que te direciona para a documentação relacionada à tela atual.
 
-<figure><img src="../.gitbook/assets/image (327).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot_76.png" alt=""><figcaption></figcaption></figure>
 
 Além disso, vários campos possuem um ícone informativo, para obter uma ajuda rápida e objetiva
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (328).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (328).png" alt=""><figcaption></figcaption></figure></div>
 
 Gostaria de saber mais detalhes sobre um determinado campo do sistema, como, por exemplo, qual a diferença entre as funções do Power Embedded?
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (329).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (329).png" alt=""><figcaption></figcaption></figure></div>
 
 
 
@@ -132,11 +122,7 @@ A maioria das telas do Power Embedded suporte operações em massa. Para isso, s
 
 
 
-<div align="left">
-
-<figure><img src="../.gitbook/assets/image (335).png" alt=""><figcaption><p>Exclusão em massa</p></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src="../.gitbook/assets/image (335).png" alt=""><figcaption><p>Exclusão em massa</p></figcaption></figure></div>
 
 
 
