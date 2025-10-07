@@ -10,7 +10,7 @@
 
 **Configurações do relatório**
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (240).png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src="../../../.gitbook/assets/Screenshot_77.png" alt=""><figcaption></figcaption></figure>
 
 **Responsável:** Essa opção permite definir um responsável pelo relatório e facilitar o contato do usuário que está visualizando o relatório com a pessoa responsável pelo relatório.
 
