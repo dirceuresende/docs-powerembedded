@@ -16,7 +16,7 @@ Também é possível gerar chaves de autenticação baseadas em permissões, com
 
 A documentação da API pode ser acessada [aqui](https://api.powerembedded.com.br/index.html) Utilizando a rota GET /api/user podemos realizar uma listagem de usuários no sistema.
 
-```
+```bash
 curl -X 'GET' \
   'https://api.powerembedded.com.br/api/user' \
   -H 'accept: application/json' \
@@ -25,7 +25,7 @@ curl -X 'GET' \
 
 Exemplo de resposta do servidor, onde a propriedade "reports" tem associado um array com todos os IDs dos relatórios que meu usuário tem acesso e "groups" aponta para um array com todos os grupos que meu usuário faz parte.
 
-```
+```json
 {
   "pageIndex": 1,
   "totalPages": 2,
@@ -64,7 +64,7 @@ Exemplo de resposta do servidor, onde a propriedade "reports" tem associado um a
 
 Para filtrar a lista de usuários por nome e e-mail, basta utilizar os parâmetros de consulta "name" e "email", respectivamente.
 
-```
+```bash
 curl -X 'GET' \
   'https://api.powerembedded.com.br/api/user?name=Jo%C3%A3o%20Macedo&email=joao.macedo%40powertuning.com.br' \
   -H 'accept: application/json' \
@@ -73,9 +73,12 @@ curl -X 'GET' \
 
 Para criar um novo usuário no sistema, utilize a rota POST /api/user. Onde a chave "role" define a [função de usuário](https://docs.powerembedded.com.br/portal-de-administracao/usuarios/tipos-de-funcoes-de-usuario) sendo:
 
-1 = Administrador 2 = Contribuidor 3 = Visualizador 4 = Contribuidor de workspace
+1. Administrador
+2. Contribuidor
+3. Visualizador
+4. Contribuidor de workspace
 
-```
+```bash
 curl -X 'POST' \
   'https://api.powerembedded.com.br/api/user' \
   -H 'accept: */*' \
@@ -90,7 +93,7 @@ curl -X 'POST' \
 
 Para apagar um usuário do sistema, utilize a rota DELETE /api/user/{userEmail}, onde "userEmail" é o e-mail do usuário a ser excluído.
 
-```
+```bash
 curl -X 'DELETE' \
   'https://api.powerembedded.com.br/api/user/joao.macedo%40powertuning.com.br' \
   -H 'accept: */*' \
@@ -101,7 +104,7 @@ curl -X 'DELETE' \
 
 Você também pode dar permissão de acesso a um ou mais relatórios para um usuário utilizando a rota POST /api/user/link-reports. Bastar passar os IDs dos relatórios no array "reports" e o e-mail do usuário em "userEmail".
 
-```
+```bash
 curl -X 'PUT' \
   'https://api.powerembedded.com.br/api/user/link-reports' \
   -H 'accept: */*' \
@@ -118,7 +121,7 @@ curl -X 'PUT' \
 
 Para remover a permissão de acesso a um ou mais relatórios, basta utilizar a rota POST /api/user/unlink-reports.
 
-```
+```bash
 curl -X 'PUT' \
   'https://api.powerembedded.com.br/api/user/unlink-reports' \
   -H 'accept: */*' \
@@ -138,7 +141,7 @@ curl -X 'PUT' \
 
 Além de listar usuários, também é possível listar relatórios. Dessa forma é possível ter acesso a alguns metadados, como os IDs dos relatórios. Para isso, basta utilizar a rota GET /api/report.
 
-```
+```bash
 curl -X 'GET' \
   'https://api.powerembedded.com.br/api/report' \
   -H 'accept: application/json' \
@@ -147,7 +150,7 @@ curl -X 'GET' \
 
 Exemplo de resposta do servidor.
 
-```
+```json
 {
   "pageIndex": 1,
   "totalPages": 3,
@@ -172,7 +175,7 @@ Exemplo de resposta do servidor.
 
 Assim como no endpoint de usuários, também é possível filtrar o relatório através de parâmetros de consulta. No exemplo abaixo, utilizo os parâmetros "reportName" e "workspaceName".
 
-```
+```bash
 curl -X 'GET' \
   'https://api.powerembedded.com.br/api/report?reportName=Atendimento%20laboratorial&workspaceName=BI' \
   -H 'accept: application/json' \
@@ -181,7 +184,7 @@ curl -X 'GET' \
 
 Resposta do servidor.
 
-```
+```json
 {
   "pageIndex": 1,
   "totalPages": 1,
@@ -210,7 +213,7 @@ Resposta do servidor.
 
 Para listar todas as roles vinculadas aos seus datasets, basta utilizar a rota GET /api/datasets/rls.
 
-```
+```bash
 curl -X 'GET' \
   'https://api.powerembedded.com.br/api/datasets/rls' \
   -H 'accept: application/json' \
@@ -219,7 +222,7 @@ curl -X 'GET' \
 
 Resposta do servidor.
 
-```
+```json
 {
   "pageIndex": 1,
   "totalPages": 2,
@@ -248,7 +251,7 @@ Resposta do servidor.
 
 Também é possível o uso de parâmetros de consulta. No exemplo abaixo, informei o ID de um dataset no parâmetro "datasetId".
 
-```
+```bash
 curl -X 'GET' \
   'https://api.powerembedded.com.br/api/datasets/rls?datasetId=c07dce01-f9b3-4a5c-be5d-dae7dc39a4fe' \
   -H 'accept: application/json' \
@@ -257,7 +260,7 @@ curl -X 'GET' \
 
 Resposta do servidor.
 
-```
+```json
 {
   "pageIndex": 1,
   "totalPages": 1,
@@ -294,7 +297,7 @@ Para vincular uma função RLS a um usuário ou grupo, pode-se utilizar as rotas
 
 Abaixo um exemplo com PUT /api/datasets/rls/link-users.
 
-```
+```bash
 curl -X 'PUT' \
   'https://api.powerembedded.com.br/api/datasets/rls/link-users' \
   -H 'accept: */*' \
@@ -315,7 +318,7 @@ curl -X 'PUT' \
 
 Você também pode utilizar a rota GET /api/report-audit para acessar o log da auditoria de relatórios, consultando todos os acessos a relatórios realizados pelos usuários do Power Embedded.
 
-```
+```bash
 curl -X 'GET' \
   'https://api.powerembedded.com.br/api/report-audit' \
   -H 'accept: application/json' \
@@ -324,7 +327,7 @@ curl -X 'GET' \
 
 Resposta do servidor.
 
-```
+```json
 {
   "pageIndex": 1,
   "totalPages": 184,
