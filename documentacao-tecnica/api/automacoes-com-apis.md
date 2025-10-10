@@ -1,14 +1,18 @@
 # Automações com APIs
 
-### Como obter a Chave de API para autenticação das requisições?
+Como obter a Chave de API para autenticação das requisições?
 
 O primeiro passo é obter a chave da API no menu de Configurações do portal de administração.
 
 <figure><img src="../../.gitbook/assets/configuracoes_chave_api_geral.png" alt=""><figcaption></figcaption></figure>
 
+
+
 Também é possível gerar chaves de autenticação baseadas em permissões, com o administrador podendo gerar chaves que permitirão o acesso apenas a um subconjunto dos endpoints.
 
 <figure><img src="../../.gitbook/assets/configuracoes_chave_api_permissao.png" alt=""><figcaption></figcaption></figure>
+
+###
 
 ### Gerenciando usuários pela API
 
@@ -95,6 +99,8 @@ curl -X 'DELETE' \
   -H 'X-API-Key: HNhlHXAG1g21NyIsIkFwaUtleSI6Ik'
 ```
 
+###
+
 ### Controlando permissões em relatórios pela API
 
 Você também pode dar permissão de acesso a um ou mais relatórios para um usuário utilizando a rota POST /api/user/link-reports. Bastar passar os IDs dos relatórios no array "reports" e o e-mail do usuário em "userEmail".
@@ -129,6 +135,8 @@ curl -X 'PUT' \
   ]
 }'
 ```
+
+###
 
 ### Listando os relatórios existentes no Power Embedded
 
@@ -199,6 +207,8 @@ Resposta do servidor.
   ]
 }
 ```
+
+###
 
 ### Row-Level Security (RLS) utilizando a API
 
@@ -303,6 +313,8 @@ curl -X 'PUT' \
 }'
 ```
 
+###
+
 ### Consultando o log de acessos de relatórios do Power Embedded via API
 
 Você também pode utilizar a rota GET /api/report-audit para acessar o log da auditoria de relatórios, consultando todos os acessos a relatórios realizados pelos usuários do Power Embedded.
@@ -339,6 +351,8 @@ Resposta do servidor.
 ```
 
 Também é possível filtrar por parâmetros de consulta, como "userEmail", "reportName", "pageNumber", dentre outros.
+
+###
 
 ### **Como mostrar os relatórios do Power BI na sua aplicação**
 
