@@ -1,6 +1,8 @@
 # Automações com APIs
 
-Como obter a Chave de API para autenticação das requisições?                                                                         O primeiro passo é obter a chave da API no menu de Configurações do portal de administração.
+### Obtendo a chave de API&#x20;
+
+O primeiro passo é obter a chave da API no menu de Configurações do portal de administração.
 
 <figure><img src="../../.gitbook/assets/configuracoes_chave_api_geral.png" alt=""><figcaption></figcaption></figure>
 
