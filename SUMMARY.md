@@ -167,7 +167,7 @@
   * [Criar/editar usuário](portal-de-administracao/usuarios/criar-editar-usuario/README.md)
     * [Botão de Ações em usuários](portal-de-administracao/usuarios/criar-editar-usuario/botao-de-acoes-em-usuarios.md)
   * [Tipos de funções de usuário](portal-de-administracao/usuarios/tipos-de-funcoes-de-usuario.md)
-  * [Acesso de Usuário externo como Administrador ou Contribuidor no Power Embedded](portal-de-administracao/usuarios/acesso-de-usuario-externo-como-administrador-ou-contribuidor-no-power-embedded.md)
+  * [Usuário externo como Administrador ou Contribuidor no Power Embedded](portal-de-administracao/usuarios/usuario-externo-como-administrador-ou-contribuidor-no-power-embedded.md)
   * [Métodos de autenticação](portal-de-administracao/usuarios/metodos-de-autenticacao.md)
   * [Autenticação de 2 fatores](portal-de-administracao/usuarios/autenticacao-de-2-fatores.md)
   * [Importar arquivo CSV](portal-de-administracao/usuarios/importar-arquivo-csv.md)
