@@ -6,4 +6,4 @@ Etapa 1 - Convidar o Usuário Externo
 
 Antes de liberar o acesso, o usuário precisa ser convidado para o seu tenant (ou seja, para o ambiente da sua empresa).
 
-Siga as instruções para enviar o convite ao e-mail do usuário. [https://docs.powerembedded.com.br/portal-de-administracao/usuarios/convidar-usuario-externo-para-acessar-o-portal-de-administracao](https://docs.powerembedded.com.br/portal-de-administracao/usuarios/convidar-usuario-externo-para-acessar-o-portal-de-administracao)
+Siga as instruções para enviar o convite ao e-mail do usuário.&#x20;
