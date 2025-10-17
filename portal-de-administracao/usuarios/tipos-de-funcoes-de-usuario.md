@@ -6,7 +6,7 @@ Este artigo irá explicar as diferentes funções disponíveis no portal e as a�
 
 Para cadastrar um novo usuário, acessa a página de [Gerenciamento de Usuários](https://admin.powerembedded.com.br/Users).
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Toda configuração do portal, personalização das cores e imagens, acesso ao Firewall, controle de capacidades e alterações que afetam todo o sistema são realizadas exclusivamente por um usuário administrador.
@@ -16,7 +16,7 @@ Toda configuração do portal, personalização das cores e imagens, acesso ao F
 
 ### Ações permitidas de acordo com cada função de usuário
 
-<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 {% hint style="info" %}
 Os contribuidores de Workpace só conseguem criar usuários se um usuário administrador permitir, pois existe uma permissão exclusiva só para controlar isso. \

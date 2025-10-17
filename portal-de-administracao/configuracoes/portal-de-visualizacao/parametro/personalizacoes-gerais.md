@@ -50,7 +50,7 @@ Uma vez que o usuário tenha selecionado o tipo de visualização desejado, ao c
 
 No Power Embedded, é possível escolher o tipo de visualização das pastas no portal de relatórios.
 
-<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

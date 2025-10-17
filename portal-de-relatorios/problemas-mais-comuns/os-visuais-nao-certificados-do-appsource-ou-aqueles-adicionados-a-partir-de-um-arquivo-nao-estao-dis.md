@@ -1,6 +1,6 @@
 # Os visuais não certificados do AppSource ou aqueles adicionados a partir de um arquivo não estão dis
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Esse erro ocorre quando você tenta utilizar um visual não certificado no Power BI e o administrador configurou o serviço para permitir apenas o uso de visuais certificados. Essa configuração é aplicada diretamente no portal de administração do Power BI Serviço.
 
@@ -19,7 +19,7 @@ No portal de administração, em configurações de locatário vá a barra de pe
 
 Ao fazer essa busca, você vai ver o menu "Visuais do Power Bi" vá até a opção **"Adicionar e usar somente visuais certificados (bloquear os não certificados)".**
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Desabilite essa configuração, e clique em **aplicar.**
 
