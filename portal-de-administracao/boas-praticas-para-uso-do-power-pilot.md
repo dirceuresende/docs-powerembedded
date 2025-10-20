@@ -1,10 +1,3 @@
----
-description: >-
-  Aqui consta algumas dicas para o melhor uso do Power Pilot no seu conjunto de
-  dados. Trazendo mais assertividade e fluidez nas respostas do nosso Agente de
-  IA.
----
-
 # Boas práticas para Uso do Power Pilot
 
 ## Modelagem:
