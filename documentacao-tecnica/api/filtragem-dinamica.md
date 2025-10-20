@@ -4,9 +4,7 @@ Quando você está utilizando o recurso de [mostrar os relatórios do Power BI n
 
 Esse recurso se chama filtragem dinâmica e está disponível no Power Embedded.
 
-
-
-### 1. Como configurar a filtragem dinâmica
+### Como configurar a filtragem dinâmica
 
 Para configurar a filtragem dinâmica, acesse a página de [Conjuntos de dados](https://admin.powerembedded.com.br/Datasets).
 
@@ -40,11 +38,11 @@ Na tela de filtragem dinâmica, você precisará configurar 3 parâmetros:
 
 
 
-### 2. Como utilizar a filtragem dinâmica
+### Como utilizar a filtragem dinâmica
 
 Para utilizar a filtragem dinâmica, você irá utilizar o parâmetro **customFilters** no JSON da chamada da API.
 
-Exemplo de requisição JSON com CustomFilters e 2 parâmetros:
+Exemplo de requisição JSON com CustomFilters e dois parâmetros:
 
 ```json
 {
@@ -82,7 +80,7 @@ Ao abrir o relatório, podemos observar que os dados foram filtrados corretament
 
 
 
-### 3. Observações sobre a filtragem dinâmica
+### Observações sobre a filtragem dinâmica
 
 * As colunas que serão filtradas, obrigatoriamente devem estar listadas na barra de Filtros do relatório.
 * O nome da tabela e da coluna é case sensitive, ou seja, tem diferença entre maiúsculo e minúsculo. O nome deve ser exatamente igual ao que está no modelo.

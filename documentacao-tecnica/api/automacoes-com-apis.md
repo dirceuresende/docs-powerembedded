@@ -36,8 +36,8 @@ Exemplo de resposta do servidor, onde a propriedade "reports" tem associado um a
   "data": [
     {
       "id": "dd668e6d-4f83-4715-a155-b55213677dd8",
-      "email": "tyrion.lannister@casterlyrock.com",
-      "name": "Tyrion Lannister",
+      "email": "usuario@empresa.com",
+      "name": "Usuário Xpto",
       "role": 3,
       "reports": [
         "c3aa3e62-7c43-4c0f-ab1d-3f9e0fbbad0e",
@@ -68,7 +68,7 @@ Para filtrar a lista de usuários por nome e e-mail, basta utilizar os parâmetr
 
 ```bash
 curl -X 'GET' \
-  'https://api.powerembedded.com.br/api/user?name=Jo%C3%A3o%20Macedo&email=joao.macedo%40powertuning.com.br' \
+  'https://api.powerembedded.com.br/api/user?name=Usuario%20Xpto&email=usuario%40empresa.com' \
   -H 'accept: application/json' \
   -H 'X-API-Key: HNhlHXAG1g21NyIsIkFwaUtleSI6Ik'
 ```
@@ -87,8 +87,8 @@ curl -X 'POST' \
   -H 'X-API-Key: HNhlHXAG1g21NyIsIkFwaUtleSI6Ik' \
   -H 'Content-Type: application/json' \
   -d '{
-  "email": "joao.macedo@powertuning.com.br",
-  "name": "João Macedo",
+  "email": "usuario@empresa.com",
+  "name": "Usuário Xpto",
   "role": 1
 }'
 ```
@@ -97,7 +97,7 @@ Para apagar um usuário do sistema, utilize a rota DELETE /api/user/{userEmail},
 
 ```bash
 curl -X 'DELETE' \
-  'https://api.powerembedded.com.br/api/user/joao.macedo%40powertuning.com.br' \
+  'https://api.powerembedded.com.br/api/user/usuario%40empresa.com' \
   -H 'accept: */*' \
   -H 'X-API-Key: HNhlHXAG1g21NyIsIkFwaUtleSI6Ik'
 ```
@@ -113,7 +113,7 @@ curl -X 'PUT' \
   -H 'X-API-Key: HNhlHXAG1g21NyIsIkFwaUtleSI6Ik' \
   -H 'Content-Type: application/json' \
   -d '{
-  "userEmail": "joao.macedo@powertuning.com.br",
+  "userEmail": "usuario@empresa.com",
   "reports": [
     "3fa85f64-5717-4562-b3fc-2c963f66afa6",
     "2fa8bf64-3615-5162-b3fb-1c963f66afa5"
@@ -130,7 +130,7 @@ curl -X 'PUT' \
   -H 'X-API-Key: HNhlHXAG1g21NyIsIkFwaUtleSI6Ik' \
   -H 'Content-Type: application/json' \
   -d '{
-  "userEmail": "joao.macedo@powertuning.com.br",
+  "userEmail": "usuario@empresa.com",
   "reports": [
     "3fa85f64-5717-4562-b3fc-2c963f66afa6"
   ]
@@ -287,8 +287,8 @@ Resposta do servidor.
       "groups": [],
       "datasetId": "c07dce01-f9b3-4a5c-be5d-dae7dc39a4fe",
       "userEmails": [
-        "joao.macedo@powertuning.com.br",
-        "charlison.oliveira@azurebrasil.cloud"
+        "usuario@empresa.com",
+        "outro@empresa.com"
       ]
     }
   ]
@@ -307,7 +307,7 @@ curl -X 'PUT' \
   -H 'Content-Type: application/json' \
   -d '{
   "usersEmails": [
-    "joao.macedo@powertuning.com.br"
+    "usuario@empresa.com"
   ],
   "datasetId": "3fa85f64-5717-4562-b3fc-2c963f66afa6",
   "role": "Admin"
