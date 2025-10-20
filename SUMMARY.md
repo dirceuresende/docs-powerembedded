@@ -216,6 +216,7 @@
   * [IA no WhatsApp](portal-de-administracao/power-pilot-ia/ia-no-whatsapp.md)
   * [Dúvidas Power Pilot](portal-de-administracao/power-pilot-ia/duvidas-power-pilot.md)
   * [Controle de gastos com Power Pilot: limite de uso mensal em dólar (USD)](portal-de-administracao/power-pilot-ia/controle-de-gastos-com-power-pilot-limite-de-uso-mensal-em-dolar-usd.md)
+* [Boas práticas para Uso do Power Pilot](portal-de-administracao/boas-praticas-para-uso-do-power-pilot.md)
 * [Firewall](portal-de-administracao/firewall/README.md)
   * [Tentativas de logins bloqueadas](portal-de-administracao/firewall/tentativas-de-logins-bloqueadas.md)
   * [Desconsiderar regras de firewall](portal-de-administracao/firewall/desconsiderar-regras-de-firewall.md)
